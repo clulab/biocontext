@@ -1,0 +1,46 @@
+{
+    "experiment_name": "dev",
+    "data_dir": "/work/plovett/ASKEE/BioContext_corpus_private/data/papers/event_spans_Reach2016/",
+    "log_dir": "lightning_logs",
+    "hf_model_name": "allenai/biomed_roberta_base",
+    "early_stopping": {
+        "metric": "validation_f1",
+        "min_delta": 0.001,
+        "patience": 3,
+        "mode": "max"
+    },
+    "checkpoints": {
+        "metric": "validation_f1",
+        "save_dir": "./",
+        "mode": "max"
+    },
+    "run_config": {
+        "test_type": "validation",
+        "test_paper_index": 0,
+        "validation_paper_count": 5,
+        "seed": 123,
+        "debug_run": true,
+        "pretrained_transformer": "saved/step-checkpoint_epoch-2_step-40000.roberta"
+    },
+    "hyperparams": {
+        "hidden_layer_width": 100,
+        "learning_rate": 3e-5,
+        "negative_sample_weight": 0.5
+    },
+    "arch": {
+        "order_linear_proj_enabled": false,
+        "add_span_tokens": true,
+        "use_span_not_cls": true,
+        "ensemble": {
+            "enabled": true,
+            "type": "vote"
+        }
+    },
+    "max_epochs": 20,
+    "batch_size": 1,
+    "batch_accumulation_num": 1,
+    "train_thread_count": 0,
+    "eval_thread_count": 0,
+    "float_precision": 32,
+    "progress_bar": true
+}

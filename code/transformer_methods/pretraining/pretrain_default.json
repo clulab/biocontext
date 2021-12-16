@@ -1,0 +1,37 @@
+{
+    "experiment_name": "dev",
+    "data_dir": "/work/plovett/ASKEE/SemiSupDataProcessing/test_output/",
+    "log_dir": "lightning_logs",
+    "hf_model_name": "allenai/biomed_roberta_base",
+    "early_stopping": {
+        "metric": "validation_loss",
+        "min_delta": 0.001,
+        "patience": 3,
+        "mode": "min"
+    },
+    "checkpoints": {
+        "metric": "validation_loss",
+        "save_dir": "./",
+        "mode": "min"
+    },
+    "run_config": {
+        "test_type": "validation",
+       "test_percentage": 0.1,
+        "validation_percentage": 0.2,
+        "seed": 123,
+        "debug_run": false
+    },
+    "hyperparams": {
+        "hidden_layer_width": 100,
+        "learning_rate": 3e-5,
+        "alpha": 0.5
+    },
+    "arch": {},
+    "max_epochs": 20,
+    "batch_size": 1,
+    "batch_accumulation_num": 1,
+    "train_thread_count": 0,
+    "eval_thread_count": 0,
+    "float_precision": 32,
+    "progress_bar": true
+}

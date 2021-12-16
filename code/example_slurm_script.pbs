@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH --partition=standard
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=20
+#SBATCH --gres=gpu:1
+#SBATCH --mem=45gb
+#SBATCH --job-name=fine_tune_0_0
+#SBATCH --account=msurdeanu
+#SBATCH --time=3:30:00
+#SBATCH --error // full path for an error file /home/example.err
+#SBATCH --output // full path for a log file /home/example.log
+#PBS -M // An email address
+#SBATCH --mail-type=ALL
+source /home/u19/plovett/.bashrc
+conda activate bio
+cd // Jump to directory containing transfomer_methods dir
+python3 transformer_methods/train.py --config // path to config --gpu 0

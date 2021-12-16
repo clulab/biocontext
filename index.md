@@ -10,16 +10,16 @@ The dataset used for this project is an extension of the dataset published by [N
 
 We extend this corpus with full text tokenized aligned to the original annotations to be make it compatible with neural network encoder architectures.
 
-The data files can be downlodaded (here)[https://ml4ai.github.io/BioContext/] and the parsing code is locatede (here)[https://ml4ai.github.io/BioContext/]
+The data files can be downlodaded [here](https://github.com/clulab/neuralbiocontext/tree/gh-pages/corpus) and the parsing code is locatede [here](https://github.com/clulab/neuralbiocontext/tree/gh-pages/code)
 
 ### Code
 
-The implementation of the neural architectures to detect biocontext can be found [here](https://github.com/enoriega/NeuralInterSentenceBioRelationExtraction/).
+The implementation of the neural architectures to detect biocontext can be found [here](https://github.com/clulab/neuralbiocontext/tree/gh-pages/code).
 
 ### Citing
 
 To cite this work, plese use the following bibtex
 
 ```
-bibtex
+bibtex place holder
 ```

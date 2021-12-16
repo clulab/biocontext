@@ -1,0 +1,96 @@
+0 15%16%Immune_System%uberon:UBERON:0002405
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 7%9%endoplasmic_reticulum_membrane%go:GO:0005789
+9 
+10 
+11 
+12 18%18%nucleus%go:GO:0005634
+13 
+14 6%6%mouse%taxonomy:10090 8%8%human%taxonomy:9606 16%16%human%taxonomy:9606
+15 
+16 
+17 
+18 
+19 
+20 21%21%human%taxonomy:9606
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 22%22%helix%uberon:UBERON:0002488
+29 1%1%helix%uberon:UBERON:0002488
+30 
+31 2%2%helix%uberon:UBERON:0002488 11%11%helix%uberon:UBERON:0002488
+32 
+33 
+34 
+35 
+36 10%10%backbone%uberon:UBERON:0001130
+37 
+38 
+39 
+40 
+41 
+42 
+43 9%9%backbone%uberon:UBERON:0001130
+44 
+45 
+46 
+47 
+48 
+49 21%21%helix%uberon:UBERON:0002488
+50 
+51 5%5%helix%uberon:UBERON:0002488 21%21%helix%uberon:UBERON:0002488
+52 
+53 21%21%helix%uberon:UBERON:0002488
+54 
+55 2%2%mouse%taxonomy:10090 15%15%human%taxonomy:9606 28%28%mouse%taxonomy:10090
+56 
+57 10%10%mouse%taxonomy:10090
+58 
+59 
+60 
+61 
+62 
+63 15%15%human%taxonomy:9606
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 1%1%human%taxonomy:9606 11%11%HEK293T%cellosaurus:CVCL_0063 23%23%mouse%taxonomy:10090
+72 2%2%mouse%taxonomy:10090 8%8%human%taxonomy:9606
+73 
+74 
+75 
+76 10%10%mouse%taxonomy:10090
+77 
+78 
+79 
+80 
+81 
+82 14%14%human%taxonomy:9606 24%24%human%taxonomy:9606
+83 6%6%mouse%taxonomy:10090
+84 
+85 
+86 
+87 
+88 
+89 7%7%membrane%go:GO:0016020
+90 
+91 
+92 
+93 
+94 
+95 

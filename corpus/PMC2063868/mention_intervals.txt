@@ -1,0 +1,278 @@
+0 
+1 2%3%cell_surface%go:GO:0009986
+2 45%45%Ishikawa%cellosaurus:CVCL_2529
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 15%15%axon%go:GO:0030424 20%21%nervous_system%tissuelist:TS-1313
+12 
+13 
+14 10%10%vasculature%uberon:UBERON:0002049 18%19%endothelial_cells%tissuelist:TS-0278
+15 
+16 10%11%dendritic_cells%uaz:CL:0000451
+17 
+18 
+19 11%12%actin_cytoskeleton%go:GO:0015629
+20 
+21 31%32%hippocampal_neurons%uaz:CL:0002608
+22 8%9%growth_cone%go:GO:0030426 30%31%growth_cone%go:GO:0030426
+23 7%8%cell_surface%go:GO:0009986
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 11%11%PC12%cellosaurus:CVCL_S979
+35 14%14%PC12%cellosaurus:CVCL_S979
+36 3%3%PC12%cellosaurus:CVCL_S979
+37 17%17%PC12%cellosaurus:CVCL_S979
+38 
+39 
+40 
+41 6%6%PC12%cellosaurus:CVCL_S979
+42 0%0%PC12%cellosaurus:CVCL_S979
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 0%0%PC12%cellosaurus:CVCL_S979
+64 
+65 
+66 
+67 
+68 11%11%tail%tissuelist:TS-1006
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 
+103 
+104 
+105 
+106 
+107 
+108 
+109 
+110 
+111 
+112 
+113 21%21%PC12%cellosaurus:CVCL_S979
+114 
+115 
+116 
+117 4%4%PC12%cellosaurus:CVCL_S979
+118 10%10%PC12%cellosaurus:CVCL_S979
+119 14%14%PC12%cellosaurus:CVCL_S979 52%52%PC12%cellosaurus:CVCL_S979
+120 
+121 
+122 
+123 
+124 
+125 
+126 
+127 
+128 
+129 
+130 
+131 
+132 
+133 
+134 
+135 
+136 
+137 
+138 
+139 
+140 
+141 9%9%PC12%cellosaurus:CVCL_S979
+142 
+143 
+144 
+145 
+146 
+147 
+148 
+149 
+150 
+151 
+152 
+153 12%12%tail%tissuelist:TS-1006 34%36%neuronal_growth_cone%uaz:UA-ORG-623
+154 
+155 
+156 17%18%endothelial_cells%tissuelist:TS-0278 31%31%mice%taxonomy:10090 37%38%neural_crest%tissuelist:TS-0676
+157 
+158 
+159 23%24%hippocampal_neurons%uaz:CL:0002608
+160 
+161 8%8%axon%go:GO:0030424 13%13%neurons%uaz:CL:0000540 21%22%cell_surface%go:GO:0009986
+162 16%17%retinal_neurons%uberon:UBERON:0001781
+163 24%25%growth_cone%go:GO:0030426
+164 
+165 
+166 
+167 
+168 21%21%tail%tissuelist:TS-1006
+169 21%22%extracellular_matrix%go:GO:0031012
+170 
+171 
+172 32%33%mast_cells%uaz:CL:0000097
+173 19%19%CHO%tissuelist:TS-0725
+174 
+175 
+176 
+177 9%10%endothelial_cells%tissuelist:TS-0278
+178 
+179 29%30%neural_cell%tissuelist:TS-0683
+180 
+181 
+182 
+183 8%8%human%taxonomy:9606
+184 
+185 
+186 
+187 
+188 
+189 7%7%human%taxonomy:9606
+190 6%6%mouse%taxonomy:10090 15%15%rabbit%taxonomy:9986 25%25%mouse%taxonomy:10090 38%38%BD%cellosaurus:CVCL_F568 54%54%rabbit%taxonomy:9986
+191 68%68%mouse%taxonomy:10090 84%84%human%taxonomy:9606
+192 
+193 
+194 
+195 15%15%membrane%go:GO:0016020
+196 1%1%membrane%go:GO:0016020 8%8%milk%tissuelist:TS-0636
+197 
+198 9%9%Fuji%cellosaurus:CVCL_D880 18%18%Fuji%cellosaurus:CVCL_D880
+199 
+200 
+201 
+202 
+203 
+204 
+205 
+206 
+207 0%0%PC12%cellosaurus:CVCL_S979 10%10%horse%taxonomy:9796 11%11%serum%tissuelist:TS-0923
+208 
+209 16%16%human%taxonomy:9606
+210 
+211 
+212 34%34%pore%uberon:UBERON:0008915
+213 
+214 
+215 
+216 
+217 
+218 
+219 
+220 
+221 
+222 
+223 
+224 
+225 
+226 
+227 9%9%PC12%cellosaurus:CVCL_S979
+228 
+229 
+230 
+231 
+232 
+233 
+234 
+235 
+236 
+237 
+238 
+239 
+240 
+241 
+242 
+243 
+244 2%3%cell_surface%go:GO:0009986
+245 2%2%PC12%cellosaurus:CVCL_S979
+246 
+247 22%22%sheep%taxonomy:9940 23%23%serum%tissuelist:TS-0923
+248 
+249 
+250 
+251 
+252 
+253 
+254 
+255 
+256 
+257 
+258 
+259 
+260 14%14%PC12%cellosaurus:CVCL_S979
+261 
+262 
+263 
+264 
+265 
+266 
+267 
+268 
+269 
+270 
+271 
+272 
+273 11%11%PC12%cellosaurus:CVCL_S979 22%22%PC12%cellosaurus:CVCL_S979
+274 
+275 
+276 
+277 

@@ -1,0 +1,198 @@
+0 
+1 
+2 9%9%tissue%uberon:UBERON:0000479
+3 
+4 4%4%human%taxonomy:9606
+5 
+6 
+7 
+8 9%9%human%taxonomy:9606
+9 34%34%tissue%uberon:UBERON:0000479
+10 
+11 
+12 12%13%endothelial_cell%tissuelist:TS-0278
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 10%10%telomeres%uniprot:SL-0276
+22 
+23 
+24 
+25 
+26 6%6%human%taxonomy:9606 8%8%fibroblasts%tissuelist:TS-0362
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 0%0%Human%taxonomy:9606 1%2%WI-38_fibroblasts%uaz:UA-CLine-888
+36 
+37 
+38 
+39 
+40 
+41 1%1%fibroblasts%tissuelist:TS-0362 13%13%telomeres%uniprot:SL-0276
+42 
+43 
+44 0%0%IMR-90%cellosaurus:CVCL_0347 1%1%human%taxonomy:9606 2%2%fibroblasts%tissuelist:TS-0362
+45 
+46 5%5%telomeres%uniprot:SL-0276
+47 
+48 0%0%IMR90%cellosaurus:CVCL_0347 1%1%fibroblasts%tissuelist:TS-0362
+49 
+50 
+51 
+52 
+53 
+54 4%4%telomere%uniprot:SL-0276
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 18%18%telomeres%uniprot:SL-0276
+71 
+72 
+73 
+74 
+75 
+76 5%6%WI-38_fibroblasts%uaz:UA-CLine-888
+77 
+78 4%4%fibroblasts%tissuelist:TS-0362
+79 
+80 20%20%fibroblasts%tissuelist:TS-0362 25%25%patient%taxonomy:9606
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 3%3%human%taxonomy:9606 4%5%breast_cancer%tissuelist:TS-0591 15%16%basement_membrane%go:GO:0005604
+97 
+98 
+99 14%14%human%taxonomy:9606 15%15%breast%tissuelist:TS-0595 17%17%lung%tissuelist:TS-0568 19%19%skin%tissuelist:TS-0934 21%21%bladder%tissuelist:TS-1090 23%23%colon%tissuelist:TS-0158
+100 10%10%fibroblasts%tissuelist:TS-0362
+101 
+102 26%26%human%taxonomy:9606 27%28%breast_cancer%tissuelist:TS-0591
+103 19%19%human%taxonomy:9606 20%20%breast%tissuelist:TS-0595 21%21%tissue%uberon:UBERON:0000479
+104 
+105 35%35%human%taxonomy:9606 36%36%colon%tissuelist:TS-0158
+106 
+107 
+108 8%8%fibroblasts%tissuelist:TS-0362
+109 
+110 
+111 
+112 
+113 
+114 
+115 
+116 26%26%nucleus%go:GO:0005634
+117 8%8%telomeres%uniprot:SL-0276
+118 
+119 
+120 
+121 
+122 
+123 
+124 
+125 
+126 
+127 10%10%tissue%uberon:UBERON:0000479 15%16%stem_cell%uaz:CL:0000034
+128 
+129 
+130 
+131 
+132 
+133 
+134 42%43%immune_system%uberon:UBERON:0002405
+135 22%23%immune_cells%uaz:CL:0000738 31%31%liver%tissuelist:TS-0564 41%42%immune_system%uberon:UBERON:0002405
+136 
+137 
+138 28%28%tissue%uberon:UBERON:0000479
+139 
+140 
+141 1%2%foreskin_fibroblasts%uaz:CL:1001608 7%7%Smith%cellosaurus:CVCL_W397 38%38%serum%tissuelist:TS-0923
+142 
+143 
+144 3%3%AT2SF%cellosaurus:CVCL_V575 9%9%GM09812%cellosaurus:CVCL_6G79 11%11%fibroblasts%tissuelist:TS-0362
+145 
+146 
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+155 
+156 
+157 
+158 16%16%donkey%taxonomy:9793 17%17%serum%tissuelist:TS-0923
+159 
+160 
+161 
+162 2%2%tissue%uberon:UBERON:0000479
+163 0%0%Tissue%uberon:UBERON:0000479
+164 
+165 
+166 
+167 28%28%BD%cellosaurus:CVCL_F568 43%43%BD%cellosaurus:CVCL_F568
+168 0%0%Donkey%taxonomy:9793
+169 
+170 
+171 
+172 
+173 
+174 
+175 
+176 
+177 
+178 12%12%pore%uberon:UBERON:0008915 19%19%BD%cellosaurus:CVCL_F568
+179 9%10%basement_membrane%go:GO:0005604 15%15%BD%cellosaurus:CVCL_F568
+180 0%1%Epithelial_cells%uaz:CL:0000066
+181 4%5%epithelial_cells%uaz:CL:0000066
+182 
+183 
+184 
+185 6%6%pore%uberon:UBERON:0008915 23%23%Human%taxonomy:9606
+186 
+187 
+188 
+189 
+190 6%6%membranes%go:GO:0016020 17%17%milk%tissuelist:TS-0636
+191 
+192 
+193 
+194 
+195 
+196 
+197 

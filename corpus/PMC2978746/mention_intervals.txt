@@ -1,0 +1,243 @@
+0 6%8%mammary_epithelial_cells%uaz:CL:0002327
+1 7%7%MCF10A%cellosaurus:CVCL_0598 12%14%mammary_epithelial_cell%tissuelist:TS-0593
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 11%11%mouse%taxonomy:10090 12%13%embryonic_fibroblasts%uaz:CL:2000042 15%15%MEFs%uaz:CVCL_9115
+10 
+11 12%12%fibroblasts%tissuelist:TS-0362
+12 
+13 
+14 
+15 
+16 10%10%breast%tissuelist:TS-0595
+17 16%16%MCF10A%cellosaurus:CVCL_0598 17%17%human%taxonomy:9606 18%20%mammary_epithelial_cell%tissuelist:TS-0593
+18 
+19 
+20 
+21 
+22 
+23 
+24 1%1%humans%taxonomy:9606
+25 
+26 
+27 
+28 
+29 3%3%mouse%taxonomy:10090 14%15%mammary_gland%tissuelist:TS-0595
+30 1%1%mice%taxonomy:10090
+31 
+32 
+33 
+34 
+35 
+36 15%16%myeloid_cells%uaz:CL:0000763
+37 
+38 
+39 5%5%MECs%uaz:CVCL_1870
+40 5%5%human%taxonomy:9606 6%6%breast%tissuelist:TS-0595
+41 
+42 4%5%breast_cancer%tissuelist:TS-0591
+43 
+44 36%37%breast_cancer%tissuelist:TS-0591
+45 10%10%MCF10A%cellosaurus:CVCL_0598 11%11%MECs%uaz:CVCL_1870
+46 14%14%MECs%uaz:CVCL_1870 24%24%MECs%uaz:CVCL_1870
+47 
+48 
+49 4%5%transgenic_mice%taxonomy:10090 13%13%skin%tissuelist:TS-0934 17%17%mice%taxonomy:10090
+50 
+51 
+52 
+53 
+54 21%21%humans%taxonomy:9606 29%29%mouse%taxonomy:10090
+55 
+56 22%22%serum%tissuelist:TS-0923
+57 
+58 10%10%MCF10A%cellosaurus:CVCL_0598
+59 16%16%MCF10As%uaz:CVCL_0598
+60 
+61 
+62 
+63 13%13%MCF10As%uaz:CVCL_0598
+64 
+65 20%20%human%taxonomy:9606 22%22%fibroblasts%tissuelist:TS-0362 24%24%HDFs%uaz:UA-CLine-100087 27%27%WI-38%cellosaurus:CVCL_0579
+66 
+67 15%15%MCF10As%uaz:CVCL_0598 28%28%WI-38%cellosaurus:CVCL_0579
+68 
+69 
+70 13%13%MCF10As%uaz:CVCL_0598
+71 15%15%MCF10As%uaz:CVCL_0598
+72 7%7%MCF10As%uaz:CVCL_0598
+73 
+74 10%10%MCF10As%uaz:CVCL_0598
+75 
+76 12%12%MCF10A%cellosaurus:CVCL_0598
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 1%2%breast_cancer%tissuelist:TS-0591
+91 8%9%breast_cancer%tissuelist:TS-0591 12%12%MDA231%cellosaurus:CVCL_0062 14%14%MDA435%cellosaurus:CVCL_0417
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 8%8%MDA231%cellosaurus:CVCL_0062
+103 
+104 11%11%retrovirus%taxonomy:31931
+105 
+106 
+107 
+108 13%13%MCF10A%cellosaurus:CVCL_0598
+109 
+110 
+111 11%13%WI-38_normal_HDFs%uaz:UA-CLine-100087
+112 24%24%MEFs%uaz:CVCL_9115 26%26%HDFs%uaz:UA-CLine-100087
+113 
+114 
+115 26%26%HDFs%uaz:UA-CLine-100087
+116 
+117 18%18%WI-38%cellosaurus:CVCL_0579
+118 3%3%WI-38%cellosaurus:CVCL_0579
+119 16%16%fibroblasts%tissuelist:TS-0362
+120 8%8%WI-38%cellosaurus:CVCL_0579 11%11%WI-38%cellosaurus:CVCL_0579
+121 28%28%WI-38%cellosaurus:CVCL_0579
+122 15%15%WI-38%cellosaurus:CVCL_0579 20%20%WI-38%cellosaurus:CVCL_0579
+123 27%27%WI-38%cellosaurus:CVCL_0579
+124 4%5%WI-38_fibroblasts%uaz:UA-CLine-888
+125 10%10%HDFs%uaz:UA-CLine-100087
+126 
+127 
+128 7%7%WI-38%cellosaurus:CVCL_0579
+129 
+130 
+131 
+132 12%12%WI-38%cellosaurus:CVCL_0579 13%13%HDFs%uaz:UA-CLine-100087
+133 
+134 0%0%WI-38%cellosaurus:CVCL_0579
+135 
+136 
+137 18%18%WI-38%cellosaurus:CVCL_0579
+138 
+139 
+140 
+141 
+142 0%0%WI-38%cellosaurus:CVCL_0579
+143 8%8%WI-38%cellosaurus:CVCL_0579
+144 
+145 8%8%MCF10As%uaz:CVCL_0598
+146 10%10%MCF10As%uaz:CVCL_0598
+147 10%10%MCF10A%cellosaurus:CVCL_0598
+148 
+149 14%15%epithelial_tissue%uberon:UBERON:0000483 19%19%MECs%uaz:CVCL_1870 24%25%breast_cancer%tissuelist:TS-0591
+150 7%7%breast%tissuelist:TS-0595
+151 7%8%breast_cancer%tissuelist:TS-0591 11%11%MDA231%cellosaurus:CVCL_0062 13%13%MDA435%cellosaurus:CVCL_0417
+152 
+153 10%11%breast_cancer%tissuelist:TS-0591
+154 
+155 
+156 
+157 
+158 
+159 
+160 
+161 
+162 8%8%MECs%uaz:CVCL_1870
+163 
+164 
+165 
+166 1%1%fibroblasts%tissuelist:TS-0362 5%5%WI-38%cellosaurus:CVCL_0579 6%6%HDFs%uaz:UA-CLine-100087
+167 13%13%MEFs%uaz:CVCL_9115
+168 16%16%HDFs%uaz:UA-CLine-100087
+169 
+170 
+171 
+172 
+173 
+174 13%14%WI-38_fibroblasts%uaz:UA-CLine-888
+175 
+176 7%8%WI-38_fibroblasts%uaz:UA-CLine-888
+177 6%6%WI-38%cellosaurus:CVCL_0579
+178 
+179 
+180 
+181 
+182 
+183 
+184 19%19%MCF10As%uaz:CVCL_0598
+185 8%9%breast_cancer%tissuelist:TS-0591
+186 
+187 
+188 
+189 
+190 8%8%HDFs%uaz:UA-CLine-100087
+191 
+192 
+193 12%12%MCF10A%cellosaurus:CVCL_0598
+194 6%6%MCF10As%uaz:CVCL_0598
+195 
+196 
+197 13%13%macrophages%uaz:CL:0000235 18%18%mouse%taxonomy:10090
+198 7%7%mice%taxonomy:10090
+199 
+200 1%1%macrophages%uaz:CL:0000235 4%4%mice%taxonomy:10090 35%35%HDFs%uaz:UA-CLine-100087
+201 
+202 
+203 
+204 
+205 
+206 
+207 
+208 
+209 2%2%MCF10A%cellosaurus:CVCL_0598 4%4%MDA231%cellosaurus:CVCL_0062 7%7%MDA435%cellosaurus:CVCL_0417
+210 1%1%WI-38%cellosaurus:CVCL_0579 30%30%serum%tissuelist:TS-0923 48%48%Life%uberon:UBERON:0000104
+211 
+212 
+213 
+214 
+215 
+216 
+217 
+218 
+219 
+220 
+221 
+222 
+223 
+224 
+225 
+226 
+227 
+228 
+229 
+230 
+231 
+232 
+233 
+234 
+235 
+236 
+237 
+238 
+239 
+240 
+241 
+242 

@@ -1,0 +1,183 @@
+0 
+1 
+2 24%24%melanoma%tissuelist:TS-0614
+3 
+4 
+5 
+6 
+7 
+8 13%14%cultured_cell%uaz:CL:0000010 20%20%melanoma%tissuelist:TS-0614 23%23%tissue%uberon:UBERON:0000479
+9 
+10 
+11 28%28%Center%cellosaurus:CVCL_E031 42%42%A375%cellosaurus:CVCL_0132 47%48%malignant_melanoma%tissuelist:TS-0614
+12 
+13 
+14 
+15 12%12%scale%tissuelist:TS-0895 19%19%A375%cellosaurus:CVCL_0132 21%21%SKMEL28%cellosaurus:CVCL_0526
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 1%1%A375%cellosaurus:CVCL_0132
+25 
+26 
+27 
+28 15%15%A375%cellosaurus:CVCL_0132
+29 
+30 7%7%melanoma%tissuelist:TS-0614 15%15%human%taxonomy:9606 16%16%melanocytes%uaz:CL:0000148
+31 5%5%melanocytes%uaz:CL:0000148
+32 11%11%A375%cellosaurus:CVCL_0132
+33 6%6%A375%cellosaurus:CVCL_0132
+34 
+35 
+36 
+37 
+38 
+39 8%8%OUMS-23%cellosaurus:CVCL_3088 10%11%colon_cancer%tissuelist:TS-0160 14%14%RPMI-7951%cellosaurus:CVCL_1666 16%16%melanoma%tissuelist:TS-0614
+40 6%6%melanoma%tissuelist:TS-0614
+41 8%8%M307%uaz:UA-CLine-100096
+42 
+43 0%0%OUMS-23%cellosaurus:CVCL_3088 2%2%RPMI-7951%cellosaurus:CVCL_1666
+44 29%29%melanoma%tissuelist:TS-0614
+45 
+46 
+47 20%20%Patient%taxonomy:9606
+48 5%6%malignant_melanoma%tissuelist:TS-0614
+49 21%21%skin%tissuelist:TS-0934
+50 
+51 
+52 29%29%RPMI-7951%cellosaurus:CVCL_1666
+53 4%4%RPMI-7951%cellosaurus:CVCL_1666
+54 2%2%RPMI-7951%cellosaurus:CVCL_1666
+55 
+56 5%5%OUMS-23%cellosaurus:CVCL_3088 7%7%RPMI-7951%cellosaurus:CVCL_1666
+57 
+58 4%4%A375%cellosaurus:CVCL_0132 6%6%SKMEL28%cellosaurus:CVCL_0526
+59 19%19%A375%cellosaurus:CVCL_0132
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 16%17%malignant_melanoma%tissuelist:TS-0614 19%19%colon%tissuelist:TS-0158 21%21%thyroid%tissuelist:TS-1047
+68 11%11%patient%taxonomy:9606
+69 
+70 
+71 11%11%scale%tissuelist:TS-0895
+72 
+73 
+74 
+75 14%14%A375%cellosaurus:CVCL_0132 16%16%SKMEL28%cellosaurus:CVCL_0526
+76 
+77 
+78 
+79 
+80 
+81 0%0%Center%cellosaurus:CVCL_E031
+82 
+83 
+84 
+85 
+86 30%30%human%taxonomy:9606 31%31%tissue%uberon:UBERON:0000479
+87 11%11%backbone%uberon:UBERON:0001130
+88 
+89 
+90 0%0%A375%cellosaurus:CVCL_0132 1%1%melanoma%tissuelist:TS-0614
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 
+103 
+104 
+105 
+106 
+107 
+108 4%4%293T%cellosaurus:CVCL_0063
+109 
+110 
+111 1%1%retrovirus%taxonomy:31931 4%4%293T%cellosaurus:CVCL_0063
+112 4%4%retrovirus%taxonomy:31931
+113 
+114 
+115 0%0%A375%cellosaurus:CVCL_0132 8%8%SKMEL28%cellosaurus:CVCL_0526
+116 
+117 
+118 0%0%A375%cellosaurus:CVCL_0132 2%2%SKMEL28%cellosaurus:CVCL_0526 6%6%COLO-679%cellosaurus:CVCL_1130 8%8%WM451lu%cellosaurus:CVCL_6357 10%10%SKMEL5%cellosaurus:CVCL_0527 12%13%Malme_3M%cellosaurus:CVCL_1438 23%23%WM3130%cellosaurus:CVCL_C271 25%25%WM3629%cellosaurus:CVCL_C275 29%29%WM3682%cellosaurus:CVCL_AP78 31%31%WM3702%cellosaurus:CVCL_0B77
+119 0%0%M307%uaz:UA-CLine-100096
+120 0%0%293T%cellosaurus:CVCL_0063 2%2%OUMS-23%cellosaurus:CVCL_3088
+121 0%0%RPMI-7951%cellosaurus:CVCL_1666
+122 2%2%melanocytes%uaz:CL:0000148
+123 4%4%melanocytes%uaz:CL:0000148
+124 
+125 
+126 
+127 
+128 0%1%Cultured_cells%uaz:CL:0000010 15%15%melanoma%tissuelist:TS-0614 24%24%A375%cellosaurus:CVCL_0132
+129 
+130 
+131 
+132 
+133 
+134 
+135 
+136 
+137 
+138 
+139 
+140 
+141 5%5%membranes%go:GO:0016020 32%32%rabbit%taxonomy:9986 33%33%host%go:GO:0018995 82%82%mouse%taxonomy:10090 83%83%host%go:GO:0018995 87%87%BD%cellosaurus:CVCL_F568
+142 
+143 
+144 
+145 
+146 
+147 15%15%skin%tissuelist:TS-0934 22%22%tissue%uberon:UBERON:0000479
+148 
+149 1%1%melanoma%tissuelist:TS-0614
+150 8%8%tissue%uberon:UBERON:0000479
+151 
+152 
+153 1%1%RPMI-7951%cellosaurus:CVCL_1666
+154 
+155 
+156 
+157 
+158 
+159 17%17%CAG%cellosaurus:CVCL_D569 64%64%GCT%cellosaurus:CVCL_1229 89%89%GCT%cellosaurus:CVCL_1229 91%91%CAG%cellosaurus:CVCL_D569
+160 
+161 
+162 
+163 1%1%RPMI-7951%cellosaurus:CVCL_1666
+164 
+165 
+166 
+167 
+168 51%51%human%taxonomy:9606 77%77%patient%taxonomy:9606
+169 
+170 
+171 9%9%Human%taxonomy:9606
+172 
+173 
+174 
+175 
+176 
+177 
+178 
+179 
+180 
+181 
+182 

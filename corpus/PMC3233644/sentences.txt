@@ -1,0 +1,68 @@
+A MEK independent role for CRAF in mitosis and tumor progression .
+RAF kinases regulate cell proliferation and survival and can be dysregulated in tumors XREF_BIBR , XREF_BIBR .
+A role for RAF in cell proliferation has been linked to its ability to activate MEK and ERK .
+Here , we identify a MEK independent role for RAF in tumor growth .
+Specifically , in mitotic cells , CRAF becomes phosphorylated on serine 338 and localizes to the mitotic spindle of proliferating tumor cells in vitro and in murine tumor models or biopsies from cancer patients .
+Treatment of tumors with allosteric , but not ATP-competitive RAF inhibitors prevents CRAF phosphorylation on serine 338 , localization to the mitotic spindle and causes cell cycle arrest at pro metaphase .
+Furthermore , we identify phospho-S338 CRAF as a potential biomarker for tumor progression and a surrogate marker for allosteric RAF blockade .
+Mechanistically , CRAF , but not BRAF associates with Aurora-A and Polo like kinase 1 at the centrosomes and spindle poles during G2/Mitosis .
+Indeed , allosteric or genetic inhibition of phospho-S338 CRAF impairs Plk1 activation and accumulation at kinetochores causing pro metaphase arrest , while a phospho-mimetic S338D CRAF mutant potentiates Plk1 activation , mitosis and tumor progression in mice .
+These findings reveal a previously undefined role for RAF in tumor progression beyond the RAF-MEK-ERK paradigm , opening new avenues for targeting RAF in oncology .
+ATP-competitive RAF inhibitors have shown clinical activity in cancers with activating RAF mutations XREF_BIBR - XREF_BIBR .
+However , in RAS driven tumors , these agents surprisingly promote CRAF serine 338 phosphorylation and tumor progression XREF_BIBR - XREF_BIBR .
+We described an allosteric inhibitor of RAF ( compound 6 , referred to here as KG5 ) that does not compete for ATP but inhibits phospho-S338 CRAF and tumor growth 12 .
+KG5 exerted broad growth inhibitory activity against the NCI-60 panel ( XREF_SUPPLEMENTARY ) suggesting that KG5 influences a general mechanism that is independent of RAS or RAF activation status .
+Tumor cells exposed to KG5 appeared rounded and arrested in mitosis , whereas cells treated with ATP-competitive RAF or MEK inhibitors maintained adhesion and mitosis ( XREF_SUPPLEMENTARY ) .
+KG5 inhibited phospho-S338 CRAF causing mitotic arrest at pro metaphase followed by cell death in multiple tumor cell lines ( XREF_SUPPLEMENTARY ) , mimicking the effects of paclitaxel .
+As for most kinase targeted drugs , KG5 inhibits other targets ( c-Kit , Flt-3 and PDGFR ) that might contribute to the anti-proliferative effects observed .
+To address this , we evaluated KG1 , a structural analogue of KG5 that inhibits the same targets except RAF 12 .
+KG1 did not inhibit cell proliferation , indicating the effects of KG5 are due to RAF inhibition ( XREF_SUPPLEMENTARY ) .
+Phosphorylation of CRAF on serine 338 has been linked to cancer progression XREF_BIBR - XREF_BIBR , XREF_BIBR - XREF_BIBR .
+To determine whether KG5 could suppress this activity in vivo , we analyzed orthotopic breast and brain tumor tissues for phospho-S338 CRAF before or after systemic delivery of the drug .
+A single KG5 treatment led to a qualitative decrease in phospho-S338 CRAF and an accumulation of cells at pro metaphase ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Importantly , while ectopic expression of active MEK failed to rescue the effects of KG5 on cell proliferation , cells expressing a phospho-mimetic S338D CRAF mutant showed resistance to KG5 ( XREF_SUPPLEMENTARY ) suggesting CRAF S338 plays a MEK independent role in cell proliferation that can be reversed by an allosteric inhibitor .
+We next examined mouse embryonic fibroblasts ( MEFs ) derived from CRAF knockout embryos ( Craf -/- ) 16 .
+Asynchronized Craf -/-  MEFs showed a significant increase in the number of cells in G2/M and pro metaphase , compared to wildtype ( WT ) MEFs ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Following synchronization , Craf -/-  MEFs accumulated in pro metaphase with a dramatic delay in mitotic progression ( XREF_FIG ) .
+Depletion of CRAF in tumor cells , similarly led to an accumulation of cells in G2/M ( XREF_SUPPLEMENTARY ) .
+Importantly , expression of kinase dead ( K375M ) , phospho-mimetic S338D or WT CRAF rescued this mitotic defect , whereas a non phosphorylatable ( S338A ) CRAF mutant , failed to do so ( XREF_FIG  and  XREF_SUPPLEMENTARY ) , even though this mutant maintains kinase activity and can dimerize with BRAF ( data not shown ) .
+Accordingly , XPA-1 human pancreatic cancer cells expressing WT CRAF completed mitosis in twenty minutes whereas cells expressing CRAF S338A did so in 120 minutes ( XREF_SUPPLEMENTARY ) providing genetic evidence to support a kinase independent role for phospho-S338 CRAF in mitosis .
+Furthermore , phospho-S338 CRAF was strongly increased in mitosis where it co-precipitated with gamma-tubulin ( XREF_FIG ) and localized in G2/M to the centrosomes and mitotic spindle poles of tumor cells in vitro ( XREF_FIG  and  XREF_SUPPLEMENTARY ) , or breast cancer tissues from mice or patients ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Importantly , KG5 , but not ATP-competitive RAF inhibitors , prevented this localization ( XREF_FIG ) .
+Moreover , in cells treated with the microtubule stabilizing agent paclitaxel , CRAF remained localized to the mitotic spindle suggesting that KG5 and paclitaxel arrest cells at pro metaphase via distinct mechanisms ( XREF_FIG ) .
+Previous studies have revealed that CRAF and BRAF can form heterodimers 17  and that BRAF can play a role in mitosis XREF_BIBR - XREF_BIBR .
+Interestingly , while BRAF and CRAF heterodimers could readily be detected in asynchronized cells we could not detect such heterodimers in mitotic cells ( XREF_SUPPLEMENTARY ) .
+In fact , phospho-S338 CRAF localized to the spindle pole in cells lacking BRAF ( XREF_SUPPLEMENTARY ) .
+These results suggest that the role that CRAF plays in mitosis is distinct from that of BRAF .
+Mitosis is regulated by various mitotic kinases such as Aurora kinases , Plk1 , and CDK1 XREF_BIBR - XREF_BIBR .
+Plk1 becomes activated by Aurora-A in G2 , localizes to centrosomes , spindle poles and accumulates at kinetochores at pro metaphase XREF_BIBR - XREF_BIBR  ( XREF_SUPPLEMENTARY ) .
+Accordingly , tumor cells expressing oncogenic RAS are particularly dependent on Plk1 activity for mitotic progression and survival XREF_BIBR , XREF_BIBR , and inhibition or depletion of Plk1 causes cell cycle delay and arrest at pro metaphase XREF_BIBR , XREF_BIBR - XREF_BIBR .
+Interestingly , both Aurora-A and Plk1 co-precipitated with CRAF but not BRAF ( XREF_FIG  and  XREF_SUPPLEMENTARY ) and CRAF co-localized with Aurora-A and Plk1 at the centrosomes in G2 and spindle poles in mitotic tumor cells ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Interestingly , CRAF , but not BRAF , co-precipitated with Plk1 ( XREF_FIG ) and this could be detected in cells expressing WT or kinase dead ( K375M ) CRAF ( XREF_SUPPLEMENTARY ) .
+However , this complex was minimally detected in cells expressing the S338A RAF mutant ( XREF_SUPPLEMENTARY ) suggesting that the interaction between CRAF and Plk1 requires serine 338 phosphorylation but not kinase activity .
+Thus , CRAF may serve as a scaffold bringing Aurora-A and Plk1 into a functional mitotic complex .
+To determine whether the kinetics of CRAF serine 338 phosphorylation during cell cycle progression correlated with Plk1 activation , we analyzed CRAF ( S338 ) and Plk1 ( T210 ) phosphorylation throughout the cell cycle from G1-M .
+Interestingly , phospho-S338 CRAF levels were increased in G1 , as expected , but showed a second wave of phosphorylation at G2/M beginning immediately prior to Plk1 phosphorylation ( XREF_FIG ) , consistent with the notion that CRAF phosphorylation on serine 338 precedes Plk1 activation .
+To further explore a role for CRAF in Plk1 activation , lysates from WT and Craf -/-  MEFs were subjected to immunoblotting for phospho-Plk1 or evaluated for Plk1 enzymatic activity ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Indeed , Craf -/-  MEFs demonstrated minimal Plk1 activity compared to WT MEFs .
+Furthermore , tumor cells arrested in pro metaphase with KG5 showed decreased Plk1 activity compared to cells arrested with nocodazole or paclitaxel ( XREF_SUPPLEMENTARY ) .
+While treatment of cells with KG5 had no effect on Plk1 localization to the spindle pole , it prevented the subsequent accumulation of active Plk1 at the kinetochores ( XREF_SUPPLEMENTARY ) and similar findings were observed in Craf -/-  MEFs ( XREF_FIG ) .
+These findings were substantiated since an active form of Plk1 was able to rescue the G2/M delay caused by CRAF depletion ( XREF_SUPPLEMENTARY ) .
+Together , these results indicate that CRAF potentiates Plk1 or Aurora-A activation leading to accumulation of active Plk1 at the kinetochores .
+This process facilitates mitotic progression through pro metaphase and can be blocked by inhibition of phospho-S338 CRAF via allosteric RAF blockade .
+To investigate the impact of the CRAF and Plk1 signaling module in tumor progression , we evaluated the tumor growth capacity of human colon carcinoma and glioblastoma cells stably expressing the phospho-mimetic S338D CRAF mutant .
+HCT-116 colon cells expressing the S338D CRAF mutant showed accelerated mitosis and a significant increase in tumor growth relative to cells expressing WT CRAF and this was associated with increased phospho-Plk1 but not phospho-MEK expression in these tumors ( XREF_FIG ) .
+Similarly , U-87 glioblastoma cells expressing S338D CRAF produced a significant increase in brain tumor growth relative to cells expressing WT CRAF ( XREF_SUPPLEMENTARY ) .
+Furthermore , cells expressing a double mutant S338D kinase dead ( S338D and K375M ) also showed increase Plk1 activity and tumor growth in mice but failed to activate MEK ( XREF_SUPPLEMENTARY ) .
+These results demonstrate that phospho-S338 CRAF is an important mediator of tumor progression based on its capacity to promote mitosis in a manner that is independent of active MEK .
+While RAF is an essential component of the canonical MAPK signaling pathway various reports reveal that RAF exerts kinase independent functions XREF_BIBR , XREF_BIBR - XREF_BIBR .
+We previously showed that CRAF , independent of its kinase activity , could translocate to the mitochondria and protect cells from apoptosis by inhibiting the pro apoptotic protein ASK1 XREF_BIBR , XREF_BIBR .
+Here , we reveal a kinase independent function of CRAF in cell proliferation and demonstrate that phospho-S338 CRAF localizes to centrosomes and mitotic spindle poles in G2/M , where it interacts with Aurora-A and Plk1 , promotes Plk1 activation and thereby mitotic and tumor progression ( XREF_SUPPLEMENTARY ) .
+Whether CRAF interaction with Aurora-A and Plk1 is direct or indirect still needs to be determined .
+However , these data support the conclusion that CRAF may act as an adaptor protein to promote Aurora-A or Plk1 activation facilitating mitosis and tumor progression .
+While our findings may be relevant to all cells undergoing mitosis , targeting this pathway with allosteric RAF inhibitors , like KG5 , might be particularly effective during angiogenesis 12  and tumor growth , processes characterized by highly proliferative cells .
+Finally , our studies reveal that allosteric inhibitors designed to block phospho-S338 CRAF and its function in mitosis represent a new therapeutic approach to inhibit the growth of a wide range of cancers .
+Methods .
+Methods and any associated references are available in the online version of the paper at http://www.nature.com/naturemedicine/ .
+Supplementary Material .
+1

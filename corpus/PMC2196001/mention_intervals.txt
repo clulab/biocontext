@@ -1,0 +1,267 @@
+0 
+1 35%35%SH3%cellosaurus:CVCL_M383
+2 8%8%testis%tissuelist:TS-1030
+3 
+4 
+5 11%11%microspikes%go:GO:0044393
+6 13%13%microspike%go:GO:0044393
+7 14%14%brain%tissuelist:TS-0095
+8 5%5%brain%tissuelist:TS-0095
+9 
+10 
+11 24%24%microspike%go:GO:0044393
+12 
+13 
+14 
+15 
+16 29%29%Simon%cellosaurus:CVCL_0097
+17 
+18 42%43%actin_cytoskeleton%go:GO:0015629
+19 6%7%stress_fibers%go:GO:0001725 15%15%membrane%go:GO:0016020
+20 22%23%actin_cytoskeleton%go:GO:0015629
+21 12%12%filopodium%go:GO:0030175
+22 
+23 25%25%filopodium%go:GO:0030175
+24 
+25 
+26 
+27 
+28 
+29 9%9%membrane%go:GO:0016020
+30 
+31 
+32 6%6%SH3%cellosaurus:CVCL_M383
+33 
+34 11%11%microspikes%go:GO:0044393 36%36%microspike%go:GO:0044393
+35 2%2%brain%tissuelist:TS-0095 27%27%brain%tissuelist:TS-0095
+36 
+37 
+38 16%16%Watanabe%cellosaurus:CVCL_E867 33%33%SH3%cellosaurus:CVCL_M383 42%42%SH3%cellosaurus:CVCL_M383 51%51%SH3%cellosaurus:CVCL_M383 60%60%SH3%cellosaurus:CVCL_M383
+39 
+40 15%15%mouse%taxonomy:10090
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 1%1%mouse%taxonomy:10090 2%3%skeletal_muscle%tissuelist:TS-0933 5%5%myoblast%tissuelist:TS-0650
+52 
+53 
+54 
+55 
+56 
+57 16%16%membrane%go:GO:0016020
+58 1%1%membrane%go:GO:0016020
+59 
+60 
+61 17%17%SH3%cellosaurus:CVCL_M383
+62 
+63 9%9%rabbits%taxonomy:9986
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 4%4%mouse%taxonomy:10090
+74 
+75 
+76 
+77 12%12%serum%tissuelist:TS-0923
+78 
+79 
+80 
+81 3%3%serum%tissuelist:TS-0923
+82 
+83 
+84 
+85 
+86 
+87 11%11%serum%tissuelist:TS-0923
+88 
+89 
+90 21%21%rabbit%taxonomy:9986 22%22%serum%tissuelist:TS-0923
+91 
+92 
+93 
+94 4%4%rabbit%taxonomy:9986 5%6%skeletal_muscle%tissuelist:TS-0933
+95 7%7%brain%tissuelist:TS-0095
+96 
+97 5%5%baculovirus%taxonomy:10469
+98 
+99 
+100 
+101 
+102 
+103 
+104 
+105 
+106 
+107 
+108 7%7%brain%tissuelist:TS-0095 11%11%brain%tissuelist:TS-0095
+109 
+110 11%11%brain%tissuelist:TS-0095
+111 
+112 14%14%SH3%cellosaurus:CVCL_M383
+113 
+114 
+115 
+116 
+117 
+118 
+119 
+120 3%3%Microspike%go:GO:0044393
+121 
+122 
+123 
+124 
+125 
+126 23%23%mouse%taxonomy:10090 24%25%skeletal_muscle%tissuelist:TS-0933 27%27%myoblasts%uaz:CL:0000056
+127 
+128 
+129 
+130 6%6%SH3%cellosaurus:CVCL_M383
+131 18%18%SH3%cellosaurus:CVCL_M383
+132 
+133 
+134 
+135 
+136 21%21%brain%tissuelist:TS-0095
+137 0%0%Tissue%uberon:UBERON:0000479
+138 3%3%tissue%uberon:UBERON:0000479
+139 16%16%brain%tissuelist:TS-0095 18%18%testis%tissuelist:TS-1030
+140 22%22%testis%tissuelist:TS-1030
+141 
+142 4%4%brain%tissuelist:TS-0095 12%12%thymus%tissuelist:TS-1043 14%14%spleen%tissuelist:TS-0956 17%17%testis%tissuelist:TS-1030
+143 7%7%brain%tissuelist:TS-0095 16%16%brain%tissuelist:TS-0095 18%18%cerebrum%tissuelist:TS-0095 20%20%cerebellum%tissuelist:TS-0125 22%22%diencephalon%tissuelist:TS-0199 25%26%medulla_oblongata%tissuelist:TS-0607
+144 
+145 18%19%neuronal_cell%tissuelist:TS-0683 23%23%PC12%cellosaurus:CVCL_S979
+146 6%6%SH3%cellosaurus:CVCL_M383
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+154 3%3%SH3%cellosaurus:CVCL_M383
+155 
+156 
+157 
+158 
+159 
+160 
+161 
+162 
+163 
+164 
+165 
+166 
+167 
+168 
+169 
+170 
+171 
+172 
+173 
+174 
+175 
+176 
+177 
+178 
+179 
+180 
+181 
+182 
+183 9%9%SH3%cellosaurus:CVCL_M383
+184 
+185 
+186 
+187 3%3%SH3%cellosaurus:CVCL_M383
+188 5%5%SH3%cellosaurus:CVCL_M383
+189 14%14%SH3%cellosaurus:CVCL_M383
+190 
+191 
+192 
+193 
+194 
+195 
+196 
+197 4%4%Bovine%taxonomy:9913 5%5%Brain%tissuelist:TS-0095 12%12%Bovine%taxonomy:9913 13%13%Brain%tissuelist:TS-0095
+198 6%6%neutrophils%uaz:CL:0000775 15%15%oocytes%uaz:CL:0000023
+199 6%6%comets%taxonomy:302767 16%16%brain%tissuelist:TS-0095
+200 6%6%brain%tissuelist:TS-0095
+201 3%3%brain%tissuelist:TS-0095
+202 16%16%brain%tissuelist:TS-0095
+203 
+204 
+205 18%18%brain%tissuelist:TS-0095
+206 17%17%SH3%cellosaurus:CVCL_M383
+207 
+208 
+209 5%5%brain%tissuelist:TS-0095
+210 
+211 
+212 
+213 
+214 4%4%Microspike%go:GO:0044393
+215 6%6%microspike%go:GO:0044393
+216 
+217 11%11%microspikes%go:GO:0044393
+218 7%7%microspike%go:GO:0044393
+219 8%8%microspike%go:GO:0044393
+220 7%7%microspike%go:GO:0044393
+221 9%9%microspike%go:GO:0044393
+222 8%8%microspikes%go:GO:0044393
+223 6%6%microspikes%go:GO:0044393
+224 15%15%microspike%go:GO:0044393
+225 
+226 
+227 17%17%SH3%cellosaurus:CVCL_M383
+228 
+229 
+230 
+231 
+232 
+233 
+234 
+235 
+236 
+237 
+238 
+239 
+240 15%15%filopodium%go:GO:0030175
+241 
+242 
+243 
+244 
+245 3%3%SH3%cellosaurus:CVCL_M383
+246 
+247 4%4%SH3%cellosaurus:CVCL_M383 9%9%SH3%cellosaurus:CVCL_M383
+248 
+249 
+250 4%4%brain%tissuelist:TS-0095 10%10%comet%taxonomy:302767
+251 
+252 
+253 
+254 
+255 
+256 
+257 
+258 
+259 
+260 
+261 8%8%brain%tissuelist:TS-0095
+262 18%18%brain%tissuelist:TS-0095
+263 1%3%axonal_growth_cone%go:GO:0044295 16%16%axon%go:GO:0030424
+264 10%10%filopodium%go:GO:0030175 33%34%neural_cells%uaz:CL:0002319 38%38%filopodium%go:GO:0030175 48%48%extension%uberon:UBERON:2000106
+265 8%9%neural_cells%uaz:CL:0002319
+266 

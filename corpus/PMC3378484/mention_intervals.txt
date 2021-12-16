@@ -1,0 +1,241 @@
+0 
+1 22%22%human%taxonomy:9606
+2 14%15%contact_sites%go:GO:0044289
+3 
+4 
+5 
+6 9%9%RTK%cellosaurus:CVCL_4W74
+7 
+8 
+9 17%17%RTK%cellosaurus:CVCL_4W74
+10 
+11 9%9%RTK%cellosaurus:CVCL_4W74
+12 
+13 
+14 
+15 
+16 
+17 
+18 29%30%plasma_membrane%go:GO:0005886
+19 2%2%membrane%go:GO:0016020 28%28%RTK%cellosaurus:CVCL_4W74
+20 
+21 
+22 
+23 
+24 30%30%human%taxonomy:9606
+25 
+26 
+27 
+28 7%7%mouse%taxonomy:10090
+29 49%50%contact_sites%go:GO:0044289
+30 
+31 
+32 29%29%extension%uberon:UBERON:2000106
+33 
+34 
+35 
+36 
+37 
+38 
+39 30%30%human%taxonomy:9606 31%32%breast_cancer%tissuelist:TS-0591
+40 3%3%chicken%taxonomy:9031 4%5%embryonic_fibroblasts%uaz:CL:2000042
+41 
+42 
+43 
+44 27%27%membrane%go:GO:0016020
+45 
+46 
+47 
+48 10%10%tail%tissuelist:TS-1006
+49 
+50 
+51 
+52 4%4%mouse%taxonomy:10090 10%10%human%taxonomy:9606
+53 
+54 
+55 5%5%human%taxonomy:9606
+56 
+57 
+58 
+59 
+60 14%14%RTK%cellosaurus:CVCL_4W74
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 12%12%tail%tissuelist:TS-1006
+71 10%10%helix%uberon:UBERON:0002488
+72 3%3%tail%tissuelist:TS-1006
+73 
+74 
+75 13%13%helix%uberon:UBERON:0002488
+76 0%0%Helix%uberon:UBERON:0002488
+77 
+78 7%7%tail%tissuelist:TS-1006
+79 
+80 
+81 2%2%helix%uberon:UBERON:0002488
+82 
+83 
+84 2%2%helix%uberon:UBERON:0002488
+85 22%22%helix%uberon:UBERON:0002488
+86 
+87 
+88 
+89 4%4%RTK%cellosaurus:CVCL_4W74
+90 10%11%plasma_membranes%go:GO:0005886
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 
+103 6%6%RTK%cellosaurus:CVCL_4W74
+104 
+105 2%2%RTK%cellosaurus:CVCL_4W74
+106 2%2%RTK%cellosaurus:CVCL_4W74
+107 
+108 
+109 
+110 6%6%tail%tissuelist:TS-1006
+111 37%37%helix%uberon:UBERON:0002488 50%50%helix%uberon:UBERON:0002488
+112 
+113 
+114 
+115 
+116 
+117 
+118 
+119 
+120 
+121 
+122 
+123 
+124 6%7%contact_site%go:GO:0044289
+125 
+126 
+127 
+128 
+129 
+130 
+131 6%6%helix%uberon:UBERON:0002488
+132 4%4%helix%uberon:UBERON:0002488 10%10%elbow%uberon:UBERON:0001461 21%21%extension%uberon:UBERON:2000106
+133 
+134 
+135 
+136 
+137 
+138 
+139 
+140 
+141 24%24%membrane%go:GO:0016020
+142 
+143 
+144 
+145 
+146 
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+155 
+156 
+157 
+158 
+159 26%26%tail%tissuelist:TS-1006
+160 11%11%tail%tissuelist:TS-1006
+161 
+162 17%17%membranes%go:GO:0016020
+163 17%17%membrane%go:GO:0016020
+164 
+165 
+166 
+167 
+168 
+169 13%13%membrane%go:GO:0016020
+170 12%12%membrane%go:GO:0016020
+171 
+172 2%2%tail%tissuelist:TS-1006 7%7%membrane%go:GO:0016020
+173 
+174 
+175 
+176 
+177 
+178 
+179 
+180 
+181 
+182 
+183 
+184 9%9%RTK%cellosaurus:CVCL_4W74
+185 
+186 10%10%membrane%go:GO:0016020
+187 
+188 20%20%RTK%cellosaurus:CVCL_4W74
+189 24%24%RTK%cellosaurus:CVCL_4W74
+190 22%22%RTK%cellosaurus:CVCL_4W74
+191 
+192 0%0%Human%taxonomy:9606
+193 14%15%breast_cancer%tissuelist:TS-0591
+194 25%25%RTK%cellosaurus:CVCL_4W74
+195 13%13%chicken%taxonomy:9031 14%15%embryonic_fibroblasts%uaz:CL:2000042
+196 12%12%membrane%go:GO:0016020
+197 
+198 
+199 25%25%human%taxonomy:9606 26%27%breast_cancer%tissuelist:TS-0591
+200 27%27%mouse%taxonomy:10090
+201 
+202 5%5%RTK%cellosaurus:CVCL_4W74
+203 
+204 
+205 12%12%mouse%taxonomy:10090 17%17%mouse%taxonomy:10090 28%28%human%taxonomy:9606 34%34%human%taxonomy:9606
+206 
+207 
+208 
+209 
+210 
+211 
+212 
+213 9%9%mouse%taxonomy:10090 12%12%human%taxonomy:9606
+214 
+215 1%1%human%taxonomy:9606
+216 
+217 
+218 
+219 
+220 
+221 
+222 
+223 
+224 
+225 
+226 
+227 
+228 
+229 
+230 
+231 
+232 
+233 
+234 0%0%Chicken%taxonomy:9031 1%2%egg_white%tissuelist:TS-0219
+235 
+236 
+237 
+238 
+239 
+240 

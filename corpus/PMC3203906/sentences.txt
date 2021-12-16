@@ -1,0 +1,162 @@
+Phosphoinositide 3-Kinasegamma Controls the Intracellular Localization of CpG to Limit DNA-PKcs-Dependent IL-10 Production in Macrophages .
+Synthetic oligodeoxynucleotides containing unmethylated CpG motifs ( CpG ) stimulate innate immune responses .
+Phosphoinositide 3-kinase ( PI3K ) has been implicated in CpG induced immune activation ; however , its precise role has not yet been clarified .
+CpG induced production of IL-10 was dramatically increased in macrophages deficient in PI3Kgamma ( p110gamma -/- ) .
+By contrast , LPS induced production of IL-10 was unchanged in the cells .
+CpG induced , but not LPS induced , IL-10 production was almost completely abolished in SCID mice having mutations in DNA dependent protein kinase catalytic subunit ( DNA-PKcs ) .
+Furthermore , wortmannin , an inhibitor of DNA-PKcs , completely inhibited CpG induced IL-10 production , both in wild type and p110gamma -/-  cells .
+Microscopic analyses revealed that CpG preferentially localized with DNA-PKcs in p110gamma -/-  cells than in wild type cells .
+In addition , CpG was preferentially co-localized with the acidic lysosomal marker , LysoTracker , in p110gamma -/-  cells , and with an early endosome marker , EEA1 , in wild type cells .
+Over-expression of p110gamma in Cos7 cells resulted in decreased acidification of CpG containing endosome .
+A similar effect was reproduced using kinase dead mutants , but not with a ras binding site mutant , of p110gamma .
+Thus , it is likely that p110gamma , in a manner independent of its kinase activity , inhibits the acidification of CpG containing endosomes .
+It is considered that increased acidification of CpG containing endosomes in p110gamma -/-  cells enforces endosomal escape of CpG , which results in increased association of CpG with DNA-PKcs to up-regulate IL-10 production in macrophages .
+Introduction .
+Oligodeoxynucleotides containing unmethylated CpG motifs ( CpG ) are powerful immune adjuvants that induce the production of cytokines , including IL-6 , IL-10 , IL-12 , IFN-alpha and beta , and TNF-alpha  XREF_BIBR ,  XREF_BIBR .
+Although previous studies have established that CpG induced immune responses are mediated by endosomal TLR9  XREF_BIBR - XREF_BIBR , cytoplasmic DNA-PKcs are also involved in CpG signaling independent of TLR9  XREF_BIBR ,  XREF_BIBR .
+Thus , intracellular trafficking of CpG is critical to select downstream signaling molecules , which determine the cytokine species produced by macrophages  XREF_BIBR ,  XREF_BIBR .
+Phosphoinositide 3-kinase ( PI3K ) has been reported to be both a positive and negative regulator of CpG mediated cytokine production .
+CpG induced IL-12 production is increased in plasmacytoid dendritic cells ( pDC ) from p85alpha -/-  mice , and by treatment of wild-type pDC with wortmannin  XREF_BIBR .
+Likewise , CpG induced iNOS expression is increased by treating RAW264 .7 cells with wortmannin  XREF_BIBR .
+By contrast , another group has reported that wortmannin inhibits CpG induced production of IL-12 , IL-6 , TNF-alpha , and NO from RAW264 .7 cells  XREF_BIBR .
+This inhibition has been considered to be the result of wortmannin mediated disruption of class III PI3K signaling , which is responsible for CpG uptake  XREF_BIBR .
+Similarly , wortmannin inhibits CpG induced IL-12 production by inhibiting CpG internalization in mouse derived bone marrow cells  XREF_BIBR .
+In human pDC , another PI3K inhibitor , LY294002 , also inhibits CpG induced type I IFN production  XREF_BIBR .
+In this case , the uptake and endosomal trafficking of CpG are not affected , but nuclear translocation of IRF-7 was inhibited by LY294002 , and also , by a specific inhibitor of PI3Kdelta , IC87114  XREF_BIBR .
+In addition , the PI3K/mTOR/p70S6K pathway plays a substantial role in the spatial interaction of TLR9/MyD88/IRF7 , which is indispensable for the induction of type I IFN production by pDC  XREF_BIBR .
+These reports have indicated that PI3Ks play some roles in trafficking of CpG itself or its downstream molecules .
+Pan- and/or some other specific PI3K inhibitors were used in all of the previous studies described above .
+All of these inhibitors bind competitively to the ATP binding pocket of PI3Ks and block kinase activity .
+Since DNA dependent protein kinase catalytic subunit ( DNA-PKcs ) shares similar ATP binding site as a member of the PI3K like kinase family , these inhibitors , even isoform specific inhibitors , more or less inhibit DNA-PKcs  XREF_BIBR .
+This makes it difficult to elucidate the precise role of DNA-PKcs and PI3Ks in CpG mediated cytokine production .
+In this paper , we used class IB PI3K ( p110gamma ) knockout mice and SCID mice having mutations in DNA-PKcs to estimate their roles in CpG mediated cytokine production .
+In agreement with a current report , DNA-PKcs play a substantial role in CpG mediated IL-10 production in macrophages  XREF_BIBR .
+By contrast , p110gamma specifically down-regulates IL-10 production following CpG stimulation .
+Quantitative analysis of microscopic images showed that CpG localized preferentially with DNA-PKcs in the cytosol in p110gamma -/-  cells to a greater extent than in wild-type cells .
+We propose a novel regulatory role of p110gamma in CpG induced production of IL-10 through modulation of the intracellular trafficking of CpG .
+Results .
+p110gamma deficiency specifically increased IL-10 production upon CpG stimulation in macrophages .
+Mouse macrophages generated IL-10 in response to CpG ( XREF_FIG ) .
+Since PI3K has been implicated in the regulation of TLR induced IL-10 production  XREF_BIBR , we tested the effect of p110gamma depletion on IL-10 production .
+CpG induced IL-10 production was dramatically increased in macrophages from p110gamma -/-  mouse ( XREF_FIG ) .
+Although IL-10 production sometimes varied extremely between experiments , IL-10 production in wild type mice was always approximately half of that in p110gamma -/-  mice in each paired experiment .
+We also tested the cytokine production using macrophages from p85alpha -/-  mice , and from p110delta KD/KD  mice ; neither displayed CpG specific changes in IL-10 production similar to what was seen with p110gamma -/-  cells ( data not shown ) .
+Wortmannin inhibited IL-10 production induced by CpG , but increased that induced by LPS .
+Macrophages were treated with a pan-PI3K inhibitor , wortmannin .
+CpG induced IL-10 production was almost completely inhibited by wortmannin while LPS induced IL-10 production was rather increased in wild type cells ( XREF_FIG ) .
+The effect of wortmannin on LPS induced IL-10 production may be the result of the inhibition of p110gamma , because the augmentation was not observed in p110gamma -/-  cells ( XREF_FIG ) .
+However , wortmannin inhibited severely CpG induced IL-10 production in p110gamma -/-  cells , as well as in wild type cells ( XREF_FIG .
+D ) .
+The inhibition by wortmannin was specific to IL-10 production , because IL-12 production was unchanged by the treatment ( data not shown ) .
+These data indicate that the target molecule of wortmannin responsible for the suppression of CpG induced IL-10 was not p110gamma .
+p110gamma mediated negative regulation of IL-10 production was independent of kinase activity .
+Since a pan-PI3K inhibitor , wortmannin , did not mimic the effect of p110gamma deficiency on CpG induced IL-10 production , we next tested the effect of the p110gamma specific inhibitor , AS252424 , on CpG induced IL-10 production .
+C5a induced Akt phosphorylation was completely abolished in p110gamma -/-  cells ( XREF_FIG )  XREF_BIBR .
+The result confirmed that the C5a action is dependent on p110gamma .
+AS252424 inhibited the C5a induced Akt phosphorylation ( XREF_FIG ) , indicating that the compound is a powerful tool for investigating the role of p110gamma .
+Surprisingly , AS252424 did not cause an increase in CpG induced IL-10 production in the wild type cells nor in p110gamma -/-  cells ( XREF_FIG ) .
+These data suggest that the negative regulation of CpG induced IL-10 production by p110gamma was not dependent on its kinase activity .
+CpG induced IL-10 production was abolished in SCID mice .
+Recently , an indispensable role of DNA-PKcs in CpG induced IL-10 production has been reported  XREF_BIBR .
+Since DNA-PKcs has a PI3K like catalytic domain , the kinase activity is susceptible to wortmannin .
+As reported earlier  XREF_BIBR , CpG induced IL-10 production was defective in SCID mice ( XREF_FIG ) .
+Additionally , wortmannin inhibited significantly CpG induced IL-10 production in wild type , whereas it did not affect this process in SCID mice ( XREF_FIG ) .
+This result suggests that wortmannin suppressed CpG induced IL-10 production through inhibition of DNA-PKcs .
+By contrast , LPS induced IL-10 production in SCID was identical to wild type with the same background mice ( XREF_FIG ) .
+Co-localization of DNA-PKcs and CpG was increased in p110gamma -/-  cells .
+CpG is internalized via endocytosis and immediately moves into the lysosomal compartment  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR .
+A recent study reported that endosomal CpG preferentially induces IL-12 production , but , when released from the endosome , it associates with DNA-PKcs in cytoplasm and induces a greater amount of IL-10  XREF_BIBR .
+Therefore , we hypothesized that CpG localized to the endosomal compartment in the wild type cells , and was more efficiently released into the cytosol in p110gamma -/-  cells .
+To quantify the co-localization of CpG and DNA-PKcs , macrophages were incubated with rhodamine labeled CpG , fixed with formaldehyde , permeabilized , and incubated with anti-DNA-PKcs antibody .
+The merged area was calculated from the imaging data as described under materials and methods .
+The Co-localization area of CpG and DNA-PKcs was significantly increased in 110gamma -/-  cells ( XREF_FIG ) .
+Interestingly , CpG complexed with cationic liposomes composed of Lipofectamine ( LTX ) and Plus reagent localized in large vesicles both in wild type and p110gamma -/-  cells , and scarcely co-localized with DNA-PKcs ( XREF_FIG ) .
+Since wortmannin did not affect CpG uptake or localization of CpG or DNA-PKcs ( data not shown ) , the PI3K inhibitor exclusively inhibits the kinase activity of DNA-PKcs .
+Manipulation of CpG localization with cationic liposomes abolished the effect of p110gamma deficiency on cytokine production .
+It seemed interesting to determine IL-10 production by CpG complexed with the lipofection reagent , which hardly co-localizes with DNA-PKcs .
+When cells were stimulated with this CpG and lipofection reagent , IL-10 production was decreased both in wild-type and p110gamma -/-  cells ( XREF_FIG ) .
+In addition , the augmentation of IL-10 production seen in p110gamma -/-  cells was completely abolished using this delivery system ( XREF_FIG ) .
+CpG preferentially localized in the early endosome in wild type cells , and in lysosomes in p110gamma -/-  cells .
+We next tested the cellular delivery of CpG using an early endosome marker , EEA1 , an endosome marker , dextran , and an acidic lysosome marker , LysoTracker .
+Quantitative analysis of microscopic images showed that more CpG merged with EEA1 and dextran in wild type cells than in p110gamma -/-  cells ( XREF_FIG ) .
+By contrast , CpG preferentially merged with LysoTracker in p110gamma -/-  cells more than in wild-type cells ( XREF_FIG ) .
+To further investigate the role of p110gamma in CpG localization , Cos7 cells were transfected with p110gamma and its mutant forms ( unlike macrophages , Cos7 cells do not express p110gamma ) .
+As shown in  XREF_FIG , most of the CpG was co-localized with LysoTracker in Cos7 cells transfected with vehicle alone , while scarcely co-localized with LysoTracker in the cells transfected with wild type p110gamma .
+Interestingly , overexpression of a kinase dead mutant of p110gamma also inhibited the acidification of CpG containing endosome .
+By contrast , the Ras binding domain mutant form showed no effect on the CpG localization .
+These results suggest that PI3K p110gamma play a role in endosomal acidification independent of its kinase activity .
+Since endosomal acidification is known to precede the endosomal leakage , acidification of CpG containing endosome may accelerate CpG translocation to the cytosol and the resultant association with DNA-PKcs to increase IL-10 production in macrophages .
+CpG induced but not LPS induced IL-10 production was suppressed by inhibitors of endosomal acidification .
+Effect of chemical inhibitors of endosomal acidification  XREF_BIBR  on CpG induced IL-10 production was next examined .
+Both NH 4 Cl and chloroquine strongly inhibited CpG induced IL-10 production without affecting LPS induced one ( XREF_FIG ) .
+The result supported our hypothesis that endosomal acidification is required for CpG induced IL-10 production .
+Discussion .
+In this study , we have identified a novel function of PI3K p110gamma in the regulation of CpG localization .
+We have demonstrated this function using p110gamma -/-  macrophages and Cos7 cells transfected with p110gamma .
+In macrophages , more CpG merged with the endosome markers , EEA1 and dextran , in wild type cells than in p110gamma -/-  cells , whereas preferentially merged with the acidic lysosome marker , LysoTracker , in p110gamma -/-  cells to a greater extent than in wild-type cells .
+In Cos7 cells , which do not express p110gamma , most of the CpG was co-localized with LysoTracker , and scarcely co-localized with the dye in the cells transfected with p110gamma .
+Another novel finding reported in this paper is that IL-10 production was increased specifically in p110gamma -/-  cells following CpG stimulation .
+In p110gamma -/-  cells , the increased acidification of CpG containing endosomes and the resultant leakage of CpG to the cytosol , where DNA-PKcs resides , appears to be responsible for the modulation of cytokine production .
+For this reason , CpG induced , but not LPS induced , IL-10 production was almost completely abolished in SCID mice having mutations in DNA-PKcs .
+Furthermore , wortmannin , an inhibitor of DNA-PKcs , inhibited completely CpG induced IL-10 production both in wild-type and in p110gamma -/-  cells .
+In addition to these , manipulation of the delivery system with cationic liposomes , which severely blocked the cytosolic delivery of CpG both in p110gamma -/-  and wild type cells , resulted in decreased IL-10 production .
+Finally , an intriguing point in this study is that the actions of p110gamma on both the CpG delivery system and cytokine production were independent of its kinase activity .
+Several kinase independent functions of p110gamma have been reported previously .
+Protein complexes containing p110gamma are known to activate phosphodiesterase ( PDE3B ) in cardiomyocytes to degrade cAMP in a manner independent of its kinase activity  XREF_BIBR ,  XREF_BIBR .
+Since increases in the cAMP level results in augmentation of TLR mediated IL-12 production , with a decrease in IL-10 production  XREF_BIBR , we had hypothesized that the increased IL-10 production in the absence of p110gamma might be the result of elevated cAMP levels .
+To answer this question we tested some reagents known to increase cAMP , such as forskolin , prostaglandin E 2 , 3-isobutyl-1-methylxanthin or dibutyryl cAMP in IL-10 production .
+Although these reagents more or less enhanced IL-10 production , the effect was not specific to CpG stimulation , but rather , was commonly observed in TLR stimulation ( data not shown ) .
+The other kinase independent functions of p110gamma are reported in vascular repair and platelet aggregation  XREF_BIBR .
+In addition , wild-type or the kinase dead mutant of p110gamma can block the growth of human colon cancer cells  XREF_BIBR .
+Although the mechanism of these kinase independent actions of p110gamma remains to be clarified , a scaffolding role for p110gamma has been suggested  XREF_BIBR .
+p110gamma -/-  mice show severe defects in immune responses , and are protected completely against systemic anaphylaxis  XREF_BIBR - XREF_BIBR .
+Additionally , in models of rheumatoid arthritis , systemic lupus erythematosus , and atherosclerosis , loss of p110gamma activity results in protection against disease progression  XREF_BIBR - XREF_BIBR .
+Since IL-10 is an anti-inflammatory cytokine , the increased IL-10 production in p110gamma deficient cells may contribute , at least in a part , to protection against excessive inflammation .
+It is also likely that the increased IL-10 and decreased IL-12 production in p110gamma -/-  macrophage might explain partly the development of colorectal carcinomas in p110gamma -/-  mice  XREF_BIBR , because the IL-12-mediated Th1 response favors effective anti-tumor immune responses  XREF_BIBR .
+Although further studies are needed to confirm the in vivo effect of p110gamma on the translocation of CpG , our findings suggest that when p110gamma is considered as a drug target for immune diseases  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR , not only its lipid kinase function , but also its kinase independent function should be considered .
+Materials and Methods .
+Reagents .
+LPS ( E. coli serotype 0111 : B4 ) , FITC-Dextran ( average MW 40 kD ) and C5a were from Sigma-Aldrich .
+Wortmannin was from Kyowa Medex ( Tokyo , Japan ) .
+5 '-rhodamine-labeled , 5 '-FITC-labeled and unlabeled CpG DNA ( HPLC purified phosphorothioate with the sequence of TCC ATG ACG TTC CTG ATG CT ) were synthesized by Hokkaido System Science ( Sapporo , Japan ) .
+LysoTracker Red was obtained from Lonza .
+Lipofectamine LTX Reagent , Plus Reagent and RPMI 1640 medium were from Invitrogen .
+The Protein Assay Kit was purchased from Bio-Rad .
+AS-252424 was from Cayman .
+Anti-pAkt ( Ser473 ) antibody was from Cell Signalling , anti-Akt1/2 and anti-DNA-PKcs antibodies were from Santa Cruz , and anti-EEA1 was from GenScript .
+The IL-10 ELISA assay kit was from Biolegend .
+Animals and cell isolation .
+All animal experiments were carried out in accordance with the NIH Guide for Care and Use of Laboratory Animals and approved by the animal care and use committee at Hiroshima University ( Permit number : A08-23 and A08-46 ) .
+Female C57BL/6 mice , 8-12 weeks old , were purchased from Japan SLC , Inc. .
+SCID , C.B-17/lcr +/+ , C.B-17/lcr-SCID/SCID mice were purchased from CLEA Japan .
+p110gamma -/-  mice on the C57BL/6 background were bred and maintained at Akita University ( Akita , Japan ) .
+Thioglycollate elicited macrophages were harvested from these mice .
+Briefly , mice were injected intra-peritoneally with 2 mL 3 % thioglycollate broth .
+After 3 days , the peritoneal exudate cells were collected by washing the peritoneal cavity with ice-cold phosphate buffered saline ( PBS ) .
+The cells were seeded at about 5-10x10 5  cells and well in 24-well plates and incubated in humidified 5 % CO 2  at 37degreesC for 1-2 h in RPMI 1640 medium supplemented with 10 % fetal bovine serum ( FBS ) ( MBL , Nagoya , Japan ) , to allow the cells to adhere to the wells .
+Non adherent cells were removed by washing with PBS and the attached cells were used for experiments .
+Cos7 cells  XREF_BIBR  were cultured in DMEM medium supplemented with 10 % FBS .
+Plasmids and transfection .
+Mammalian expression plasmids , pcDNA3 ( Invitrogen ) , pcDNA3 containing wild-type p110gamma , pcDNA3 containing a kinase-dead ( R947P ) mutant , or encoding a Ras binding site mutant ( DASAA ; T232D , K251A , K254S , K255A and K256A )  XREF_BIBR  are transfected in to Cos7 cells using the Lipofectamine 2000 Reagent for 24 h.                           Western blot .
+Cells were washed with PBS and lysed in 50 microL lysis buffer containing 25 mM Tris-HCl ( pH 7.4 ) , 0.5 % Nonidet P-40 , 150 mM NaCl , 1 mM sodium orthovanadate ( Na 3 VO 4 ) , 1 mM EDTA , 0.1 % BSA , 20 mM sodium fluoride , 1 mM phenylmethylsulfonyl fluoride , 2 microM leupeptin , 20 microM p-amidinophenylmethylsulfonyl fluoride , and 1 mM dithiothreitol .
+The cell lysates were centrifuged at 15,000 rpm for 10 min .
+Supernatants were collected and the protein concentration was determined using the Bio-Rad assay kit .
+Total cell lysates ( 100 microg protein ) were mixed with 10 microL 5x sample buffer ( 62.5 mM Tris , pH 6.8 , 1 % SDS , 10 % glycerol , 5 % 2-mercaptoethanol , and 0.02 % bromophenol blue ) and heated at 100degreesC for 5 min .
+The proteins were separated by SDS-PAGE and transferred electrophoretically onto a polyvinylidene difluoride ( PVDF ) membrane ( Millipore ) .
+The membrane was blocked with 5 % skim milk and incubated with the appropriate antibodies .
+Antibody binding was detected using a chemiluminescent substrate ( Perkin-Elmer ) .
+ELISA .
+Macrophage culture supernatants were used for the quantification of p40 and IL-10 using a commercially available ELISA kit .
+Microscopy .
+Macrophages in multi-well , glass-bottom dishes ( Greiner bio-one ) were allowed to adhere for 60 min before the addition of rhodamine- or FITC-CpG .
+Where indicated , FITC-dextran or LysoTracker Red was added with CpG .
+The cells were washed four times to remove excess CpG before live cell imaging .
+Alternatively , the cells were fixed with 4 % formaldehyde in PBS for 15 min , permeabilized with PBS containing 0.3 % Triton X-100 and 0.5 % BSA for 60 min , and incubated with anti-DNA-PKcs or anti-EEA1 at 4degreesC overnight .
+They were then incubated with Alexa 488 labeled goat anti-mouse IgG antibody ( Fab ' ) 2  for 2 h at room temperature .
+Cos7 cells were seeded into the culture wells a day before the transfection .
+The cells were incubated with LysoTracker red and FITC-CpG for 15 min as indicated .
+The cells were washed four times with PBS before imaging .
+Microscopic studies were performed using the Keyence BZ-9000 ( Keyence , Osaka , Japan ) .
+The imaging data were analyzed by the BZ-H2A application .
+Values of ( merged area )/( CpG area ) x100 were determined from at least 5 imaging data , and the data are shown as the means +/- SD .
+Statistical differences were determined at the level of p < 0.05 or 0.01 with Student 's t test .

@@ -1,0 +1,282 @@
+0 
+1 
+2 22%22%yeast%taxonomy:4932
+3 
+4 3%3%brain%tissuelist:TS-0095
+5 16%16%cytoskeleton%go:GO:0005856 21%22%stress_fibers%go:GO:0001725
+6 
+7 19%19%extension%uberon:UBERON:2000106
+8 
+9 
+10 
+11 
+12 
+13 
+14 6%6%membrane%go:GO:0016020
+15 45%45%HIV%taxonomy:12721
+16 
+17 7%8%stress_fibers%go:GO:0001725 25%25%membrane%go:GO:0016020 26%26%ruffles%go:GO:0001726
+18 10%10%neuroblastoma%tissuelist:TS-0681
+19 
+20 67%67%yeast%taxonomy:4932
+21 9%9%membrane%go:GO:0016020 24%25%focal_adhesions%go:GO:0005925
+22 
+23 
+24 7%7%yeast%taxonomy:4932 12%12%human%taxonomy:9606 13%13%brain%tissuelist:TS-0095
+25 
+26 
+27 13%13%microspikes%go:GO:0044393 17%18%stress_fibers%go:GO:0001725
+28 2%2%neuroblastoma%tissuelist:TS-0681 20%21%growth_cones%go:GO:0030426
+29 22%22%extension%uberon:UBERON:2000106
+30 
+31 
+32 
+33 
+34 0%0%Yeast%taxonomy:4932
+35 
+36 23%23%BD%cellosaurus:CVCL_F568
+37 11%11%yeast%taxonomy:4932 15%15%yeast%taxonomy:4932
+38 
+39 18%18%human%taxonomy:9606 20%20%brain%tissuelist:TS-0095
+40 30%30%Life%uberon:UBERON:0000104
+41 
+42 9%9%yeast%taxonomy:4932
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 3%4%eukaryotic_cells%uaz:CL:0000255
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 14%15%cm_2%cellosaurus:CVCL_C716
+78 
+79 
+80 41%42%cm_2%cellosaurus:CVCL_C716
+81 
+82 2%2%tissue%uberon:UBERON:0000479
+83 2%2%membrane%go:GO:0016020
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 8%8%nucleus%go:GO:0005634 44%44%stage%uberon:UBERON:0000105
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 
+103 
+104 
+105 
+106 
+107 
+108 
+109 
+110 
+111 
+112 8%8%stage%uberon:UBERON:0000105
+113 
+114 
+115 
+116 
+117 
+118 
+119 
+120 
+121 
+122 21%21%human%taxonomy:9606
+123 10%12%central_nervous_system%tissuelist:TS-0150
+124 
+125 
+126 
+127 
+128 
+129 13%13%tail%tissuelist:TS-1006
+130 
+131 12%12%human%taxonomy:9606
+132 
+133 
+134 6%6%human%taxonomy:9606
+135 0%0%Human%taxonomy:9606
+136 6%6%human%taxonomy:9606 13%13%yeast%taxonomy:4932 30%30%Oda%cellosaurus:CVCL_0G09
+137 
+138 2%2%human%taxonomy:9606
+139 
+140 19%19%SH3%cellosaurus:CVCL_M383
+141 
+142 
+143 25%25%human%taxonomy:9606
+144 
+145 13%13%placenta%tissuelist:TS-0799 15%15%liver%tissuelist:TS-0564 18%18%kidney%tissuelist:TS-0510
+146 4%4%brain%tissuelist:TS-0095 8%8%brain%tissuelist:TS-0095
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+155 
+156 
+157 
+158 
+159 
+160 
+161 
+162 
+163 
+164 
+165 
+166 
+167 
+168 
+169 
+170 14%14%PMA%uberon:UBERON:2005088 25%25%microspikes%go:GO:0044393 27%28%stress_fibers%go:GO:0001725 31%31%membrane%go:GO:0016020 32%32%ruffles%go:GO:0001726
+171 
+172 
+173 19%19%membrane%go:GO:0016020 20%20%extension%uberon:UBERON:2000106
+174 12%12%organelle%go:GO:0043226
+175 
+176 9%9%cytoskeleton%go:GO:0005856
+177 0%1%Stress_fibers%go:GO:0001725
+178 
+179 
+180 
+181 18%19%stress_fibers%go:GO:0001725
+182 11%11%cytoplasm%go:GO:0005737 14%15%stress_fibers%go:GO:0001725
+183 
+184 6%6%cytoplasm%go:GO:0005737
+185 
+186 16%16%nucleus%go:GO:0005634
+187 5%5%nucleus%go:GO:0005634
+188 
+189 
+190 
+191 13%13%human%taxonomy:9606 23%23%cytoskeleton%go:GO:0005856
+192 0%1%Stress_fibers%go:GO:0001725
+193 5%5%cytoskeleton%go:GO:0005856 28%29%stress_fibers%go:GO:0001725
+194 11%12%plasma_membrane%go:GO:0005886
+195 18%19%stress_fibers%go:GO:0001725
+196 
+197 
+198 
+199 
+200 
+201 
+202 15%15%membrane%go:GO:0016020
+203 
+204 6%6%brain%tissuelist:TS-0095
+205 12%12%neuroblastoma%tissuelist:TS-0681
+206 17%17%serum%tissuelist:TS-0923
+207 
+208 
+209 
+210 10%10%serum%tissuelist:TS-0923
+211 5%6%growth_cones%go:GO:0030426
+212 
+213 15%16%growth_cones%go:GO:0030426
+214 11%12%cell_body%go:GO:0044297
+215 
+216 1%1%Serum%tissuelist:TS-0923
+217 
+218 
+219 
+220 
+221 
+222 
+223 
+224 
+225 17%17%extension%uberon:UBERON:2000106 23%24%growth_cone%go:GO:0030426
+226 17%17%extension%uberon:UBERON:2000106
+227 9%9%neuroblastoma%tissuelist:TS-0681
+228 
+229 
+230 
+231 6%6%cytoplasm%go:GO:0005737 17%18%cell_periphery%go:GO:0071944
+232 19%19%neuroblastoma%tissuelist:TS-0681
+233 
+234 
+235 
+236 
+237 
+238 
+239 
+240 
+241 
+242 
+243 
+244 
+245 
+246 
+247 
+248 
+249 
+250 
+251 0%0%Serum%tissuelist:TS-0923 7%8%stress_fibers%go:GO:0001725
+252 7%7%cytoskeleton%go:GO:0005856 11%12%stress_fibers%go:GO:0001725
+253 20%21%stress_fibers%go:GO:0001725
+254 
+255 9%9%membrane%go:GO:0016020 10%10%ruffles%go:GO:0001726
+256 
+257 
+258 15%15%stage%uberon:UBERON:0000105
+259 
+260 7%7%microspikes%go:GO:0044393
+261 
+262 7%7%brain%tissuelist:TS-0095 19%19%neuroblastoma%tissuelist:TS-0681
+263 9%9%neuroblastoma%tissuelist:TS-0681
+264 0%0%Serum%tissuelist:TS-0923
+265 
+266 
+267 13%13%serum%tissuelist:TS-0923
+268 
+269 14%15%growth_cones%go:GO:0030426
+270 
+271 18%18%yeast%taxonomy:4932
+272 
+273 17%18%growth_cone%go:GO:0030426 23%23%extension%uberon:UBERON:2000106
+274 19%19%BA1%uberon:UBERON:0006099
+275 
+276 
+277 
+278 
+279 
+280 
+281 

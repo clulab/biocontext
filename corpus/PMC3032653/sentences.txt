@@ -1,0 +1,111 @@
+Spatially restricted activation of RhoA at epithelial junctions by p114RhoGEF drives junction formation and morphogenesis .
+Signalling by the GTPase RhoA , a key regulator of epithelial cell behaviour , can stimulate opposing processes : RhoA can promote junction formation and apical constriction , as well as reduced adhesion and cell spreading XREF_BIBR ,  XREF_BIBR .
+Molecular mechanisms are thus required that ensure spatially restricted and process specific RhoA activation .
+For many fundamental processes , including assembly of the epithelial junctional complex , such mechanisms are still unknown .
+Here we show that p114RhoGEF is a junction associated protein that drives RhoA signalling at the junctional complex and regulates tight junction assembly and epithelial morphogenesis .
+p114RhoGEF is required for RhoA activation at cell-cell junctions , and its depletion stimulates non junctional Rho signalling and induction of myosin phosphorylation along the basal domain .
+Depletion of GEF-H1 , a RhoA activator inhibited by junctional recruitment XREF_BIBR , does not reduce junction associated RhoA activation .
+p114RhoGEF associates with a complex containing myosin II , Rock II and the junctional adaptor cingulin , indicating that p114RhoGEF is a component of a junction associated Rho signalling module that drives spatially restricted activation of RhoA to regulate junction formation and epithelial morphogenesis .
+A particular RhoGTPase can be part of signalling mechanisms that stimulate opposing processes and , at a given point in time , may be activated at one subcellullar site and inactivated at another .
+Orchestration of RhoGTPase signalling thus requires mechanisms that regulate activity in space and time XREF_BIBR ,  XREF_BIBR .
+Activation of GTPases is catalysed by guanine nucleotide exchange factors ( GEFs ) and inactivation by GTPase activating proteins ( GAPs ) XREF_BIBR ,  XREF_BIBR .
+In epithelial cells , the RhoGTPase family member RhoA is activated at cell junctions upon initiation of cell-cell adhesion and , concomitantly , downregulated in other parts of the cells , contributing to reduced cell spreading and stress fibre formation , and inhibition of proliferation XREF_BIBR - XREF_BIBR .
+Junctional RhoA activation drives formation of tight and adherens junctions , and is required to maintain junctional integrity , processes that are mediated by the actinomyosin cytoskeleton ; however , how RhoA is activated at junctions is not understood .
+GEF-H1 , a GEF for RhoA , localises to tight junctions , the most apical component of the junctional complex ; yet , it is not required for junction formation , and junctional recruitment leads to its inactivation and inhibition of the Rho stimulated transcription factor ZONAB XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR .
+GEF-H1 activation is indeed required for junction dissociation XREF_BIBR .
+We identified p114RhoGEF as a regulator of epithelial differentiation and junction assembly using a functional siRNA screen .
+A p114RhoGEF specific antibody was found to detect a 114kD protein that disappeared upon transfection of specific siRNAs in the human intestinal epithelial cell line Caco-2 and in immortalised human corneal epithelial ( HCE ) cells ( XREF_FIG ) .
+By immunofluorescence , this antibody stained the junctional complex and a cytoplasmic pool ( XREF_FIG ) .
+Both stainings disappeared upon p114RhoGEF depletion ( XREF_FIG ) .
+Junctional p114RhoGEF overlapped with occludin , a tight junction protein , but not E-cadherin , an adherens junction component , indicating that p114RhoGEF associates with the apical junctional complex and tight junctions ( XREF_FIG ) .
+p114RhoGEF is a widely expressed gene and , in vitro , functions as a specific activator of RhoA XREF_BIBR - XREF_BIBR .
+Accordingly , depletion of p114RhoGEF resulted in reduced levels of active RhoA in HCE cells without significantly affecting Rac and Cdc42 ( XREF_FIG ) .
+We next determined the effect of p114RhoGEF depletion on the junctional complex by staining for tight and adherens junction markers .
+In the columnar epithelial cell line Caco-2 , p114RhoGEF depletion resulted in flatter cells and in a warped appearance of the junctional staining of ZO-1 and , to a lesser degree , beta-catenin , as well as reduced perijunctional f-actin and increased formation of stress fibres ( XREF_FIG ) .
+The phenotype of HCE cells was similar but , as these are not columnar , no flattening was observed .
+Strikingly , ZO-1 staining was disrupted , indicating a defect in tight junction assembly .
+Comparable phenotypes were observed when cells were stained for other tight junction markers and when p114RhoGEF was depleted with individual siRNAs or a different type of siRNA pool ( XREF_SUPPLEMENTARY ) .
+p114RhoGEF is thus required for normal junction formation and actin organisation .
+We next investigated if Caco-2 cells depleted of p114RhoGEF form functional epithelial barriers by testing the permeability properties of the monolayers ( XREF_FIG ) .
+We performed calcium switch assays to monitor de novo junction formation and measured transepithelial electrical resistance , a measure of barrier integrity XREF_BIBR .
+Depletion of p114RhoGEF strongly attenuated barrier formation and only reached 40 % of the values of control cultures ( XREF_FIG ) .
+Paracellular diffusion of fluorescent 4 and 70 kD dextran was still high in such cultures , indicating that tight junctions remained leaky ( XREF_FIG ) .
+Morphological analysis of cells incubated for different times with calcium revealed that p114RhoGEF depletion did not affect initial spreading and initiation of cell-cell contacts as ZO-1 accumulated at forming junctions already after 1 hour and f-actin staining revealed spread cells ( XREF_FIG ) .
+However , ZO-1 staining remained discontinuous and warped even after 24 hours .
+Similar observations were made for other junctional markers ( XREF_SUPPLEMENTARY ) .
+Thus , p114RhoGEF is not required for spreading and initiation of adhesion , but for junctional maturation .
+As expected , GEF-H1 depleted cells spread more slowly as round cells were still detected after 1 hour with calcium but , once junctions started to form , they established morphologically normal junctions ( XREF_FIG ) .
+GEF-H1 depletion did also not affect junction formation in HCE cells ( XREF_SUPPLEMENTARY ) .
+This is in agreement with previous observations indicating that GEF-H1 is not required for junction formation but cell spreading XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR .
+p114RhoGEF localised to forming junctions already after 30 minutes together with myosin II , a target of Rho signalling during junctional maturation XREF_BIBR  ( XREF_FIG ) .
+Myosin II recruitment to cell contacts was attenuated by 114RhoGEF depletion and , instead , showed increased association with stress fibres ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+GEF-H1 was also not recruited to cell contacts and may hence contribute to the increase in stress fibres along the base of the cells XREF_BIBR ,  XREF_BIBR .
+We next analysed whether p114RhoGEF regulates epithelial morphogenesis using three-dimensional culture systems that allow the formation of polarised cysts with a central lumen XREF_BIBR .
+p114RhoGEF was depleted by siRNA transfection in Caco-2 cells and expression of shRNAs in MDCK cells ( XREF_SUPPLEMENTARY ) .
+Depletion affected both epithelial cell types , resulting in a disorganised appearance of the cysts that often developed multiple lumens and an irregular distribution of ZO-1 ( XREF_FIG ) .
+The apical marker podocalyxin still accumulated in lumens , suggesting p114RhoGEF depletion did not cause a loss of polarity but a disorganised three-dimensional arrangement of the cells .
+We next investigated whether p114RhoGEF stimulates Rho signalling at the junctional complex .
+We used a FRET ( Fluorescence Resonance Energy Transfer )-based RhoA biosensor to localise RhoA activation in live cells after depletion of either p114RhoGEF or , as an additional control , GEF-H1 XREF_BIBR .
+In control cells , the most intense FRET signal , indicating active RhoA , was observed along cell-cell junctions ( XREF_FIG ) .
+Depletion of p114RhoGEF led to a redistribution of the FRET signal away from cell junctions and was increased throughout the cells including the basal domain ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Depletion of GEF-H1 did not affect the junctional FRET signal .
+Comparable results were obtained with HCE and Caco-2 cells as well as during junction formation , indicating that p114RhoGEF is required for spatially restricted RhoA activation at cell junctions .
+One of the main targets of RhoA signalling is phosphorylation of the light chain of myosin II ( MLC ) , leading to myosin activation XREF_BIBR .
+Therefore we next investigated the role of p114RhoGEF in MLC phosphorylation .
+In control cells , myosin staining was found along the junctional complex and , to a lesser extent , along the basal membrane ( XREF_FIG ) .
+Depletion of p114RhoGEF led to a redistribution of myosin from junctions to stress fibres .
+Phosphorylated MLC was found along cell junctions in control cells and concentrated on stress fibres in the absence of p114RhoGEF , indicating that myosin activation was shifted to the basal domain .
+GEF-H1 depletion did not affect the distribution of phosphorylated MLC ( XREF_FIG ) .
+Depletion of p114RhoGEF also inhibited the appearance of phosphorylated MLC during junction assembly , indicating that it is required for myosin activation during junction formation ( XREF_SUPPLEMENTARY ) .
+p114RhoGEF depletion did not alter total levels of phosphorylated MLC in Caco-2 cells and only slightly reduced them in HCE cells ( XREF_SUPPLEMENTARY ) .
+Phosphorylation of the Rock substrate myosin light chain phosphatase was also unaltered .
+These observations suggest that p114RhoGEF is required for the spatially restricted activation of RhoA signalling and myosin activation at cell-cell junctions , and that its absence leads to defective junction assembly , cell spreading , increased non junctional RhoA signalling and myosin activation .
+If p114RhoGEF regulates activation of junctional myosin , overexpression should induce junctional actinomyosin contraction and this should require a functional GEF domain .
+Hence , we substituted a conserved tyrosine residue in the Dbl domain necessary for GEF activity ( p114RhoGEFY260A ) .
+Analogous mutations were previously shown to inactivate the GEF activities of GEF-H1 and Lbc XREF_BIBR ,  XREF_BIBR .
+Cells expressing VSV tagged p114RhoGEF had increased active RhoA levels and increased levels of phosphorylated MLC whereas expression of the mutant had no effect ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Morphologically , expression of p114RhoGEF-VSV led to an apically contracted , rounded morphology with increased perijunctional f-actin ( XREF_FIG ) .
+In stably transfected MDCK cells , upregulation of the active p114RhoGEF led to increased phosphorylated MLC at cell junctions ( XREF_SUPPLEMENTARY ) .
+Expression of active , but not inactive p114RhoGEF led to Rock activity dependent rounding and monolayer contraction leading to monolayer gaps ( XREF_SUPPLEMENTARY ) .
+Cell compaction was particularly striking in the normally flat HCE cells , which developed an apically elongated , dome like appearance with a contracted junctional ring , but was also evident in Caco-2 cells ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+These effects required Rho activation as they were not observed when p114RhoGEFY260A-VSV was expressed .
+Similarly , only active human p114RhoGEF could induce recruitment of junctional markers in depleted MDCK cells , and expression of the inactive exchange factor in HCE cells interfered with the normal junctional distribution of ZO-1 ( XREF_SUPPLEMENTARY ) .
+Overexpression of GEF-H1 did not induce contraction of the perijunctional actinomyosin ring ( XREF_FIG ) .
+These data indicate that junctional contraction is a p114RhoGEF specific function and requires a functional GEF domain .
+As p114RhoGEF regulates the junctional recruitment of myosin , we next tested whether the two proteins are part of a common complex .
+p114RhoGEF immunoprecipitates contained myosin IIA and the RhoA effector Rock II ( XREF_FIG ) .
+Cingulin , a tight junction associated adaptor known to form a complex with myosin and to regulate RhoA signalling , was also coprecipitating with p114RhoGEF ( XREF_FIG )  XREF_BIBR ,  XREF_BIBR .
+Coprecipitation of myosin IIA , cingulin and RockII was not detected when cells were not allowed to form junctions by culturing in low calcium medium .
+Cingulin can also bind GEF-H1 ; however , coprecipitation of the two GEFs was not observed ( not shown ) , suggesting that they are part of distinct complexes .
+We next used GST fusion proteins of p114RhoGEF to map the domain of p114RhoGEF required for these interactions ( XREF_FIG ) .
+We found that full-length p114RhoGEF pulled down myosin IIA , cingulin and Rock II ; however , the efficiency was low possibly because the full length fusion protein was difficult to express .
+The PH domain alone pulled down myosin and cingulin efficiently .
+Pull down of Rock II was not efficient , suggesting that Rho activation might be needed for efficient Rock recruitment .
+We next asked whether cingulin is required for recruitment of p114RhoGEF to tight junctions .
+Depletion of cingulin indeed inhibited junctional recruitment of p114RhoGEF ( XREF_FIG ) .
+In HCE cells , cingulin was required for tight junction formation : depletion led to a loss of junctional staining not only of p114RhoGEF , but also of ZO-1 , occludin and GEF-H1 , but not of components of adherens junctions ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Cingulin and p114RhoGEF also colocalised by confocal microscopy , and overexpression of cingulin led to a redistribution of p114RhoGEF and myosin ( XREF_SUPPLEMENTARY ) .
+Cingulin depletion also attenuated p114RhoGEF and myosin IIA recruitment , and MLC phosphorylation at forming junctions ( XREF_SUPPLEMENTARY ) .
+Similarly , cingulin was required for myosin recruitment and MLC phosphorylation in HCE cells , and for normal Rho activation at cell junctions in Caco-2 and HCE cells ( XREF_FIG  and  XREF_SUPPLEMENTARY ) .
+Cingulin is thus important for the cellular distribution of p114RhoGEF and for activation of RhoA signalling at cell junctions .
+Our study shows that p114RhoGEF regulates spatially restricted activation of RhoA at epithelial junctions , driving junction assembly and junctional actinomyosin activation .
+RhoA signalling is well-known to be a crucial regulator of junction assembly and function XREF_BIBR ; however , the GEF that activates RhoA at cell junctions had thus far not been known .
+p114RhoGEF forms a functional signalling module containing Rock II and myosin , two proteins that are known to regulate junction dynamics XREF_BIBR ,  XREF_BIBR .
+Junctional recruitment requires cingulin , an adaptor protein that is known to impact on RhoA signalling XREF_BIBR ,  XREF_BIBR .
+p114RhoGEF regulates spatially restricted RhoA activation at cell-cell contacts in different types of epithelial cells .
+In agreement with previous results , depletion of GEF-H1 , which is not required for junction formation and is inactive at junctions , did not affect junctional Rho signalling XREF_BIBR , XREF_BIBR .
+Hence , p114RhoGEF and GEF-H1 represent two opposing pathways of RhoA regulation at cell junctions : the former is recruited to the forming junctional complex and promotes junctional maturation and contraction of the actinomyosin belt ; the latter is recruited and turned off , contributing to inhibition of confluence induced RhoA signalling and cell proliferation .
+Depletion of p114RhoGEF did not only inhibit RhoA activation at junctions , but led to increased non junctional Rho activation and increased MLC phosphorylation along the basal domain .
+Paradoxically as this may seem , it supports the specificity of p114RhoGEF for junctional Rho signalling and its importance for junction formation .
+RhoA activity is downregulated in response to cell confluence ; hence , interfering with junction formation stimulates RhoA signalling in the rest of the cell XREF_BIBR .
+As junctions do not form normally in p114RhoGEF depleted cells , GEF-H1 is also not recruited normally and , hence , is likely to contribute to overall RhoA activation in such cells .
+GEF-H1 indeed induces stress fibres in response to stimuli such as TNFalpha XREF_BIBR ,  XREF_BIBR .
+However , there are other mechanisms that contribute to inhibition of RhoA signalling at cell confluence , such as regulation of p190RhoGAP XREF_BIBR  or , possibly , the junction associated GAP myosin-IXb XREF_BIBR , and depletion of GEF-H1 in addition to p114RhoGEF was not sufficient to block stress fibre formation ( not shown ) .
+The junction associated actinomyosin cytoskeleton is crucial for the regulation of junction dynamics and function , and also drives apical constriction and tissue remodeling XREF_BIBR .
+p114RhoGEF thus associates with and activates a Rho signalling module that is central to epithelial junction formation and morphogenesis .
+This is supported by our data that shows p114RhoGEF regulated junction assembly and epithelial morphogenesis in three-dimensional culture systems .
+Overexpression of p114RhoGEF induced actinomyosin contraction , suggesting that this Rho GEF may also be important for developmental processes requiring apical constriction .
+Our data thus show that p114RhoGEF represents a RhoA regulator central to epithelial barrier formation and morphogenesis that forms a junction associated signalling module .
+Given the physiological roles of junctional RhoA signalling , it will be important to determine how p114RhoGEF becomes stimulated during physiological and developmental processes to drive spatially restricted Rho signalling at cell junctions .
+Supplementary Material .
+1                                2

@@ -1,0 +1,288 @@
+0 
+1 
+2 8%8%chromosomes%go:GO:0005694
+3 17%17%chromosomes%go:GO:0005694
+4 
+5 
+6 
+7 7%7%HMG%cellosaurus:CVCL_W288
+8 
+9 
+10 1%1%human%taxonomy:9606 18%18%telomere%uniprot:SL-0276
+11 
+12 
+13 
+14 
+15 
+16 15%15%telomere%uniprot:SL-0276
+17 
+18 
+19 
+20 
+21 
+22 
+23 2%2%nucleus%go:GO:0005634
+24 
+25 
+26 
+27 17%17%mouse%taxonomy:10090 18%18%lymphocytes%uaz:CL:0000542 24%24%lymphoma%tissuelist:TS-0585
+28 
+29 
+30 
+31 
+32 
+33 5%5%chromosomes%go:GO:0005694
+34 13%13%nucleus%go:GO:0005634 18%18%WI-38%cellosaurus:CVCL_0579
+35 
+36 
+37 8%9%X_chromosomes%go:GO:0000805 11%11%WI-38%cellosaurus:CVCL_0579 14%14%fibroblasts%tissuelist:TS-0362 30%30%chromosomes%go:GO:0005694
+38 5%5%chromosomes%go:GO:0005694 12%12%chromosome%go:GO:0005694
+39 6%6%centromeres%uniprot:SL-0047 13%13%chromosome%go:GO:0005694 17%17%human%taxonomy:9606 18%18%lymphocytes%uaz:CL:0000542 20%20%human%taxonomy:9606 21%21%fibroblasts%tissuelist:TS-0362
+40 7%7%centromeres%uniprot:SL-0047 12%12%WI-38%cellosaurus:CVCL_0579
+41 
+42 10%10%focus%cellosaurus:CVCL_7955
+43 9%9%chromosomes%go:GO:0005694
+44 10%10%chromosome%go:GO:0005694
+45 4%4%nucleus%go:GO:0005634 9%9%WI-38%cellosaurus:CVCL_0579 17%17%chromosome%go:GO:0005694
+46 14%14%chromosome%go:GO:0005694
+47 
+48 10%10%chromosomes%go:GO:0005694
+49 6%6%nucleus%go:GO:0005634
+50 3%3%WI-38%cellosaurus:CVCL_0579 15%15%nucleus%go:GO:0005634
+51 4%4%WI-38%cellosaurus:CVCL_0579
+52 
+53 
+54 
+55 3%3%WI-38%cellosaurus:CVCL_0579
+56 
+57 
+58 
+59 
+60 
+61 
+62 38%38%chromosomes%go:GO:0005694
+63 
+64 28%28%WI-38%cellosaurus:CVCL_0579
+65 28%28%WI-38%cellosaurus:CVCL_0579 35%35%WI-38%cellosaurus:CVCL_0579 36%36%chromosomes%go:GO:0005694 39%39%HeLa%cellosaurus:CVCL_0030
+66 37%37%WI-38%cellosaurus:CVCL_0579 51%52%HeLa_cells%tissuelist:TS-0136
+67 18%18%WI-38%cellosaurus:CVCL_0579 33%33%HeLa%cellosaurus:CVCL_0030
+68 19%19%chromosomes%go:GO:0005694
+69 
+70 45%45%WI-38%cellosaurus:CVCL_0579
+71 
+72 19%19%WI-38%cellosaurus:CVCL_0579
+73 
+74 
+75 
+76 
+77 18%18%H1%cellosaurus:CVCL_9771 22%22%rabbit%taxonomy:9986 24%24%sheep%taxonomy:9940
+78 3%3%rabbit%taxonomy:9986 12%12%sheep%taxonomy:9940
+79 
+80 17%17%WI-38%cellosaurus:CVCL_0579
+81 
+82 6%7%HeLa_cells%tissuelist:TS-0136 24%25%HeLa_cells%tissuelist:TS-0136 37%37%WI-38%cellosaurus:CVCL_0579
+83 17%17%sheep%taxonomy:9940
+84 16%16%WI-38%cellosaurus:CVCL_0579
+85 14%14%WI-38%cellosaurus:CVCL_0579 30%30%sheep%taxonomy:9940
+86 11%11%serum%tissuelist:TS-0923 19%19%WI-38%cellosaurus:CVCL_0579
+87 
+88 
+89 
+90 
+91 10%10%human%taxonomy:9606 11%11%fibroblasts%tissuelist:TS-0362 13%13%MRC-5%cellosaurus:CVCL_0440 15%15%IMR-90%cellosaurus:CVCL_0347 18%18%BJ%atcc:CRL-2522
+92 11%11%MRC-5%cellosaurus:CVCL_0440 13%13%IMR-90%cellosaurus:CVCL_0347 26%26%BJ%atcc:CRL-2522
+93 
+94 
+95 
+96 
+97 14%14%WI-38%cellosaurus:CVCL_0579 25%25%human%taxonomy:9606 26%26%fibroblasts%tissuelist:TS-0362
+98 
+99 
+100 
+101 30%30%WI-38%cellosaurus:CVCL_0579
+102 
+103 13%13%WI-38%cellosaurus:CVCL_0579 18%18%serum%tissuelist:TS-0923
+104 3%3%serum%tissuelist:TS-0923 6%6%WI-38%cellosaurus:CVCL_0579 20%20%WI-38%cellosaurus:CVCL_0579
+105 
+106 
+107 22%22%WI-38%cellosaurus:CVCL_0579
+108 
+109 
+110 2%2%WI-38%cellosaurus:CVCL_0579 8%8%retrovirus%taxonomy:31931 44%44%retrovirus%taxonomy:31931
+111 
+112 
+113 
+114 
+115 19%19%WI-38%cellosaurus:CVCL_0579
+116 2%2%WI-38%cellosaurus:CVCL_0579
+117 17%17%chromosomes%go:GO:0005694
+118 
+119 
+120 32%32%WI-38%cellosaurus:CVCL_0579
+121 
+122 29%29%WI-38%cellosaurus:CVCL_0579
+123 
+124 
+125 22%22%WI-38%cellosaurus:CVCL_0579
+126 
+127 
+128 
+129 25%25%WI-38%cellosaurus:CVCL_0579
+130 
+131 
+132 
+133 13%13%WI-38%cellosaurus:CVCL_0579
+134 
+135 18%18%WI-38%cellosaurus:CVCL_0579
+136 
+137 
+138 
+139 
+140 
+141 36%36%retrovirus%taxonomy:31931
+142 
+143 
+144 
+145 
+146 
+147 
+148 
+149 10%10%WI-38%cellosaurus:CVCL_0579
+150 
+151 
+152 
+153 
+154 
+155 
+156 8%8%chromosomes%go:GO:0005694
+157 
+158 6%6%centromere%uniprot:SL-0047
+159 22%22%chromosome%go:GO:0005694
+160 6%6%chromosome%go:GO:0005694
+161 15%15%chromosome%go:GO:0005694
+162 10%10%chromosome%go:GO:0005694
+163 
+164 13%13%nucleus%go:GO:0005634
+165 
+166 12%12%chromosome%go:GO:0005694
+167 
+168 
+169 
+170 
+171 
+172 
+173 33%33%chromosome%go:GO:0005694
+174 
+175 
+176 
+177 
+178 
+179 
+180 34%34%H1%cellosaurus:CVCL_9771
+181 
+182 
+183 
+184 
+185 25%25%SK-N-SH%cellosaurus:CVCL_0531 26%26%neuroblastoma%tissuelist:TS-0681
+186 
+187 
+188 0%2%Embryonic_stem_cells%uaz:CL:0002322
+189 
+190 
+191 
+192 18%18%yeast%taxonomy:4932
+193 
+194 
+195 28%28%cytoplasm%go:GO:0005737
+196 
+197 
+198 
+199 
+200 0%0%HMG%cellosaurus:CVCL_W288
+201 4%4%HMG%cellosaurus:CVCL_W288
+202 6%6%HMG%cellosaurus:CVCL_W288 34%34%HMG%cellosaurus:CVCL_W288
+203 
+204 
+205 
+206 
+207 
+208 
+209 
+210 
+211 
+212 
+213 
+214 
+215 
+216 
+217 
+218 
+219 
+220 
+221 1%1%human%taxonomy:9606 2%2%fibroblasts%tissuelist:TS-0362 3%3%WI-38%cellosaurus:CVCL_0579 5%5%MRC-5%cellosaurus:CVCL_0440 8%8%IMR-90%cellosaurus:CVCL_0347
+222 0%0%BJ%atcc:CRL-2522
+223 
+224 
+225 14%15%target_cells%uniprot:SL-0487
+226 
+227 
+228 17%17%Goto%cellosaurus:CVCL_1234
+229 
+230 
+231 
+232 85%85%H1%cellosaurus:CVCL_9771 86%86%sheep%taxonomy:9940 95%95%BD%cellosaurus:CVCL_F568 136%136%H1%cellosaurus:CVCL_9771 137%137%rabbit%taxonomy:9986
+233 
+234 
+235 8%8%milk%tissuelist:TS-0636
+236 
+237 30%30%lens%tissuelist:TS-0545
+238 
+239 
+240 
+241 
+242 
+243 
+244 
+245 
+246 
+247 
+248 
+249 
+250 
+251 5%5%chromosome%go:GO:0005694
+252 
+253 
+254 
+255 
+256 21%21%needle%tissuelist:TS-0665 28%29%cell_membrane%uniprot:SL-0039
+257 
+258 
+259 
+260 
+261 
+262 
+263 
+264 
+265 
+266 
+267 
+268 14%14%membranes%go:GO:0016020 22%22%ECL%uaz:CL:0000504
+269 
+270 
+271 
+272 
+273 
+274 
+275 
+276 
+277 6%6%H1%cellosaurus:CVCL_9771 7%7%sheep%taxonomy:9940
+278 
+279 6%6%H1%cellosaurus:CVCL_9771 9%9%chromosomes%go:GO:0005694 14%14%WI-38%cellosaurus:CVCL_0579 18%18%H1%cellosaurus:CVCL_9771
+280 
+281 
+282 
+283 
+284 
+285 
+286 
+287 

@@ -1,0 +1,114 @@
+0	2-15	tissuelist:TS-0095,tissuelist:TS-1030,uberon:UBERON:0003714
+0	2-20	tissuelist:TS-0095,tissuelist:TS-1030,uberon:UBERON:0003714
+0	7-15	tissuelist:TS-0095,tissuelist:TS-1030,uberon:UBERON:0003714
+0	7-20	tissuelist:TS-0095,tissuelist:TS-1030,uberon:UBERON:0003714
+0	12-15	tissuelist:TS-0095,tissuelist:TS-1030,uberon:UBERON:0003714
+0	12-20	tissuelist:TS-0095,tissuelist:TS-1030,uberon:UBERON:0003714
+2	0-2	tissuelist:TS-1030,uberon:UBERON:0003714
+3	0-7	tissuelist:TS-1030,uberon:UBERON:0003714
+4	0-4	tissuelist:TS-1030,uberon:UBERON:0003714
+4	0-9	tissuelist:TS-1030,uberon:UBERON:0003714
+4	4-9	tissuelist:TS-1030,uberon:UBERON:0003714
+5	2-4	cellosaurus:CVCL_0224
+5	2-6	cellosaurus:CVCL_0224
+10	2-6	tissuelist:TS-0095
+11	4-6	tissuelist:TS-0095,tissuelist:TS-1030,cellosaurus:CVCL_0224,uberon:UBERON:0003714
+24	7-15	
+24	7-17	
+24	7-28	
+27	5-22	
+27	7-22	
+27	10-22	
+30	8-17	
+30	10-17	
+32	13-19	taxonomy:10090,tissuelist:TS-0933,uaz:CL:0000056
+33	6-10	cellosaurus:CVCL_0224
+33	6-15	cellosaurus:CVCL_0224
+33	10-15	cellosaurus:CVCL_0224
+34	2-4	cellosaurus:CVCL_0224
+34	2-6	cellosaurus:CVCL_0224
+35	24-31	tissuelist:TS-0095
+47	0-14	cellosaurus:CVCL_0549
+127	5-8	taxonomy:10090,tissuelist:TS-0933,uaz:CL:0000056
+145	3-5	cellosaurus:CVCL_0190,cellosaurus:CVCL_0224,tissuelist:TS-0683,cellosaurus:CVCL_0120,cellosaurus:CVCL_0451,cellosaurus:CVCL_S979
+145	26-28	cellosaurus:CVCL_0190,cellosaurus:CVCL_0224,tissuelist:TS-0683,cellosaurus:CVCL_0120,cellosaurus:CVCL_0451,cellosaurus:CVCL_S979
+147	3-7	
+153	5-8	cellosaurus:CVCL_0451
+153	5-10	cellosaurus:CVCL_0451
+158	0-3	cellosaurus:CVCL_0451
+167	11-15	cellosaurus:CVCL_0451
+169	6-11	cellosaurus:CVCL_0451
+170	7-24	cellosaurus:CVCL_0451
+171	0-5	cellosaurus:CVCL_0451
+172	1-5	cellosaurus:CVCL_0451
+172	10-15	
+174	10-17	
+174	12-17	
+174	14-17	
+176	1-14	
+176	5-14	
+176	7-14	
+176	11-14	
+179	2-17	
+179	6-17	
+179	14-17	
+180	4-17	
+180	8-17	
+180	14-17	
+182	0-4	
+183	4-46	
+183	10-46	
+183	17-46	
+183	20-46	
+183	22-46	
+183	24-46	
+183	26-46	
+183	27-46	
+183	36-46	
+183	39-46	
+183	41-46	
+188	3-13	
+192	0-24	
+194	4-11	
+194	7-11	
+197	2-8	taxonomy:9913,tissuelist:TS-0095
+198	2-26	uaz:CL:0000023,uaz:CL:0000775,taxonomy:8355
+205	16-21	tissuelist:TS-0095
+206	2-11	cellosaurus:CVCL_M383
+206	4-11	cellosaurus:CVCL_M383
+207	38-44	taxonomy:9913,tissuelist:TS-0095
+208	3-12	taxonomy:9913,tissuelist:TS-0095
+208	5-12	taxonomy:9913,tissuelist:TS-0095
+208	8-12	taxonomy:9913,tissuelist:TS-0095
+211	22-28	taxonomy:9913,tissuelist:TS-0095
+213	4-6	taxonomy:9913,tissuelist:TS-0095
+215	9-13	cellosaurus:CVCL_0224
+215	11-13	
+216	0-2	
+216	0-4	cellosaurus:CVCL_0224
+218	1-5	cellosaurus:CVCL_0224
+218	3-5	cellosaurus:CVCL_0224
+221	2-6	cellosaurus:CVCL_0224
+223	11-13	cellosaurus:CVCL_0224
+223	11-15	cellosaurus:CVCL_0224
+233	0-3	
+238	6-13	
+239	11-14	
+241	2-9	
+241	6-9	
+242	8-13	
+245	0-7	
+245	2-7	
+248	0-5	
+248	2-5	
+249	3-14	
+249	11-14	
+249	28-32	
+252	6-12	tissuelist:TS-0095
+255	3-5	tissuelist:TS-0095
+256	0-4	
+261	1-5	tissuelist:TS-0683,tissuelist:TS-0095
+261	3-5	tissuelist:TS-0683,tissuelist:TS-0095
+262	12-15	tissuelist:TS-0095
+264	4-6	cellosaurus:CVCL_0224
+264	4-8	cellosaurus:CVCL_0224

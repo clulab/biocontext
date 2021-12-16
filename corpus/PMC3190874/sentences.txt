@@ -1,0 +1,154 @@
+Immunoglobulin E Receptor Signaling and Asthma * .
+Elevated IgE levels and increased IgE sensitization to allergens are central features of allergic asthma .
+IgE binds to the high-affinity Fcepsilon receptor I ( FcepsilonRI ) on mast cells , basophils , and dendritic cells and mediates the activation of these cells upon antigen induced cross linking of IgE bound FcepsilonRI .
+FcepsilonRI activation proceeds through a network of signaling molecules and adaptor proteins and is negatively regulated by a number of cell surface and intracellular proteins .
+Therapeutic neutralization of serum IgE in moderate-to-severe allergic asthmatics reduces the frequency of asthma exacerbations through a reduction in cell surface FcepsilonRI expression that results in decreased FcepsilonRI activation , leading to improved asthma control .
+Our increasing understanding of IgE receptor signaling may lead to the development of novel therapeutics for the treatment of asthma .
+Introduction .
+Asthma is a disease characterized by reversible airway obstruction , airway hyper-reactivity , and chronic airway inflammation that manifest as symptoms such as coughing , shortness of breath , chest tightness , and wheezing .
+Asthma is estimated to affect up to 300 million people worldwide , and although the majority of asthmatics are well controlled by treatment with inhaled corticosteroids and bronchodilators , many asthmatics are still inadequately controlled by current therapies , with the most severe asthmatics responding poorly to all available medications ( XREF_BIBR ) .
+Given that the most severe 5-10 % of asthmatics are estimated to account for nearly 50 % of total healthcare costs related to asthma , there is a significant need for new therapies for the treatment of asthma ( XREF_BIBR ) .
+Asthma is one of several allergic diseases that are associated with elevated IgE levels and increased IgE sensitization to allergens ( XREF_BIBR ,  XREF_BIBR ) .
+IgE binds to two different receptors , the high-affinity Fcepsilon receptor I ( FcepsilonRI ) 2  and the low-affinity receptor FcepsilonRII and CD23 ( XREF_BIBR ) .
+In humans , FcepsilonRI is found on mast cells and basophils , where it is a tetrameric complex consisting of one alpha-chain , one beta-chain , and two disulfide bonded gamma-chains , and on dendritic cells , Langerhans cells , macrophages , and eosinophils , where it is a trimeric complex consisting of one alpha-chain and two disulfide bonded gamma-chains ( XREF_BIBR ) .
+The FcepsilonRI alpha-subunit ( FcepsilonRIalpha ) is unique to FcepsilonRI , whereas the beta- and gamma-subunits ( FcRbeta and FcRgamma , respectively ) form complexes with other Fc receptors and , in the case of FcRgamma , the T cell receptor , in addition to FcepsilonRI .
+IgE stabilizes the cell surface levels of FcepsilonRI by preventing the internalization of the receptor from the cell surface ( XREF_BIBR ) .
+The up-regulation of cell surface FcepsilonRI levels by IgE increases the sensitivity of cells to FcepsilonRI activation triggered by allergen induced cross linking of IgE that is bound to FcepsilonRI .
+Activation of FcepsilonRI on mast cells and basophils leads to degranulation , eicosanoid production , and cytokine production , which are associated with early- and late-phase anaphylactic reactions that can result in exacerbations of asthma ( XREF_BIBR - XREF_BIBR ) .
+Activation of FcepsilonRI on dendritic cells leads to increased antigen presentation and cytokine and chemokine production , which may enhance T-helper 2 cell sensitization , which promotes the allergic inflammation that drives asthma pathogenesis ( XREF_BIBR - XREF_BIBR ) .
+CD23 is found on B cells and myeloid cells , where it is a homotrimeric complex that regulates IgE synthesis and mediates antigen presentation ( XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR ) .
+A key role for FcepsilonRI signaling in the pathogenesis of allergic asthma was demonstrated by the therapeutic neutralization of serum IgE in moderate and severe allergic asthmatics , including those who respond poorly to all other therapies , using a monoclonal antibody that blocks the binding of IgE to both of its receptors ( XREF_BIBR ,  XREF_BIBR ) .
+Treatment with anti-IgE antibody results in significant anti-inflammatory effects that ultimately lead to a reduction in the frequency of asthma exacerbations ( XREF_BIBR ) .
+Upon neutralization of serum IgE , cell surface FcepsilonRI levels are reduced on mast cells , basophils , and dendritic cells ( XREF_BIBR - XREF_BIBR ) .
+The reduction in mast cell and basophil surface FcepsilonRI levels results in decreased FcepsilonRI activation and is proposed to be the primary mechanism underlying the efficacy of anti-IgE treatment .
+However , anti-IgE therapy does not completely abrogate FcepsilonRI activation ; has a relatively slow onset of efficacy ; and , due to dosing limitations , is not approved for patients with very high IgE levels , who might benefit the most from neutralization of serum IgE .
+Thus , approaches that inhibit FcepsilonRI activation more directly , potently , and quickly than anti-IgE therapy are promising new therapies for the treatment of asthma .
+Given the important role of FcepsilonRI signaling and mast cell activation in asthma pathogenesis , this minireview focuses on recent advances in our understanding of the positive and negative regulation of FcepsilonRI signaling in mast cells .
+For a detailed discussion of CD23 , see several excellent reviews that cover CD23 structure , signaling , and function ( XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR ) .
+FcepsilonRI Expression , Distribution , and Dynamics at the Cell Surface .
+The FcepsilonRIalpha , FcRbeta , and FcRgamma components of the tetrameric FcepsilonRI complex in mast cells have different functions in FcepsilonRI signaling .
+FcepsilonRIalpha contains an extracellular domain that binds IgE but does not directly mediate intracellular signaling .
+FcRgamma contains a cytoplasmic immunoreceptor tyrosine based activation motif ( ITAM ) that couples FcepsilonRI cross linking to the initiation of intracellular signaling .
+FcRbeta also contains an ITAM and functions as an amplifier of intracellular signals .
+The cell surface expression of the human FcepsilonRI complex is regulated by a number of factors .
+FcepsilonRIalpha contains multiple endoplasmic reticulum ( ER ) retention signals that reside in the signal peptide , transmembrane , and cytoplasmic regions of the FcepsilonRIalpha sequence ( XREF_BIBR - XREF_BIBR ) .
+Additional residues in the transmembrane domain of FcepsilonRIalpha mediate interactions with FcRgamma that are required for cell surface expression ( XREF_BIBR ) .
+In addition to its role in directly promoting FcepsilonRI signaling via its ITAM , FcRbeta also acts as a chaperone that increases cell surface FcepsilonRI expression ( XREF_BIBR ) .
+Members of the Rab family of GTPases and their intracellular cofactors , such as Rab5 , Rabex-5 and RabGEF1 , and Rabaptin-5 , regulate cell surface levels of FcepsilonRI by modulating FcepsilonRI internalization and the cell surface stability of FcepsilonRI ( XREF_BIBR ,  XREF_BIBR ) .
+Cross linking of many cell surface receptors results in receptor partitioning to detergent-insoluble membrane lipid fractions ( lipid rafts ) ( XREF_BIBR ) .
+Lipid rafts are enriched in signaling and adaptor molecules that mediate intracellular signal transduction , and the localization of cell surface receptors to lipid rafts assists the signal transduction process .
+For FcepsilonRI , biochemical and biophysical studies have demonstrated that cross linking and activation are associated with redistribution of FcepsilonRI to lipid rafts , and this recruitment of FcepsilonRI to lipid rafts is important for FcepsilonRI signaling ( XREF_BIBR ) .
+However , the overall role of lipid rafts in the initiation versus maintenance of FcepsilonRI signaling is unclear .
+One model of FcepsilonRI signaling postulates that activation is initiated in lipid rafts , requiring the recruitment of FcepsilonRI to lipid raft environments that contain the initiating Src family kinase Lyn ( XREF_BIBR ) .
+Another model of FcepsilonRI signaling postulates that activation can be initiated outside of lipid raft compartments , where a small fraction of Lyn that is pre-associated with the FcR beta-subunit activates FcepsilonRI signaling upon receptor cross linking ( XREF_BIBR ,  XREF_BIBR ) .
+In this model , the recruitment of FcepsilonRI to lipid rafts is important for signal propagation and maintenance through adaptor proteins such as LAT , but not initiation .
+Recent biophysical studies of FcepsilonRI and membrane lipid distribution and dynamics have enabled the monitoring of very small lipid raft microdomains in cells under physiologic conditions .
+The results of these studies suggest a hybrid of both models and indicate that lipid raft microdomains coalesce upon cross linking of FcepsilonRI and redistribute with aggregated FcepsilonRI proteins in a time frame that correlates with the kinetics of FcepsilonRI phosphorylation ( XREF_BIBR ,  XREF_BIBR ) .
+Signaling Events Proximal to FcepsilonRI .
+Intracellular FcepsilonRI signaling proceeds through a network of signaling molecules and adaptor proteins ( XREF_FIG ) .
+The Src family kinases mediate intracellular signaling events that are proximal to FcepsilonRI ( XREF_BIBR ,  XREF_BIBR ) .
+Lyn is the most highly expressed Src family kinase in mast cells , and it initiates FcepsilonRI signaling by phosphorylating the ITAMs of FcRbeta and FcRgamma .
+However , the overall role of Lyn as a positive or negative regulator of mast cell activation downstream of FcepsilonRI is controversial .
+Substrates for Lyn phosphorylation include both positive regulators of FcepsilonRI signal transduction such as Syk and negative regulators of FcepsilonRI signal transduction such as Cbp ( Csk binding protein ) , which recruits Csk , a negative regulator of Src family kinases ( XREF_BIBR - XREF_BIBR ) .
+In vitro studies of Lyn knock-out mast cells have demonstrated increased , decreased , or unaffected degranulation and increased cytokine production upon FcepsilonRI activation compared with wild-type mast cells ( XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR - XREF_BIBR ) .
+The discrepancy in effects of Lyn deficiency on mast cell degranulation in these various studies may be due to genetic differences in Fyn expression and activity that are associated with different mouse background strains ( XREF_BIBR ) .
+It may also be due to differences in the strength of FcepsilonRI stimulation that result in differences in the net role of Lyn as a positive or negative regulator of FcepsilonRI signaling ( XREF_BIBR ) .
+The interpretation of in vivo studies of Lyn knock-out mice is complicated by age dependent increases in serum IgE , total numbers of mast cells , and spontaneous mast cell activation .
+Young Lyn knock-out mice have a hyper-responsive degranulation phenotype in vivo compared with wild-type mice , indicating an overall negative regulatory role for Lyn in mast cell degranulation downstream of FcepsilonRI activation in vivo ( XREF_BIBR ) .
+Although older Lyn knock-out mice have a defective degranulation phenotype in vivo , this phenotype appears to result from a reduced ability to sensitize these mice with exogenous IgE due to high circulating levels of endogenous IgE as opposed to inherent defects in FcepsilonRI mediated mast cell activation ( XREF_BIBR ,  XREF_BIBR ) .
+Other Src family kinases that play a role in FcepsilonRI signaling are Fyn and Hck .
+Both Fyn and Hck have positive regulatory roles in mast cell activation such that Fyn and Hck knock-out mast cells have reduced degranulation and cytokine production upon FcepsilonRI activation ( XREF_BIBR - XREF_BIBR ) .
+Fyn is involved in the activation of lipid signaling pathways mediated by PI3K , sphingosine kinase ( SphK ) , and phospholipase D ( PLD ) , which are discussed further below .
+Among Lyn , Fyn , and Hck , Hck negatively regulates Lyn , and Lyn negatively regulates Fyn ( XREF_BIBR ) .
+Lyn knock-out mast cells with enhanced Fyn activity are hyper-responsive to FcepsilonRI activation ( XREF_BIBR ) .
+Reduction of Lyn function through disruption of Lyn localization to lipid rafts can also lead to increased Fyn activity ( XREF_BIBR ) .
+This may provide an explanation for the allergic phenotypes that are observed in humans with Smith-Lemli-Opitz syndrome , a disease that arises from a defective gene mutant of 3beta-hydroxysterol Delta 7 -reductase ( DHCR7 ) , an enzyme that converts 7-dehydrocholesterol to cholesterol .
+Knock-out of DHCR7 in mice results in a disruption of lipid raft stability due to low cholesterol levels and a reduction in the lipid raft localization of FcepsilonRI and Lyn ( XREF_BIBR ) .
+Fyn activity is increased in DHCR7 knock-out mouse mast cells , resulting in increased mast cell degranulation upon activation of FcepsilonRI .
+A key mediator of proximal FcepsilonRI signaling is Syk , which is recruited to the FcepsilonRI complex by association with phosphorylated FcRgamma ( XREF_BIBR ) .
+Subsequent to its association with FcepsilonRI , Syk is phosphorylated and activated by Lyn .
+Syk phosphorylates the adaptor proteins LAT and NTAL/LAB/LAT2 , whose functions are described below , and thereby coordinates the activation of multiple downstream signaling pathways .
+This ultimately leads to mast cell degranulation , eicosanoid production , and cytokine production ( XREF_BIBR ) .
+Structural and functional aspects of Syk activity in mast cell signaling have been reviewed extensively ( XREF_BIBR ,  XREF_BIBR ) .
+Adaptor Proteins in FcepsilonRI Signaling .
+Two major adaptor proteins downstream of FcepsilonRI signaling are LAT and NTAL/LAB/LAT2 ( XREF_BIBR ) .
+Phosphorylation of LAT by Syk leads to the recruitment and activation of phospholipase Cgamma ( PLCgamma ) , which is discussed further below , as well as the recruitment and activation of Ras and Rho GTPases and MAPKs ( i.e. p38 , JNK , and ERK ) , leading to mast cell degranulation , eicosanoid production , and cytokine production ( XREF_BIBR ) .
+The LAT adaptor protein integrates both positive and negative regulatory signals downstream of FcepsilonRI activation ( XREF_BIBR ) , leading to an overall positive regulatory role in FcepsilonRI signaling .
+The overall role of NTAL in FcepsilonRI signaling is less clear , with different studies indicating either positive or negative regulatory roles based on mouse gene knock-out and human RNAi knockdown studies in which the entire NTAL protein was deleted ( XREF_BIBR - XREF_BIBR ) .
+Two recent studies have focused on a positive regulatory role for NTAL in linking FcepsilonRI activation to PLCgamma activation through pathways that are parallel to and independent of LAT mediated PLCgamma activation ( XREF_BIBR ,  XREF_BIBR ) .
+One study demonstrated that the adaptor protein Grb2 is recruited to phosphorylated NTAL .
+The subsequent phosphorylation of Grb2 triggers the recruitment and activation of PLCgamma ( XREF_BIBR ) .
+The other study showed that a Gads- and SLP76 mediated pathway that is coupled to NTAL links FcepsilonRI activation to PLCgamma activation ( XREF_BIBR ) .
+Aside from LAT and NTAL , a number of additional adaptor proteins that play a role in FcepsilonRI signaling , many of which associate with LAT and NTAL to form large scaffolding complexes ( e.g. Grb2 , Gads , and SLP76 ) , have been extensively discussed by others ( XREF_BIBR ) .
+Lipid Signaling Downstream of FcepsilonRI .
+Several lipid signaling pathways are activated downstream of FcepsilonRI via Fyn , including pathways mediated by PI3K , SphK , and PLD ( XREF_BIBR ,  XREF_BIBR ) .
+The PI3K enzymes catalyze the phosphorylation of the inositol ring of membrane associated phosphatidylinositol 4,5-bisphosphate ( PIP 2 ) at the D3 position to generate phosphatidylinositol 1,4,5-triphosphate ( PIP 3 ) , a major intracellular lipid mediator that has effects on multiple signaling pathways involved in degranulation and cytokine production .
+The PI3K enzyme family consists of three subclasses , of which the class I PI3Ks are the most well understood ( XREF_BIBR ,  XREF_BIBR ) .
+The class I PI3Ks are further subdivided into class IA and class IB PI3Ks .
+The class IA PI3Ks consist of a p85 regulatory subunit and a p110 catalytic subunit ; there are five isoforms of p85 and three isoforms of p110 .
+The class IB PI3Ks consist of a p101 or p87 PIKAP  regulatory subunit and a p110 catalytic gamma-subunit .
+The p110 alpha- and beta-isoforms are ubiquitously expressed , and the p110 delta- and gamma-isoforms ( p110delta and p110gamma , respectively ) are expressed mainly in leukocytes .
+Both p110delta and p110gamma contribute to FcepsilonRI signaling in mast cells ( XREF_BIBR - XREF_BIBR ) .
+p110delta is directly activated downstream of FcepsilonRI , and genetic and pharmacologic inactivation of p110delta leads to reduced mast cell degranulation , eicosanoid production , and cytokine production both in vitro and in vivo ( XREF_BIBR ,  XREF_BIBR ) .
+The role of p110gamma in FcepsilonRI induced mast cell activation is more controversial .
+p110gamma is activated by G-protein-coupled receptors .
+As such , it is indirectly activated downstream of FcepsilonRI via autocrine mast cell signals that are mediated by adenosine and other G-protein-coupled receptor agonists ( XREF_BIBR ) .
+In vitro stimulation of mast cells from p110gamma knock-out mice results in reduced degranulation compared with mast cells from wild-type mice ( XREF_BIBR ,  XREF_BIBR ) .
+However , whereas one study reported reduced in vivo activation of mast cells in p110gamma knock-out mice ( XREF_BIBR ) , another study reported a lack of effect of p110gamma knock-out or pharmacologic inactivation of p110gamma on in vivo mast cell activation ( XREF_BIBR ) .
+PIP 3  that is generated by PI3K enzymes recruits several signaling proteins to the cell membrane via interaction with pleckstrin homology domains in these proteins , thereby propagating intracellular signaling .
+These signaling effectors include PDK1 , which activates Akt to promote cell proliferation and survival ( XREF_BIBR ) , and Btk ( XREF_BIBR ,  XREF_BIBR ) , which activates PLCgamma .
+PIP 3  also has regulatory effects on PLD and SphK .
+PI3K is positively regulated by RasGRP1 ( XREF_BIBR ) , in addition to being activated by Fyn .
+Mast cells from RasGRP1 knock-out mice show defects in multiple pathways downstream of PIP 3 , including reduced phosphorylation of Akt .
+This results in reduced degranulation and cytokine production upon FcepsilonRI activation of RasGRP1 knock-out mast cells .
+SphKs generate sphingosine 1-phosphate ( S1P ) from sphingosine .
+There are two SphK isoforms , but the contribution of each SphK isoform to FcepsilonRI signaling and mast cell activation is controversial .
+One group has defined an intracellular pathway whereby SphK2 generates S1P , which subsequently promotes intracellular calcium signaling that results in mast cell degranulation and cytokine production ( XREF_BIBR ) .
+SphK1 in other cell types generates S1P that is released extracellularly and acts on mast cells via the S1P1 and S1P2 receptors to promote mast cell migration and to enhance mast cell degranulation and cytokine production upon FcepsilonRI activation .
+On the other hand , data from other groups indicate that SphK1 , as opposed to SphK2 , is the major intracellular source of S1P in mast cells downstream of FcepsilonRI activation ( XREF_BIBR ,  XREF_BIBR ) .
+These groups have also described roles for extracellular S1P in mast cell migration and FcepsilonRI activation via the S1P1 and S1P2 receptors ( XREF_BIBR ,  XREF_BIBR ) .
+Calcium Signaling Downstream of FcepsilonRI .
+Intracellular calcium signaling contributes to degranulation , eicosanoid production , and cytokine production downstream of FcepsilonRI activation .
+FcepsilonRI induced calcium signaling in mast cells occurs in two steps , the first being release of calcium from intracellular calcium stores in the ER and the second being calcium influx from the extracellular space through store operated calcium channels ( XREF_BIBR ) .
+Intracellular calcium signaling is regulated by PLCgamma , which generates inositol 1,4,5-trisphosphate and diacylglycerol from PIP 2 .
+Inositol 1,4,5-trisphosphate stimulates the release of intracellular calcium stores upon binding to its receptor in the ER .
+The depletion of ER calcium stores then triggers extracellular calcium influx .
+Diacylglycerol and intracellular calcium signals cooperate to activate PKCs , which then activate other pathways such as the NF-kappaB pathway , ultimately leading to mast cell degranulation and cytokine production .
+Our understanding of intracellular calcium signaling has advanced significantly in recent years due to the discovery of the identity of key components and regulators of store operated calcium channels .
+STIM1 ( stromal interaction molecule 1 ) was identified as a calcium sensor located in the ER that couples the depletion of intracellular ER calcium stores to the activation of store operated calcium channels ( XREF_BIBR ,  XREF_BIBR ) .
+Orai1 and CRACM1 is a recently discovered membrane protein that constitutes the store operated calcium channel ( XREF_BIBR - XREF_BIBR ) .
+Mutation of Orai1 in humans results in severe combined immunodeficiency that is due to a lack of store operated calcium channel function .
+Both STIM1 and Orai1 knock-out mast cells are deficient in intracellular calcium signaling downstream of FcepsilonRI activation due to defective influx of calcium from the extracellular space , leading to defective mast cell degranulation , eicosanoid production , and cytokine production ( XREF_BIBR ,  XREF_BIBR ) .
+Recent data indicate that Syk is a local sensor of calcium signaling that contributes to a positive feedback loop downstream of store operated calcium channel opening and that also couples extracellular calcium influx to the activation of PKC and other pathways ( XREF_BIBR ,  XREF_BIBR ) .
+Negative Regulators of FcepsilonRI Signaling .
+Negative regulators of FcepsilonRI signaling can be grouped into intracellular and cell surface proteins that act at various points in the FcepsilonRI signaling network ( XREF_FIG ) .
+Intracellular negative regulators of FcepsilonRI signaling include the SHP-1 and SHP-2 phosphatases , which inhibit the activity of signaling proteins that are proximal to FcepsilonRI such as Syk and Fyn and adaptor proteins such as LAT and NTAL ( XREF_BIBR ,  XREF_BIBR ) .
+Protein-tyrosine phosphatase epsilon is a phosphatase that also acts at a proximal point in the FcepsilonRI signaling network by inhibiting Syk activity ( XREF_BIBR ) .
+The PI3K pathway is negatively regulated by SHIP and PTEN ( XREF_BIBR ) , which directly dephosphorylate PIP 3  to generate PIP 2 .
+SHIP dephosphorylates the phosphate at the D5 position of the inositol ring of PIP 3 , whereas PTEN dephosphorylates the phosphate at the D3 position .
+The PI3K pathway is also negatively regulated by RGS13 and LAX ( XREF_BIBR ,  XREF_BIBR ) , which inhibit the interaction of the PI3K p85 regulatory subunit with the Grb2-NTAL scaffolding complex .
+Mast cells that are deficient in these negative regulators have heightened degranulation and/or cytokine responses downstream of FcepsilonRI activation .
+Cell surface proteins on mast cells that negatively regulate FcepsilonRI activation include TRPM4 ( XREF_BIBR ) , which modulates extracellular calcium influx , and TLR4 ( XREF_BIBR ) , which , upon association with the ES62 product of filarial nematodes , traffics into vesicular compartments , where it sequesters and degrades PKCalpha , a protein kinase that mediates PLD and SphK activation downstream of FcepsilonRI .
+A number of cell surface receptors that contain cytoplasmic immunoreceptor tyrosine based inhibition motifs ( ITIMs ) are found in mast cells and function to negatively regulate FcepsilonRI activation upon co-engagement with FcepsilonRI by engaging endogenous negative regulatory pathways ( XREF_BIBR ,  XREF_BIBR ) .
+These ITIM containing receptors include FcgammaRIIb ( XREF_BIBR ) , PIR-B ( XREF_BIBR ) , gp49B1 ( XREF_BIBR ) , myeloid associated immunoglobulin receptor I ( XREF_BIBR ) , mast cell function associated antigen ( XREF_BIBR ) , signal regulator protein alpha ( XREF_BIBR ) , and the recently identified Allergin-1 ( XREF_BIBR ) .
+The mechanisms of FcgammaRIIb mediated inhibition of FcepsilonRI activation have been extensively described .
+Co-engagement of FcgammaRIIb with FcepsilonRI results in Lyn mediated phosphorylation of the tyrosine residue in the FcgammaRIIb ITIM motif , which subsequently recruits the protein-tyrosine phosphatase SHIP and the docking protein DOK1 to the FcepsilonRI complex ( XREF_BIBR ,  XREF_BIBR ) .
+SHIP is activated by phosphorylation and mediates dephosphorylation of PIP 3  to generate PIP 2 , thereby directly inhibiting the PI3K pathway .
+DOK1 recruits and activates Ras GTPase activating protein ( RasGAP ) , which inhibits the Ras pathway by enhancing the intrinsic GTPase activity of Ras .
+All other ITIM containing cell surface receptors inhibit FcepsilonRI activation through the action of SHP-1 and SHP-2 phosphatases .
+Therapeutic Targeting of FcepsilonRI Signaling .
+Given the clinical efficacy of therapeutic anti-IgE neutralization in asthma , which reduces FcepsilonRI activation and has revealed an important role for FcepsilonRI signaling in asthma pathogenesis , future therapies that directly target and inhibit FcepsilonRI signaling have significant potential for the treatment of asthma , especially those therapeutic strategies that lead to a more complete and/or faster inhibition of FcepsilonRI activation compared with anti-IgE therapy .
+Several intracellular proteins that play key roles in FcepsilonRI signaling and mast cell activation and whose therapeutic inhibition may lead to superior efficacy compared with anti-IgE therapy have been discussed in this minireview .
+Of these , there are significant ongoing efforts to generate small molecule inhibitors of Syk and PI3K , which have resulted in some compounds that have entered human clinical trials for asthma or other allergic diseases .
+There has also been recent progress in the generation of specific small molecule inhibitors of Btk ( XREF_BIBR ) .
+The discovery of STIM1 and Orai1 has spurred efforts to identify novel small molecule inhibitors of these components and regulators of store operated calcium channels .
+A major concern associated with many of these small molecule targets is their broad biology beyond FcepsilonRI signaling , which may result in adverse safety profiles upon therapeutic targeting .
+An alternative approach to the intracellular small molecule targeting of FcepsilonRI signaling utilizes protein based therapeutics , which are well suited for specifically targeting cell surface proteins .
+Several groups have developed protein based therapeutics that directly inhibit FcepsilonRI activation by co-cross-linking FcepsilonRI with various cell surface ITIM containing receptors , most commonly FcgammaRIIb .
+These approaches include an IgE-Fc and IgG-Fc fusion protein that simultaneously engages FcepsilonRI and FcgammaRIIb ( XREF_BIBR ) , a specific allergen and IgG-Fc fusion protein that simultaneously engages allergen specific IgE that is bound to FcepsilonRI and FcgammaRIIb ( XREF_BIBR ) , and various bispecific antibody technologies that co-cross-link FcepsilonRI with FcgammaRIIb or other ITIM containing receptors ( XREF_BIBR ,  XREF_BIBR ) .
+Limitations of several of these protein based therapeutics include poor in vivo pharmacokinetics , immunogenicity , and difficulties associated with large-scale manufacturing , although some new bispecific antibody formats can overcome many of these limitations ( XREF_BIBR ,  XREF_BIBR ) .
+Given the increasing development and use of antibody therapeutics for the treatment of diseases , including asthma , novel bispecific antibody approaches may help expand the scope of therapeutic targets in the future .
+Summary .
+A substantial network of signaling molecules and adaptor proteins that function downstream of FcepsilonRI activation has been defined .
+Future studies will continue to elucidate the cell and membrane biology of FcepsilonRI signaling , novel cell surface and intracellular mediators of FcepsilonRI activation , mechanisms of intracellular calcium signaling , and new inhibitory proteins that negatively regulate parts of the signaling network downstream of FcepsilonRI activation .
+Our increasing understanding of FcepsilonRI signaling may lead to the development of new therapeutics that inhibit FcepsilonRI activation for the treatment of asthma .

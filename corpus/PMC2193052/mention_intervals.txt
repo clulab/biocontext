@@ -1,0 +1,161 @@
+0 11%12%T_Cell%tissuelist:TS-1001 17%17%SLP-76%uaz:UA-CLine-100047
+1 
+2 6%7%hematopoietic_cells%uaz:CL:0000988 10%11%T_cells%uaz:CL:0000084
+3 7%7%leukocyte%tissuelist:TS-0549 13%13%SLP-76%uaz:UA-CLine-100047
+4 9%10%T_cells%uaz:CL:0000084
+5 5%5%Jurkat%cellosaurus:CVCL_0065 24%25%T_cell%tissuelist:TS-1001 31%32%T_cell%tissuelist:TS-1001 42%42%SH3%cellosaurus:CVCL_M383
+6 
+7 22%22%SLP-76%uaz:UA-CLine-100047
+8 32%32%nucleus%go:GO:0005634 46%47%T_cells%uaz:CL:0000084
+9 6%7%plasma_membrane%go:GO:0005886
+10 14%15%T_cells%uaz:CL:0000084
+11 
+12 15%16%T_cells%uaz:CL:0000084
+13 16%16%leukocyte%tissuelist:TS-0549 22%22%SLP-76%uaz:UA-CLine-100047 26%27%hematopoietic_cell%uaz:CL:0000988
+14 0%0%Mice%taxonomy:10090 3%3%SLP-76%uaz:UA-CLine-100047 10%11%T_cells%uaz:CL:0000084 14%14%thymus%tissuelist:TS-1043 18%19%T_cells%uaz:CL:0000084
+15 2%2%Jurkat%cellosaurus:CVCL_0065 4%4%J14%cellosaurus:CVCL_R861 9%9%SLP-76%uaz:UA-CLine-100047
+16 27%27%J14%cellosaurus:CVCL_R861
+17 5%5%SLP-76%uaz:UA-CLine-100047 25%25%SLP-76%uaz:UA-CLine-100047 30%30%SLP-76%uaz:UA-CLine-100047
+18 3%3%SLP-76%uaz:UA-CLine-100047 22%22%SLP-76%uaz:UA-CLine-100047 26%26%Jurkat%cellosaurus:CVCL_0065 37%38%T_cell%tissuelist:TS-1001
+19 4%4%SLP-76%uaz:UA-CLine-100047
+20 20%21%T_cells%uaz:CL:0000084
+21 
+22 28%28%SLP-76%uaz:UA-CLine-100047
+23 
+24 
+25 
+26 7%7%yeast%taxonomy:4932 12%12%human%taxonomy:9606
+27 14%14%human%taxonomy:9606
+28 7%7%yeast%taxonomy:4932 19%19%human%taxonomy:9606
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 0%0%SLP-76%uaz:UA-CLine-100047
+42 14%14%SLP-76%uaz:UA-CLine-100047
+43 8%8%SLP-76%uaz:UA-CLine-100047
+44 26%26%human%taxonomy:9606 32%32%human%taxonomy:9606 58%58%human%taxonomy:9606
+45 
+46 
+47 
+48 
+49 4%4%human%taxonomy:9606 5%6%T_cell%tissuelist:TS-1001 9%9%Jurkat%cellosaurus:CVCL_0065 11%11%MOLT-4%cellosaurus:CVCL_0013 13%13%human%taxonomy:9606 14%15%B_cell%tissuelist:TS-0068 18%18%Daudi%cellosaurus:CVCL_0008 20%20%Raji%cellosaurus:CVCL_0511 23%23%Ramos%cellosaurus:CVCL_0597 26%26%human%taxonomy:9606 31%31%THP-1%cellosaurus:CVCL_0006 34%34%human%taxonomy:9606 39%39%Eol-3%cellosaurus:CVCL_4069 42%42%human%taxonomy:9606 47%47%TF-1%cellosaurus:CVCL_0559 50%50%human%taxonomy:9606 51%51%lung%tissuelist:TS-0568 56%56%WI-26%cellosaurus:CVCL_2758 59%59%human%taxonomy:9606 60%61%epithelial_cell%tissuelist:TS-0288 64%64%HeLa%cellosaurus:CVCL_0030 68%68%SV40%taxonomy:10633 71%72%kidney_cell%uaz:CL:1000497
+50 0%0%TF-1%cellosaurus:CVCL_0559
+51 0%0%WI-26%cellosaurus:CVCL_2758
+52 
+53 
+54 
+55 
+56 1%1%rabbit%taxonomy:9986 17%17%human%taxonomy:9606
+57 1%1%rabbit%taxonomy:9986 17%17%human%taxonomy:9606 18%18%SLP-76%uaz:UA-CLine-100047
+58 1%1%human%taxonomy:9606
+59 
+60 
+61 
+62 
+63 
+64 26%26%ECL%uaz:CL:0000504
+65 
+66 
+67 
+68 5%5%Tissue%uberon:UBERON:0000479 19%19%human%taxonomy:9606
+69 
+70 11%11%Fuji%cellosaurus:CVCL_D880
+71 
+72 
+73 
+74 4%4%Jurkat%cellosaurus:CVCL_0065 27%27%SLP-76%uaz:UA-CLine-100047
+75 23%23%PMA%uberon:UBERON:2005088
+76 14%14%Ink%tissuelist:TS-1210
+77 
+78 
+79 
+80 18%18%yeast%taxonomy:4932
+81 8%8%human%taxonomy:9606
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 1%1%human%taxonomy:9606
+90 1%2%T__cell%tissuelist:TS-1001 5%5%MOLT-4%cellosaurus:CVCL_0013 7%7%Jurkat%cellosaurus:CVCL_0065 21%22%B_cell%tissuelist:TS-0068 25%25%Daudi%cellosaurus:CVCL_0008 27%27%Raji%cellosaurus:CVCL_0511 41%42%B_cell%tissuelist:TS-0068 45%45%Ramos%cellosaurus:CVCL_0597 48%49%myeloid_cell%tissuelist:TS-0647 52%52%THP-1%cellosaurus:CVCL_0006 54%54%TF-1%cellosaurus:CVCL_0559 57%57%Eol-3%cellosaurus:CVCL_4069 66%66%HeLa%cellosaurus:CVCL_0030 68%68%WI-26%cellosaurus:CVCL_2758
+91 
+92 5%5%human%taxonomy:9606 21%21%Jurkat%cellosaurus:CVCL_0065 23%23%MOLT-4%cellosaurus:CVCL_0013 26%27%myeloid_cell%tissuelist:TS-0647 30%30%KU812%cellosaurus:CVCL_0379 32%32%K562%cellosaurus:CVCL_0004 35%35%M-TAT%cellosaurus:CVCL_1Q82 47%47%human%taxonomy:9606 51%51%thymus%tissuelist:TS-1043 53%53%spleen%tissuelist:TS-0956 55%56%small_intestine%tissuelist:TS-0942 74%74%prostate%tissuelist:TS-0828 76%76%testis%tissuelist:TS-1030 78%78%ovary%tissuelist:TS-0730 80%80%colon%tissuelist:TS-0158 82%82%heart%tissuelist:TS-0445 84%84%brain%tissuelist:TS-0095 86%86%placenta%tissuelist:TS-0799 88%88%lung%tissuelist:TS-0568 90%90%liver%tissuelist:TS-0564 92%93%skeletal_muscle%tissuelist:TS-0933 95%95%kidney%tissuelist:TS-0510 98%98%pancreas%tissuelist:TS-0736
+93 15%16%hematopoietic_cells%uaz:CL:0000988 19%20%T_cells%uaz:CL:0000084
+94 8%8%SLP-76%uaz:UA-CLine-100047 46%46%SLP-76%uaz:UA-CLine-100047
+95 13%13%Jurkat%cellosaurus:CVCL_0065
+96 12%12%SLP-76%uaz:UA-CLine-100047 20%20%Jurkat%cellosaurus:CVCL_0065
+97 
+98 2%2%SLP-76%uaz:UA-CLine-100047
+99 8%8%SLP-76%uaz:UA-CLine-100047 12%12%Jurkat%cellosaurus:CVCL_0065
+100 8%8%SLP-76%uaz:UA-CLine-100047 24%24%SLP-76%uaz:UA-CLine-100047
+101 
+102 
+103 12%12%SLP-76%uaz:UA-CLine-100047
+104 2%2%SLP-76%uaz:UA-CLine-100047
+105 15%15%SLP-76%uaz:UA-CLine-100047
+106 7%7%SLP-76%uaz:UA-CLine-100047 13%13%SLP-76%uaz:UA-CLine-100047
+107 7%7%SLP-76%uaz:UA-CLine-100047
+108 7%7%SLP-76%uaz:UA-CLine-100047 26%26%SLP-76%uaz:UA-CLine-100047
+109 20%20%SLP-76%uaz:UA-CLine-100047
+110 5%5%SLP-76%uaz:UA-CLine-100047
+111 
+112 
+113 16%16%SLP-76%uaz:UA-CLine-100047 34%34%SLP-76%uaz:UA-CLine-100047
+114 29%29%SLP-76%uaz:UA-CLine-100047
+115 
+116 6%6%SLP-76%uaz:UA-CLine-100047 12%12%SLP-76%uaz:UA-CLine-100047 26%26%SLP-76%uaz:UA-CLine-100047 35%35%SLP-76%uaz:UA-CLine-100047
+117 
+118 11%11%SLP-76%uaz:UA-CLine-100047
+119 14%14%SLP-76%uaz:UA-CLine-100047
+120 
+121 20%20%SLP-76%uaz:UA-CLine-100047
+122 42%42%SLP-76%uaz:UA-CLine-100047
+123 12%12%SLP-76%uaz:UA-CLine-100047 21%21%SLP-76%uaz:UA-CLine-100047
+124 2%2%SLP-76%uaz:UA-CLine-100047
+125 
+126 
+127 4%4%SLP-76%uaz:UA-CLine-100047 6%6%Jurkat%cellosaurus:CVCL_0065 12%12%SLP-76%uaz:UA-CLine-100047 35%35%Jurkat%cellosaurus:CVCL_0065 40%40%SLP-76%uaz:UA-CLine-100047
+128 9%9%Jurkat%cellosaurus:CVCL_0065 12%12%SLP-76%uaz:UA-CLine-100047 26%26%PMA%uberon:UBERON:2005088
+129 
+130 9%9%Jurkat%cellosaurus:CVCL_0065
+131 23%23%SLP-76%uaz:UA-CLine-100047 40%40%SLP-76%uaz:UA-CLine-100047
+132 22%22%PMA%uberon:UBERON:2005088
+133 
+134 0%0%Jurkat%cellosaurus:CVCL_0065 3%3%SLP-76%uaz:UA-CLine-100047
+135 6%6%PMA%uberon:UBERON:2005088
+136 
+137 
+138 
+139 
+140 15%15%SLP-76%uaz:UA-CLine-100047
+141 
+142 20%20%SLP-76%uaz:UA-CLine-100047
+143 
+144 7%7%SLP-76%uaz:UA-CLine-100047
+145 
+146 9%9%Jurkat%cellosaurus:CVCL_0065
+147 
+148 
+149 9%9%SLP-76%uaz:UA-CLine-100047 32%32%SLP-76%uaz:UA-CLine-100047
+150 29%29%SLP-76%uaz:UA-CLine-100047 43%43%SLP-76%uaz:UA-CLine-100047
+151 14%15%hematopoietic_cells%uaz:CL:0000988 18%19%T_cells%uaz:CL:0000084
+152 
+153 
+154 
+155 
+156 6%6%human%taxonomy:9606 7%7%chromosome%go:GO:0005694
+157 16%16%human%taxonomy:9606 23%23%mouse%taxonomy:10090 32%32%mouse%taxonomy:10090
+158 4%4%human%taxonomy:9606
+159 
+160 

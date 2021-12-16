@@ -1,0 +1,266 @@
+A Novel Neural Wiskott-Aldrich Syndrome Protein ( N-Wasp ) Binding Protein , Wish , Induces Arp2/3 Complex Activation Independent of Cdc42 .
+We identified a novel adaptor protein that contains a Src homology ( SH ) 3 domain , SH3 binding proline rich sequences , and a leucine zipper like motif and termed this protein WASP interacting SH3 protein ( WISH ) .
+WISH is expressed predominantly in neural tissues and testis .
+It bound Ash and Grb2 through its proline rich regions and neural Wiskott-Aldrich syndrome protein ( N-WASP ) through its SH3 domain .
+WISH strongly enhanced N-WASP-induced Arp2/3 complex activation independent of Cdc42 in vitro , resulting in rapid actin polymerization .
+Furthermore , coexpression of WISH and N-WASP induced marked formation of microspikes in Cos7 cells , even in the absence of stimuli .
+An N-WASP mutant ( H208D ) that can not bind Cdc42 still induced microspike formation when coexpressed with WISH .
+We also examined the contribution of WISH to a rapid actin polymerization induced by brain extract in vitro .
+Arp2/3 complex was essential for brain extract induced rapid actin polymerization .
+Addition of WISH to extracts increased actin polymerization as Cdc42 did .
+However , WISH unexpectedly could activate actin polymerization even in N-WASP-depleted extracts .
+These findings suggest that WISH activates Arp2/3 complex through N-WASP-dependent and -independent pathways without Cdc42 , resulting in the rapid actin polymerization required for microspike formation .
+Introduction .
+Ash and Grb2 is an adaptor protein composed of one central Src homology ( SH ) 2 domain and two flanking SH3 domains ( Lowenstein et al. 1992 ; Matuoka et al. 1992 ) .
+The SH2 domain of Ash and Grb2 receives signals from several upstream target proteins including EGF receptor ( Lowenstein et al. 1992 ; Matuoka et al. 1992 ) , PDGF receptor ( Arvidsson et al. 1994 ) , Shc ( Rozakis-Adcock et al. 1992 ) , and insulin receptor 1 ( IRS1 ) ( Baltensperger et al. 1993 ) through binding to the specific phosphotyrosine containing motif on the target protein .
+Signals received at the SH2 domain are transmitted downstream through SH3 domain binding proteins .
+A recent study has shown that the SH3 domains of Ash and Grb2 bind to a variety of proline rich proteins including Sos ( Rozakis-Adcock et al. 1993 ; Simon et al. 1993 ) , synaptojanin ( McPherson et al. 1996 : Sakisaka et al. 1997 ) , dynamin ( Gout et al. 1993 ; Miki et al. 1994 ) , c-Cbl ( Meisner and Czech 1995 ) , Abl ( Feller et al. 1994 ) , Ack ( Manser et al. 1995 ; Satoh et al. 1996 ; Yang and Cerione 1997 ) , and neural Wiskott-Aldrich syndrome protein ( N-WASP ) ( Miki et al. 1996 , Miki et al. 1998a ) .
+Thus , Ash and Grb2 appears to play important roles not only in mitogenic signaling through Ras activation but also in the reorganization of actin filaments and endocytosis .
+It is already well known that the Rho family of small G protein , including Rho , Rac , and Cdc42 , act as molecular switches by cycling between the active GTP bound and the inactive GDP bound states to regulate the actin cytoskeleton ( Ridley and Hall 1992 ) .
+Rho primarily regulates development of actin stress fibers ; Rac stimulates formation of lamellipodia or membrane ruffling ; and Cdc42 induces the formation of filopodia ( Hall 1998 ) .
+Downstream signals from Ash and Grb2 are found to " cross-talk " with these G proteins , resulting in reorganization of the actin cytoskeleton .
+Indeed , N-WASP , an Ash and Grb2 binding protein , induces filopodium formation that is dependent on Cdc42 ( Miki et al. 1998a ) .
+N-WASP possesses a GTPase binding domain/Cdc42/Rac interactive binding region ( GBD and CRIB ) motif through which N-WASP binds directly to the active form of Cdc42 ( Miki et al. 1998a ) .
+We have also shown that the verprolin homology domain ( V ) of N-WASP , which is an actin binding site , is essential for filopodium formation ( Miki and Takenawa 1998 ) , and the cofilin like domain ( C ) and acidic ( A ) region in the COOH terminus of N-WASP are Arp2/3 complex binding sites ( Rohatgi et al. 1999 ) .
+Furthermore , it has been shown that Arp2/3 complex is markedly activated by the verplorin homology , cofilin homology , and acidic region ( VCA ) region of N-WASP .
+This is the minimal essential region for the activation of Arp2/3 complex .
+However , the full-length N-WASP protein was found to be a less potent activator of Arp2/3 complex than the VCA protein , suggesting that the VCA region is masked in the full-length protein and is exposed by interaction with other activating factors .
+Thus far , addition of Cdc42 and phosphatidylinositol 4,5-bisphosphate ( PIP 2 ) has been shown to increase the activity of full-length N-WASP to the level induced by VCA protein ( Rohatgi et al. 2000 ) .
+Recently , other VCA region containing proteins have been identified and named WASP family verplorin-homologous protein ( WAVE )/Scar ( Miki et al. 1998b ; Suetsugu et al. 1999 ) .
+WAVEs appear to function downstream of Rac and induce membrane ruffling .
+Thus , it has been made clear that WASP and WAVE family proteins can bind and activate Arp2/3 complex through the VCA region , resulting in rapid actin polymerization .
+In this study , we identified a novel Ash and Grb2 binding protein that contains an SH3 domain , SH3 binding proline rich sequences , and a leucine zipper like motif .
+We named this protein WASP interacting SH3 protein ( WISH ) , because WISH binds N-WASP through its SH3 domain .
+In addition , we demonstrate that WISH further enhances N-WASP-induced Arp2/3 complex activation independent of Cdc42 in vitro .
+Furthermore , coexpression of WISH and N-WASP induces marked formation of microspikes in Cos7 cells even in the absence of stimuli , and an N-WASP mutant ( H208D ) that can not bind Cdc42 also induced microspike formation when coexpressed with WISH .
+Using N-WASP-depleted brain extracts , we also showed that WISH has an alternative route in addition to the route via N-WASP , to activate Arp2/3 complex in brain extract induced rapid actin polymerization .
+Materials and Methods .
+Glutathione S-Transferase Fusion Proteins .
+Glutathione S-transferase ( GST )-Ash/Grb2 ( Miki et al. 1994 ) , GST-AshN , GST-AshC ( Watanabe et al. 1995 ) , GST-phosphatidylinositol 3-kinase ( PI 3-kinase ) 85-kD subunit ( p85 ) SH3 ( Shibasaki et al. 1993 ) , PLCgamma1 SH3 ( Homma et al. 1990 ) , GST-Nck SH3 ( Matuoka and Takenawa 1998 ) , GST-Fyn SH3 ( Miki et al. 1999 ) , and GST-CA ( Miki and Takenawa 1998 ) were purified as described .
+Bacterial expression plasmids coding various GST fusion proteins of WISH were produced by in-frame insertion of fragments corresponding to each region as shown in  XREF_FIG  C into pGEX plasmids ( Amersham Pharmacia Biotech ) .
+GST-SH3 ( 1-132 amino acids ) expression plasmid was made by cutting the cDNA of mouse WISH , and inserting it into pGEX-4T-3 .
+GST-Pro ( 132-268 amino acids ) , GST-Mid ( 240-442 amino acids ) , and GST-Leu ( 442-611 amino acids ) were produced by in-frame insertion of a PCR amplified fragment corresponding to each sequence into the BamHI-EcoRI site of pGEX-2T .
+GST-C ( 611-711 amino acids ) was produced by in-frame insertion of a PCR amplified fragment into the BamHI-XhoI site of pGEX-4T-1 .
+The recombinant plasmids were transformed into XL-I Blue strain Escherichia coli and induced to express GST fusion proteins with IPTG .
+The bacteria were collected by centrifugation and resuspended in E. coli lysis buffer ( 40 mM Tris-HCl , pH 7.5 , 5 mM EDTA , 0.1 mM PMSF , 0.1 mM diisopropyl fluorophosphate , and 1 % Triton X-100 ) .
+Vigorous sonication was performed before centrifugation at 100,000 g for 30 min .
+The resulting supernatants were stored as crude extracts containing GST fusion proteins .
+GST-Cdc42 and GST-N-WASP proline rich region ( GST-NW-Pro , 265-391 amino acids ) was expressed in Sf9 cells using recombinant baculoviruses , which were produced using the BAC-TO-BAC system ( GIBCO BRL ) .
+They were mixed with glutathione-agarose beads and washed five times with 0.05 % Tween 20 in PBS , and then eluted by 50 mM glutathione in PBS .
+Glutathione in the samples was removed by dialysis before use .
+cDNA Cloning of WISH .
+The mouse skeletal muscle C2 myoblast cDNA expression library constructed in lambdaZAPII was screened with GST-Ash and Grb2 .
+Positive plaques were detected using anti-GST antibody ( Amersham Pharmacia Biotech ) .
+Positive phage clone inserted DNA fragments were excised into pBluescript II KS (-) ( Stratagene ) and sequenced .
+The clone encoding WISH ( 2,848 bases ) included a single open reading frame of 711 amino acids as shown in  XREF_FIG  A.                           Northern Hybridization of WISH mRNA .
+The WISH cDNA was labeled with [ alpha- 32 P ] dCTP ( Amersham ) and used as a probe for Northern blot analysis .
+Total RNA was purified from various tissues of rat .
+A sample ( 10 mug ) was used for electrophoresis and then transferred to a nylon membrane .
+The membrane was hybridized with the probe overnight .
+Then , autoradiography was performed overnight on x-ray film ( Eastman Kodak Co. ) with an intensifying screen .
+Antibodies .
+Polyclonal antibody against WISH was produced as follows : partial cDNA fragments encoding amino acids 1-132 ( SH3 ) and 132-268 ( Pro ) were ligated into the BamHI-SacI site and BamHI-KpnI site of pQE32 His tag expression vector ( QIAGEN ) , respectively .
+The His tagged proteins ( His-WISH-SH3 , His Pro ) were expressed in E. coli and purified with [ Ni 2 + ] nitrilotriacetic acid-agarose as described by the manufacturer .
+The purified proteins were injected as an antigen into rabbits to raise polyclonal antiserum .
+The resulting antibody was collected by ammonium sulfate precipitation and affinity purified with the antigen proteins immobilized on CNBr activated Sepharose ( Amersham Pharmacia Biotech ) .
+Antibodies against synaptojanin , N-WASP , WAVE , and Arp3 were produced as described previously ( Miura et al. .
+1996 ; Fukuoka et al. .
+1997 ; Miki et al. .
+1998b ; Kato et al. .
+1999 , respectively ) .
+Anti-Ash and Grb2 , anti-Sos , anti-c-Cbl , and anti-Myc antibodies were purchased from Santa Cruz Biotechnology , Inc. .
+The His tag antibody was purchased from QIAGEN .
+Ectopic Expression in Cos7 .
+The full-length cDNA of mouse WISH expression plasmids was constructed in the pCMV ( myc tagged ) or the pcDL-SRalpha plasmid vector .
+Wild-type and mutant N-WASP ( H208D ) were constructed in the pcDL-SRalpha plasmid vector ( Miki et al. .
+1996 ) .
+To obtain cell lysates , 20 mug of recombinant plasmid of full-length WISH was mixed with 10 7  cells , and the mixtures were subjected to electroporation with a Gene Pulser ( Bio-Rad Laboratories ) .
+The cells were cultured in DME supplemented with 10 % fetal bovine serum .
+After 48 h , the cells were harvested with lysis buffer ( 20 mM Tris-HCl , pH 7.4 , 150 mM sodium chloride , 5 mM EDTA , 2 mM EGTA , 50 mM sodium fluoride , 10 mM sodium pyrophosphate , 1 mM sodium vanadate , 1 mM PMSF , 10 mug/ml aprotinin , 10 mug/ml leupeptin , and 1 % Triton X-100 ) .
+For immunofluorescence microscopy , 5 x 10 4  cells were plated on 35-mm dishes with coverslips .
+After 16 h , 4 mug of plasmid DNA was introduced by Ca 2 +-phosphate precipitation .
+The cells were serum starved for 16 h , and then stimulated with or without 0.1 mug/ml EGF for 5 min and fixed .
+In Vitro Binding Assays with GST Fusion Proteins .
+Several GST fusion proteins expressed in E. coli were immobilized on glutathine-agarose beads and mixed with histidine tagged proteins .
+After being washed with the buffer ( 0.05 % Tween 20 in PBS ) , the beads were suspended in SDS sample buffer and subjected to SDS-PAGE and Western blot analysis .
+Metabolic Labeling of N1E-115 Cells .
+For the preparation of [ 35 S ] methionine labeled N1E-115 cell lysates , semiconfluent cells were placed in methionine free medium and incubated with 100 muCi and dish ( 150 mm diameter ) of [ 35 S ] methionine for 3 h .
+After treatment , the cells were harvested and immunoprecipitated with preimmune serum or anti-WISH antibody .
+The precipitates were subjected to SDS-PAGE , and then autoradiography for 3 d with x-ray films ( Eastman Kodak Co. ) .
+Immunoprecipitation .
+Cos7 cell lysates or N1E-115 cell lysates were mixed with 10 mug of anti-Myc antibody , anti-WISH antibody , or preimmune rabbit serum ( negative control ) for 1 h. Then , protein A- and G-agarose beads were added , and the mixtures were incubated for another 1 h .
+The immunoprecipitates were washed three times with lysis buffer , and then analyzed by Western blotting .
+Cell lysate ( 1 mug ) was also added as a positive control .
+Purification of Actin , Arp2/3 Complex , and N-WASP .
+Actin was purified from rabbit skeletal muscle and monomeric actin was isolated by gel filtration on Superdex 200 ( Amersham Pharmacia Biotech ) in G buffer ( 2 mM Tris-HCl , pH 8.0 , 0.2 mM CaC l  2 , 0.5 mM DTT , 0.2 mM ATP ) .
+The Arp2/3 complex was purified from bovine brain extracts by a previously described protocol ( Rohatgi et al. .
+1999 ) .
+N-WASP was prepared with a baculovirus system as described previously ( Miki et al. .
+1998a ) .
+Actin Polymerization Assay .
+Actin polymerization was measured by monitoring the change in fluorescence intensity of pyrene labeled actin as described previously ( Rohatgi et al. .
+1999 ) .
+To follow actin polymerization using purified components , pyrene labeled G-actin or unlabeled G-actin was isolated by incubating freshly thawed proteins in G buffer ( 5 mM Tris-HCl , pH 8.0 , 0.2 mM CaCl 2 , 0.2 mM ATP , 0.2 mM DTT ) for 12 h at 4degreesC and then removing residual F-actin by centrifugation at 40,000 g for 1 h .
+The GST-Cdc42 fusion proteins were mixed with 10 times the amount of GTPgammaS and incubated for 10 min at 30degreesC .
+Then the reaction was stopped by adding 10 mM MgCl 2 .
+Polymerization reaction mixtures contained 2 muM unlabeled actin , 0.2 muM pyrene labeled actin , 0.2 mM ATP , and various proteins in 80 mul of X buffer ( 10 mM Hepes , pH 7.6 , 100 mM KCl , 1 mM MgCl 2 , 0.1 mM EDTA , and 1 mM DTT ) and were preincubated for 5 min .
+The reaction was started by adding a mixture of actin and pyrene labeled actin to the preincubated protein mixtures , and fluorescence change was measured at 407 nm with excitation at 365 nm in a fluorescence spectrometer ( Jasco ) .
+All kinetic analyses were performed using the software provided by the manufacturer .
+For the actin polymerization assays using bovine brain lysates , bovine brain extracts were prepared according to the method described previously ( Yarar et al. .
+1999 ) .
+The reaction mixture was prepared by mixing 10 mul of bovine brain extract , 10 mul of the ATP regenerating mix , 80 mul of X buffer , 100 muM GTPgammaS , and final 0.4 muM pyrene labeled actin .
+The reaction mixture was preincubated for 10 min .
+Then , GST-Cdc42 ( GTPgammaS loaded ) , WISH , Ash , or Fyn SH3 was added before fluorescence was monitored .
+Immunofluorescence Microscopic Analysis .
+Cells cultured on coverslips were fixed and stored in 3.7 % formaldehyde in PBS .
+For immunofluorescence staining , cells were first permeabilized with 0.2 % Triton X-100 for 5 min and then incubated with primary antibodies such as anti-Myc , anti-N-WASP , and anti-WISH antibodies for 60 min .
+After washing , they were incubated with secondary antibodies linked to fluorescein or Cy5 ( Cy5 conjugated antibody was used only in triple staining experiments ) .
+To visualize actin filaments , rhodamine conjugated phalloidin ( Molecular Probes ) was also added during the incubation with the secondary antibodies .
+After a 30-min incubation , coverslips were washed and mounted on slide glasses .
+Cells were observed with a confocal laser scanning microscope ( model MRC 1024 ; Bio-Rad Laboratories ) .
+Real-time Observation of Microspike Formation .
+Cos7 cells were starved for 24 h with serum-free DME , and microinjection was performed with an Eppendorf microinjector .
+After injection , cells were observed with a phase-contrast microscope .
+Proteins ( WISH and/or N-WASP ) which were purified as described above were injected at a final concentration of 4 muM .
+Results .
+Identification of an Ash and Grb2 binding Protein , WISH .
+To clarify the downstream signaling of Ash and Grb2 , we searched for binding proteins by screening a lambdaZAPII cDNA expression library of mouse skeletal muscle C2 myoblasts with GST-Ash and Grb2 fusion proteins expressed in E. coli .
+We isolated clones that encoded Ash and Grb2 binding proteins including c-Cbl , dynamin , and Ack , as well as several novel proteins .
+Among the novel clones , there was a 2,848-bp cDNA ( sequence data available from GenBank/EMBL/DDBJ under accession no .
+AF130313 ) containing an open reading frame that encodes a 711-amino acid protein ( XREF_FIG  A ) .
+We named this protein WASP interacting SH3 protein ( WISH ) because it was found to be an N-WASP activating protein .
+The predicted amino acid sequence had an SH3 domain at the NH 2  terminus and three class II-type SH3 binding motifs ( XREF_FIG  and  XREF_FIG ) .
+A leucine zipper like motif and a serine rich sequence with overlapping proline rich sequences were also found ( XREF_FIG  and  XREF_FIG ) .
+Three clusters of three to five leucine residues were located in the latter half of the protein ( XREF_FIG  and  XREF_FIG ) .
+To confirm that the cDNA encoded full-length WISH protein , we checked the size of the protein expressed in Cos7 cells by Western blot analysis .
+As shown in  XREF_FIG  C , WISH specific antibody reacted with a protein expressed in Cos7 cells .
+The molecular mass of this protein was the same as that of the endogenous protein ( 90 kD ) from rat brain ( XREF_FIG  C ) , indicating that the cDNA clone encodes the full-length WISH protein .
+Tissue Distribution of WISH .
+To examine the tissue distribution of WISH , we performed Northern hybridization analysis with total RNA from various rat tissues .
+As shown in  XREF_FIG  A , WISH mRNA ( 2.8 kb ) was expressed predominantly in brain and testis .
+In addition , a 2.5-kb mRNA that may represent an alternatively spliced product of the WISH mRNA was also detected exclusively in testis .
+Next , we studied the distribution of WISH protein in various rat tissues using an anti-WISH antibody .
+WISH was abundant in brain and was present in moderate amounts in thymus , spleen , and testis , but no positive signal was detected in other tissues ( XREF_FIG  B ) , which was consistent with the Northern hybridization data .
+To determine the distribution of WISH in brain , its expression in each region of rat brain including cerebrum , cerebellum , diencephalon , and medulla oblongata was analyzed by Western blotting with anti-WISH antibody .
+A 90-kD positive signal was detected in all regions examined ( data not shown ) .
+We then examined expression of WISH in a variety of cell lines by Western blotting and found that neuronal cell lines N1E-115 and PC12 contained larger amounts of WISH than Cos7 cells , Balb 3T3 cells , and C3H10T1/2 cells ( data not shown ) .
+WISH Associates with Ash and Grb2 SH3 Domains via Proline rich Sequences .
+To confirm the association between WISH and Ash and Grb2 , we performed coimmunoprecipitation experiments .
+Myc tagged full-length WISH expression plasmids ( Myc-WISH ) and empty vectors ( Myc-vec ) were transfected transiently into Cos7 cells , and interactions were detected by Western blot analysis after precipitation with anti-Myc antibody ( XREF_FIG  A ) .
+Only immunoprecipitates from Myc tagged WISH transfected cell lysates contained Ash and Grb2 ( XREF_FIG  A , lane 2 ) .
+The positive signal was specific , as anti-Myc immunoprecipitates from cells transfected with empty vector did not give positive signal ( XREF_FIG  A , lane 1 ) .
+The two bands above the Ash and Grb2 band in  XREF_FIG  A are the light chains of the anti-Myc antibody .
+We then examined whether endogenous WISH associates with Ash and Grb2 by immunoprecipitation with anti-WISH antibody using N1E-115 cell lysates .
+XREF_FIG  B shows that endogenous WISH associated with Ash and Grb2 in N1E-115 cells as well .
+WISH has putative SH3 binding motifs ( proline rich sequences ) as described above .
+To clarify whether these proline rich sequences in WISH can associate with the SH3 domain of Ash and Grb2 , we used a variety of GST fusion proteins of Ash and Grb2 such as full-length Ash and Grb2 ( GST-Ash ) , the NH 2 -terminal SH3 domain ( GST-AshN ) , and the COOH-terminal SH3 domain ( GST-AshC ) , and the histidine tagged proline rich sequence of WISH ( His Pro , amino acids 132-268 ) , and carried out in vitro binding assays .
+As shown in  XREF_FIG  C , both SH3 domains of Ash and Grb2 bound strongly to the proline rich sequences in WISH .
+SH3 domains of the 85-kD subunit of PI 3-kinase and PLCgamma1 also bound to the proline rich sequences in WISH in vitro ( data not shown ) .
+WISH Binds to N-WASP via Its SH3 Domain .
+To investigate WISH signaling , we searched for WISH binding proteins in N1E-115 cell lysates prelabeled with [ 35 S ] methionine by immunoprecipitation with anti-WISH antibody .
+As shown in  XREF_FIG  A , several proteins were found to coprecipitate specifically with WISH .
+Among them , the band at 65 kD was particularly strong .
+We postulated that this protein was N-WASP , because N-WASP is a 65-kD protein and possesses a proline rich region that may serve as a target for the WISH SH3 domain .
+To confirm this possibility , we examined anti-WISH immunoprecipitates with various antibodies against proteins such as Sos , c-Cbl , synaptojanin , and WAVE that contain proline rich regions .
+As shown in  XREF_FIG  B , only N-WASP was coimmunoprecipitated .
+Sos , c-Cbl , and synaptojanin were not associated with WISH .
+Another WASP family protein , WAVE , which also has a proline rich sequence ( Miki et al. .
+1998b ) , was not coimmunoprecipitated with WISH , suggesting that WISH-SH3 bound specifically to N-WASP .
+To confirm that the SH3 domain of WISH is required for association with N-WASP , we made various deletion constructs of WISH as GST fusion proteins ( XREF_FIG  C ) and studied the abilities of these fusion proteins to bind N-WASP ( XREF_FIG  D ) .
+As expected , the full-length and SH3 domain of WISH bound N-WASP .
+Furthermore , it was found that the SH3 domain of WISH ( His-WISH-SH3 , 1-132 amino acids ) bound the proline rich region of N-WASP ( GST-NW-Pro , 265-391 amino acids ) ( XREF_FIG  E ) .
+WISH Further Stimulates N-WASP-induced Arp2/3 Complex Activation .
+Because WISH bound specifically to N-WASP , we examined whether WISH could further stimulate N-WASP-induced Arp2/3 complex activation in vitro .
+Actin polymerization can be monitored with pyrene labeled actin , a fluorescent derivative of actin that exhibits higher fluorescence intensity when actin is assembled into filaments .
+Using a cell-free system , we measured the effect of N-WASP and WISH on Arp2/3 complex induced actin polymerization .
+All proteins used in this experiment are shown in  XREF_FIG  A .
+The GST-VCA fusion protein of N-WASP ( VCA ) markedly activated Arp2/3 complex induced actin polymerization ( XREF_FIG  B ) as described previously ( Rohatgi et al. .
+, 1999 ) .
+In contrast , full-length N-WASP was not as potent as VCA .
+Addition of GST-Cdc42 fusion protein ( Cdc42 ) to N-WASP in this system increased Arp2/3 complex induced actin polymerization to the level evoked by VCA in the presence of PIP 2  ( data not shown ) , but addition of Cdc42 without PIP 2  did not increase activity to that of VCA ( XREF_FIG  B ) .
+Surprisingly , addition of GST-WISH fusion protein ( WISH ) to N-WASP increased the Arp2/3 complex induced actin polymerization to the level induced by VCA even in the absence of Cdc42 .
+Addition of Cdc42 did not increase activity any further ( XREF_FIG  B ) .
+WISH did not activate Arp2/3 complex directly without N-WASP ( XREF_FIG  B ) .
+We then checked whether GST fusion proteins of other SH3 proteins such as Ash and Grb2 ( Ash ) , Fyn , Nck , Ash and Grb2 NH 2 -terminal SH3 domain ( AshN ) , p85 , and PLCgamma1 ( PLCgamma ) also activate Arp2/3 complex as well .
+Ash and AshN stimulated N-WASP-induced Arp2/3 complex activation ( XREF_FIG  C ) as described previously ( Carlier et al. .
+2000 ) , but they were less effective than WISH .
+The SH3 domains from Fyn , PLCgamma , Nck , and p85 also activated N-WASP .
+However , these SH3 proteins were not as potent as Ash ( XREF_FIG  and  XREF_FIG ) .
+In contrast , WISH-SH3 ( SH3 ) caused significant and tremendous activation of N-WASP .
+Thus , WISH was found to be the strongest activator of N-WASP among the SH3 proteins examined .
+Interestingly , Cdc42 was not necessary for the activation to the level induced by VCA .
+This activation was detected only with the SH3 domain of WISH ( XREF_FIG  C ) .
+Basic proteins that do not contain SH3 domains , such as myelin basic protein ( MBP ; Upstate Biotechnology ) , did not activate N-WASP at all , suggesting that activation was not merely due to ionic interaction ( XREF_FIG  C ) .
+We further examined the concentration dependent effect on actin polymerization ( XREF_FIG  D ) .
+Both SH3 domains of WISH and full-length WISH increased the initial actin polymerization rate in a concentration dependent manner , and their activation potencies were higher than those of other SH3 domains , such as AshN and Fyn .
+Thus far , it has been thought that the N-WASP VCA region , which is masked under resting conditions , is exposed by binding of Cdc42 to the GBD and CRIB motif of N-WASP .
+Taken together , these results present the idea that WISH alone can expose the VCA region of N-WASP by binding to the proline rich region of N-WASP independent of Cdc42 .
+Depletion of WISH from Bovine Brain Extracts Decreases Actin Polymerization Activity of Bovine Brain Extracts .
+Addition of Cdc42 to extracts of neutrophils ( Zigmond et al. 1998 ) or Xenopus oocytes ( Ma et al. 1998 ) induces an increase in actin polymerization .
+In addition , WASP dependent actin comets have also been shown to be formed in bovine brain extracts ( Yarar et al. 1999 ) .
+Thus , we further applied bovine brain extracts instead of purified proteins to examine the involvement of WISH in actin polymerization under a condition that more closely reflects the in vivo situation .
+Addition of bovine brain extracts induced actin polymerization in the presence of Cdc42 .
+To address whether WISH , N-WASP , or Arp2/3 complex contributes to actin polymerization activity in brain extracts , WISH , N-WASP , and Arp2/3 complex were depleted with anti-WISH antibody , anti-N-WASP antibody , and GST-CA protein treatment , respectively ( XREF_FIG  A ) .
+In WISH depleted extracts , 90 % of WISH was removed , whereas N-WASP levels remained constant ( XREF_FIG  A ) .
+Approximately 98 % of N-WASP or 95 % of Arp2/3 complex was removed in the respective depleted extract .
+These depleted extracts were used to examine the roles of Arp2/3 complex , N-WASP , and WISH in brain extract induced actin polymerization .
+Addition of Cdc42 or WISH to mock treated extracts increased initial actin polymerization markedly , but Fyn SH3 did not ( XREF_FIG  B , a ) .
+On the other hand , the maximal actin polymerization levels that were attained up to 100 min were similar for Mock , Mock + Cdc42 , and Mock + WISH ( data not shown ) , suggesting that WISH activates the initial rate of actin polymerization .
+As expected , Cdc42 , WISH , and WISH-SH3 activated the initial actin polymerization rate ( XREF_FIG  B , b ) .
+Arp2/3 complex was essential for brain extract induced actin polymerization , because addition of Cdc42 or WISH to Arp2/3 complex depleted extracts did not restore activity ( XREF_FIG  C , a and b ) .
+Adding back of Arp2/3 complex did restore polymerization activity ( data not shown ) .
+WISH depletion did not affect basal activity without Cdc42 ( XREF_FIG  D , a and b ) , but addition of excess WISH to WISH depleted extracts increased actin polymerization activity ( XREF_FIG , Da and Db ) .
+N-WASP depletion also did not affect basal actin polymerization activity , but addition of WISH to N-WASP-depleted extracts increased the activity significantly ( XREF_FIG  E , a and b ) , although addition of Cdc42 increased the activity only slightly .
+These findings suggest that WISH activates Arp2/3 complex not only in an N-WASP-dependent manner but also in an N-WASP-independent manner .
+WISH and N-WASP Induce Microspike Formation Cooperatively In Vivo .
+To examine whether WISH stimulates N-WASP-induced microspike formation , WISH and N-WASP were coexpressed in Cos7 cells .
+Expression of WISH or N-WASP alone did not cause any morphological changes in Cos7 cells ( XREF_FIG  A ) .
+In response to EGF stimulation , however , N-WASP-expressing cells formed microspikes , whereas WISH expressing cells did not .
+When WISH and N-WASP were coexpressed , microspike formation was induced even in the absence of EGF ( XREF_FIG  B ) , though the structure of actin filaments was also altered .
+To clarify whether Cdc42 is necessary for N-WASP-induced microspike formation when WISH is present , we used an N-WASP mutant ( H208D ) that can not bind Cdc42 ( Miki et al. 1998a ) .
+H208D alone was not able to induce microspike formation even in the presence of EGF ( XREF_FIG  C , top panels ) .
+However , coexpression of H208D and WISH did induce microspike formation ( XREF_FIG  C , bottom panels ) .
+Real-time observation by phase-contrast microscopy revealed that these microspikes were filopodia but not retraction fibers ( XREF_FIG  D ) .
+The numbers of cells that formed microspikes were also increased by coexpression of WISH and N-WASP or WISH and H208D ( XREF_FIG  E ) .
+All these results indicate that WISH alone has an ability to activate N-WASP to induce microspike formation without the aid of Cdc42 .
+Discussion .
+WISH Is a Novel Adaptor Protein That Activates N-WASP .
+WISH is a 90-kD protein that contains one SH3 domain at the NH 2  terminus and three SH3 binding sites , which are proline rich sequences ( XREF_FIG  and  XREF_FIG ) .
+WISH associates with SH3 domains in Ash and Grb2 through these proline rich sequences ( XREF_FIG  C ) , but it also associates with the SH3 domains of PLCgamma1 , Fyn , Nck , and PI 3-kinase 85-kD subunit in vitro .
+WISH is probably recruited to the activated receptors for these proteins in response to extracellular stimuli as a downstream molecule in tyrosine kinase signaling .
+Thus , WISH is thought to act as an adaptor protein that binds to SH3 domains of these proteins .
+The NH 2  terminus of WISH contains an SH3 domain and was shown to form a complex with N-WASP ( XREF_FIG ) .
+Binding through the WISH-SH3 domain appears to be fairly specific because other proline rich proteins such as Sos , synaptojanin , c-Cbl , and WAVE , which are all known to bind various SH3 domains , did not bind WISH ( XREF_FIG  B ) .
+N-WASP can activate Arp2/3 complex through the VCA region at its COOH terminus , resulting in rapid polymerization of actin ( Rohatgi et al. .
+, 1999 ) .
+The mechanism of N-WASP activation is explained as follows .
+Under resting conditions , the VCA region essential for Arp2/3 complex activation is masked by an intramolecular interaction with the region containing the GBD and CRIB motif ( Miki et al. .
+1998a ) .
+When cells are stimulated , activated Cdc42 binds to the GBD and CRIB motif .
+This leads to the exposure of the VCA region , where G-actin and Arp2/3 complex are recruited .
+Consequently , actin polymerization is induced in the cortical area of cells , resulting in filopodium formation .
+Indeed , GST-VCA protein remarkably activates Arp2/3 complex induced actin polymerization , indicating that the VCA region is the minimal essential region for Arp2/3 complex activation .
+However , it should be noted that activated Cdc42 can only partially activate N-WASP and requires addition of PIP 2  to reach the activation level induced by GST-VCA protein ( Rohatgi et al. 2000 ) .
+We show here that an N-WASP binding protein , WISH , can also expose the VCA region of N-WASP and effectively enhance N-WASP-induced Arp2/3 complex activation ( XREF_FIG  B ) .
+This activation is mediated by the binding through the SH3 domain of WISH , because the fusion protein containing the SH3 domain also has activating ability ( XREF_FIG  C ) .
+Ash and Grb2 SH3 can also activate N-WASP ( Carlier et al. .
+2000 ) but much less potently than WISH-SH3 did ( XREF_FIG  C ) .
+In addition , other SH3 elements such as the SH3 of Fyn , Nck , PLCgamma1 , and PI 3-kinase 85-kD subunit cause only weak activation of N-WASP ( XREF_FIG  C ) .
+WISH Activates Arp2/3 Complex induced Actin Polymerization Independent of Cdc42 .
+More interestingly , WISH enhances N-WASP-induced Arp2/3 complex activation to the level of GST-VCA protein even in the absence of Cdc42 ( XREF_FIG  B ) , suggesting that binding of WISH to N-WASP is sufficient for full activation .
+It is known that brain extracts induce WASP dependent actin comet formation ( Yarar et al. .
+1999 ) .
+In this case , addition of WISH instead of Cdc42 also activates actin polymerization to the level induced by Cdc42 ( XREF_FIG  B ) .
+When WISH is added to N-WASP-depleted extracts , such activation is still observed .
+In contrast , addition of Cdc42 to this system does not restore activity ( XREF_FIG  E ) .
+This suggests that WISH activates Arp2/3 complex through both N-WASP-dependent and -independent pathways ( XREF_FIG ) and that Cdc42 is not required for either pathway if WISH is present .
+WASP and N-WASP also bind several proteins such as WIP and proline serine threonine phosphatase interacting protein ( PSTPIP ) ( Ramesh et al. .
+1997 ; Wu et al. .
+1998 ) .
+These proteins may have N-WASP-activating activity as well , though their effects on N-WASP-induced activation of Arp2/3 complex have not been examined .
+Possible Roles of WISH in Neuronal Cells .
+Both WISH and N-WASP are expressed predominantly in brain and neuronal cells ( Miki et al. 1996 ) .
+Furthermore , WISH depletion experiments revealed that WISH is significantly involved in Arp2/3 complex induced actin polymerization by brain extracts ( XREF_FIG  D ) .
+The axonal growth cone , which is a highly dynamic structure at the tip of the axon , consists of filopodial and lamellipodial protrusions that respond to both positive and negative external guidance cues .
+Considering the fact that coexpression of WISH and N-WASP induces filopodium formation in Cos7 cells ( XREF_FIG  and  XREF_FIG ) , it may be possible that WISH also acts for forming filopodia in neural cells , in which filopodium formation has been shown to be essential for neurite extension .
+However , the precise functions of WISH in neural cells remain to be clarified .

@@ -1,0 +1,232 @@
+Differential Role of Human Choline Kinase alpha and beta Enzymes in Lipid Metabolism : Implications in Cancer Onset and Treatment .
+Background .
+The Kennedy pathway generates phosphocoline and phosphoethanolamine through its two branches .
+Choline Kinase ( ChoK ) is the first enzyme of the Kennedy branch of synthesis of phosphocholine , the major component of the plasma membrane .
+ChoK family of proteins is composed by ChoKalpha and ChoKbeta isoforms , the first one with two different variants of splicing .
+Recently ChoKalpha has been implicated in the carcinogenic process , since it is over-expressed in a variety of human cancers .
+However , no evidence for a role of ChoKbeta in carcinogenesis has been reported .
+Methodology and Principal Findings .
+Here we compare the in vitro and in vivo properties of ChoKalpha1 and ChoKbeta in lipid metabolism , and their potential role in carcinogenesis .
+Both ChoKalpha1 and ChoKbeta showed choline and ethanolamine kinase activities when assayed in cell extracts , though with different affinity for their substrates .
+However , they behave differentially when overexpressed in whole cells .
+Whereas ChoKbeta display an ethanolamine kinase role , ChoKalpha1 present a dual choline/ethanolamine kinase role , suggesting the involvement of each ChoK isoform in distinct biochemical pathways under in vivo conditions .
+In addition , while overexpression of ChoKalpha1 is oncogenic when overexpressed in HEK293T or MDCK cells , ChoKbeta overexpression is not sufficient to induce in vitro cell transformation nor in vivo tumor growth .
+Furthermore , a significant upregulation of ChoKalpha1 mRNA levels in a panel of breast and lung cancer cell lines was found , but no changes in ChoKbeta mRNA levels were observed .
+Finally , MN58b , a previously described potent inhibitor of ChoK with in vivo antitumoral activity , shows more than 20-fold higher efficiency towards ChoKalpha1 than ChoKbeta .
+Conclusion and Significance .
+This study represents the first evidence of the distinct metabolic role of ChoKalpha and ChoKbeta isoforms , suggesting different physiological roles and implications in human carcinogenesis .
+These findings constitute a step forward in the design of an antitumoral strategy based on ChoK inhibition .
+Introduction .
+Human choline kinase alpha ( ChoKalpha ) and beta ( ChoKbeta ) are members of the choline kinase family .
+In mammals this family is encoded by two separate genes , CHKA and CHKB , resulting in three different proteins with a choline/ethanolamine kinase ( ChoK and EtnK ) domain : ChoKalpha1 ( NP_001268 ) , ChoKalpha2 ( NP_997634 ) and ChoKbeta1 ( NP_005189 )  XREF_BIBR .
+ChoKalpha1 differs from ChoKalpha2 in only an extra stretch of 18 amino acids , while ChoKbeta differs from ChoKalpha1 and ChoKalpha2 in approximately 40 % .
+The presence of the ChoK and EtnK domain confers the capacity to catalyze the phosphorylation of choline ( Cho ) to phosphocholine ( PCho )  XREF_BIBR .
+This constitutes the first step in the biosynthesis pathway of phosphatidylcholine ( PC )  XREF_BIBR .
+PC is the major phospholipid in eukaryotic membranes and plays a critical role in membrane structure and also in cell signalling  XREF_BIBR .
+ChoK enzymes could be implicated also in the synthesis of phosphatidylethanolamine ( PE ) , using as substrate ethanolamine to render phosphoethanolamine ( PEtn )  XREF_BIBR ,  XREF_BIBR - XREF_BIBR .
+Previous studies suggest that ChoK acts as a dimeric protein  XREF_BIBR ,  XREF_BIBR  and the proportion of the different homo- or hetero- dimer population has been proposed to be tissue specific  XREF_BIBR .
+Furthermore , the combination between choline kinase isoforms results in a different level of ChoK activity in vitro under cell-free systems conditions .
+Thus , the alpha and alpha homodimer is the most active choline kinase form , the beta and beta homodimer the less active , and the alpha and beta heterodimer has an intermediate phenotype  XREF_BIBR .
+The specific phospholipase D driven hydrolysis of PC generates choline and signal transduction metabolites such as PA ( phosphatidic acid ) , and its derivatives LPA ( lysophosphatidic acid ) and DAG ( diacylglycerol ) , that are important in mitogenesis and cellular transformation  XREF_BIBR - XREF_BIBR .
+Choline gets further converted by ChoK into PCho , an stable metabolite able to induce mitogenesis in murine fibroblasts  XREF_BIBR .
+In addition , several oncogenes such as RAS or RHOA increase ChoKalpha activity resulting in higher intracellular levels of PCho  XREF_BIBR - XREF_BIBR .
+Magnetic resonance spectroscopy ( MRS ) studies have revealed abnormal phospholipid metabolism in cancer cells  XREF_BIBR ,  XREF_BIBR .
+Furthermore , high levels of PCho have been found in tumoral cells as well as in tumour samples of cancer patients compared with the normal counterparts in breast , prostate , brain and ovarian cancer  XREF_BIBR - XREF_BIBR .
+The increase in phosphoethanolamine has been also reported in transformed cells or tumor samples using MRS , although it contributes to a much lesser extent , compared with the increase of PCho , to the phosphomonoester peak  XREF_BIBR .
+The implication of ChoKalpha in cell growth , proliferation , initiation and progression of cancer is well documented .
+ChoKalpha is overexpressed in some of the most common cancers , such as breast , lung , colorectal , prostate  XREF_BIBR - XREF_BIBR  and bladder ( unpublished observations ) .
+Furthermore , it has oncogenic activity when overexpressed in human cells  XREF_BIBR .
+Increased ChoKalpha mRNA levels have been recently described as an independent prognostic marker in non small cell lung cancer patients  XREF_BIBR .
+Also , human breast cancer cell lines show upregulation of ChoKalpha but not ChoKbeta , when compared with normal mammary epithelial cells  XREF_BIBR .
+In that sense , it has been recently reported that in the prostate tumor mouse model ( TRAMP ) , using IHQ immunodetection of ChoKbeta , a low level expression of ChoKbeta was found in tumoral samples compared with wild type tissues  XREF_BIBR .
+The implication of members of the Rho GTPase family in cancer onset and progression has been extensively described  XREF_BIBR - XREF_BIBR .
+Evidence that ChoK is involved in malignant transformation along with Ras and RhoA has been provided  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR .
+Moreover , the activity of ChoKalpha is modulated by known effectors of both Ras and RhoA  XREF_BIBR ,  XREF_BIBR .
+Pharmacological inhibition of ChoKalpha has been proposed as a novel antitumoral strategy  XREF_BIBR .
+A strong support to this strategy is based on the use of MN58b , a well characterized ChoKalpha inhibitor , which displays a potent antiproliferative effect in several tumoral cell lines in vitro , and a strong reduction of tumor growth in nude mice xenografts  XREF_BIBR ,  XREF_BIBR - XREF_BIBR .
+We have compared the biochemical and biological properties of ChoKalpha and ChoKbeta , and demonstrate that besides their homology , the latter is not able to induce cell transformation in HEK293T or MDCK cells .
+Moreover , we suggest differential behaviour between alpha and beta isoforms in phospholipids metabolism .
+Finally , the antitumoral properties of MN58b can be attributed to its specific inhibition of ChoKalpha .
+The implications of these findings are discussed .
+Results .
+Characterization of enzymatic properties of ChoKalpha1 and ChoKbeta isoforms .
+The activity of both choline kinase isoforms , ChoKalpha1 and ChoKbeta , has been described previously in different mammalian tissues , however their choline kinase and/or ethanolamine kinase activities are not fully characterized  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR - XREF_BIBR .
+Thus , we first carried out a comparative analysis of the in vitro kinase activity of the two human ChoKalpha1 and ChoKbeta isoforms , regarding their ability to phosphorylate choline and ethanolamine .
+HEK293T cells were transfected with appropriate expression vectors carrying the human CHKA or CHKB genes or an empty vector , and tested for ChoK and EtnK activity .
+Expression levels achieved were checked by Western Blot ( XREF_FIG ) , and the relative enzymatic activity from cell extracts estimated .
+Both ChoKalpha1 and ChoKbeta displayed choline and ethanolamine kinase activities under these experimental conditions , but the rate of conversion was apparently different ( XREF_FIG ) .
+We further analyze ChoK and EtnK kinetic activities for ChoKalpha1 and ChoKbeta isoforms using the recombinant enzymes .
+DH5alpha Escherichia coli were transformed with the gene encoding for human ChoKalpha1 or ChoKbeta and an enzymatic in vitro assay for either ChoK or EtnK activities performed .
+Michaelis constants ( Km ) for each isoform for the different substrates were obtained ( XREF_TABLE ) .
+ChoKbeta showed a Km for choline 2.8 times higher than ChoKalpha1 .
+By contrast , the Km of ChoKbeta for ethanolamine was lower than ChoKalpha1 .
+These results suggest that in cell-free systems choline is a better substrate for ChoKalpha1 ( 2.85 fold ) than ChoKbeta , whereas ethanolamine is a better substrate for ChoKbeta ( 5.83 fold ) than ChoKalpha1 .
+ChoK isoforms are differentially regulated by Ras and Rho GTPases .
+Since Ras and RhoA GTPases are upstream regulators of ChoKalpha1  XREF_BIBR ,  XREF_BIBR , some of the most studied proteins of the small GTPase family including H-Ras , and the Rho family members RhoA and Cdc42 were tested as potential upstream modulators of ChoKbeta .
+To that end , an in vitro ChoK and EtnK activity assay was performed in HEK293T cells transfected with the constitutive active mutants of each GTPase ( XREF_FIG ) and either ChoKalpha1 and ChoKbeta .
+As shown in  XREF_FIG , none of the GTPases tested were able to significantly increase choline or ethanolamine kinase activity of ChoKbeta .
+By contrast , under similar conditions , Ras and RhoA were able to induce a statistically significant change in the activation of both ChoK and EtnK activities of ChoKalpha1 ( XREF_FIG ) .
+Differential role between ChoK isoforms in cell transformation and tumorigenesis .
+The implication of ChoKalpha1 in cell transformation and human carcinogenesis has been extensively studied , and it has been shown to display oncogenic activity  XREF_BIBR ,  XREF_BIBR .
+Due to its extensive homology , we investigated if ChoKbeta could induce cellular transformation when overexpressed in non tumorigenic cells .
+First , the ability of ChoKbeta transfected cells to promote anchorage independent cell growth was determined using the cell line HEK293T .
+As previously reported , ChoKalpha1 induced a significant increase in the number of soft agar colonies  XREF_BIBR .
+By contrast , under similar conditions , ChoKbeta overexpression had no significant effect on the number nor the size of the colonies when compared to those generated by control , empty vector transfected HEK293T cells ( XREF_FIG ) .
+These results were confirmed using another non tumorigenic cell line from a different species such as MDCK , obtaining similar results despite of the lower level of overexpression of both ChoK isoforms compared to the HEK293T cells .
+The differential level of expression obtained was due to the rather different efficiency in transfection for each cell lines ( data not shown ) .
+The ability of ChoKbeta to induce tumour growth was also investigated .
+Both ChoKalpha1- and ChoKbeta transfected HEK293T or MDCK cells were subcutaneously inoculated into athymic mice .
+As shown in  XREF_FIG , the overexpression of ChoKalpha1 was sufficient to induce tumour growth in immunosuppressed mice in the both cell systems analyzed .
+By contrast , cells overexpressing ChoKbeta were not able to induce tumor growth under similar conditions .
+As indicated above , comparison in tumor growth rates between both cell lines is related to the diverse efficiency of transfection , much higher in HEK293T ( aproxm .
+80-90 % ) than MDCK ( aproxm .
+15-20 % ) .
+These results are in keeping with those obtained in the soft-agar experiments , and strongly indicate that overexpression of ChoKbeta is not sufficient to induce tumor growth under conditions where ChoKalpha1 does .
+ChoKbeta isoform shows preferential EtnK activity in vivo .
+We next investigated if there was any difference in the enzymatic activity of both ChoK isoforms under in vivo conditions that could explain their differential biological activity .
+Thus , the activity of ChoKalpha1 and ChoKbeta as ChoK and/or EtnK in a whole-cell system was tested .
+Intracellular lipids of human HEK293T overexpressing ChoKalpha1 , ChoKbeta or transfected with an empty vector , were extracted an analyzed .
+Both , the insoluble lipid fraction containing the hydrophobic lipids and total protein content were used as loading control obtaining similar results .
+As shown in  XREF_FIG , the intracellular phosphoethanolamine levels were increased to a similar extent in ChoKalpha1- or ChoKbeta transfected cells .
+However , the intracellular phosphocholine levels of ChoKbeta transfected cells were not significantly different to that of control cells , while ChoKalpha1 transfected cells showed an increased intracellular PCho levels ( XREF_FIG ) .
+Similar results were obtained using epithelial cells of different origins : human breast adenocarcinoma cells SK-Br-3 ( XREF_FIG ) or the human Non Small Cell Lung Cancer ( NSCLC ) cell line H1299 ( XREF_FIG ) .
+In addition , in all cell lines analyzed , protein expression was also determined by Western Blot analysis ( XREF_FIG ) .
+Thus , the differential enzymatic activity of ChoKalpha1 and ChoKbeta found in HEK293T is not cell line specific .
+These results indicate that ChoKalpha1 but not ChoKbeta , is able to induce increased intracellular levels of PCho under in vivo conditions .
+However , under the same conditions both enzymes are able to generate phophorylethanolamine .
+Thus , even though ChoKbeta displays both ChoK and EtnK activity under in vitro conditions , it shows preferential EtnK activity in vivo .
+Increased levels of ChoKalpha mRNA but not ChoKbeta in tumor derived cell lines .
+In order to further investigate the relevance of each ChoK isoenzyme in tumorogenesis , we determined the levels of both ChoKalpha and ChoKbeta mRNA in a panel of human tumour derived cell lines by quantitative PCR technology .
+A panel of breast and lung cancer cell lines were compared with the primary , senescent , non tumoral cell line HMEC ( Human Mammary Epithelial Cells ) or the immortalized , non tumorogenic MCF10A cells as control breast cell lines , and primary Bronchial Epithelial Cells ( BEC ) as control lung cell line .
+All tumoral cell lines tested significantly overexpress ChoKalpha mRNA compared with the normal cell lines , whereas no changes were found for ChoKbeta mRNA levels ( XREF_FIG ) .
+These results indicate that ChoKbeta is not specifically upregulated in breast or lung cancer cells , suggesting that high levels of ChoKbeta are not required for the promotion of cancer .
+MN58b is a specific inhibitor of ChoKalpha isoform .
+The implication of ChoKalpha in human carcinogenesis has been used for the design of specific inhibitors of this enzyme as a novel anticancer strategy  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR .
+MN58b is the leading compound to support this novel strategy since it has shown a potent antitumoral activity under in vivo conditions versus human colon , lung , breast and bladder tumor models  XREF_BIBR ,  XREF_BIBR .
+The primary structure of mammalian ChoKbeta displays an overall 60 % homology with that of ChoKalpha1  XREF_BIBR .
+The higher degree of homology lies within the choline/ethanolamine kinase domain .
+This homology could make it susceptible to a similar inhibition for both ChoKalpha1 and ChoKbeta with the same inhibitors .
+Thus , we have investigated the specificity of MN58b towards these two ChoK isoenzymes in order to verify if its antitumoral effect is specifically related to the inhibition of the alpha isoform , that is the one implicated in tumor progression , or the drug similarly affects both isoforms .
+Using the human ChoKalpha1 and ChoKbeta recombinant proteins , we performed an in vitro ChoK activity inhibition assay using increasing MN58b concentrations , determining the IC 50  for each enzyme .
+As expected , despite the high similarity displayed between ChoK isoforms , MN58b showed a much higher specificity against ChoKalpha1 ( IC 50 = 5 microM ) than against ChoKbeta ( IC 50 = 107.5 microM ) .
+Thus , MN58b is 21.5 times more potent against ChoKalpha1 than ChoKbeta isoform .
+Discussion .
+The family of human choline/ethanolamine kinases comprises two genes , CHKA and CHKB that codify for three enzymes , ChoKalpha1 ( 52 kDa ) , ChoKalpha2 ( 50 kDa ) and ChoKbeta1 ( 45 kDa ) .
+ChoKalpha1 and ChoKalpha2 are almost identical , except for a stretch of 18 extra amino acids in ChoKalpha1 , as they result from differential splicing from the same gene , CHKA .
+While the implication of ChoKalpha1 in the regulation of cell growth and cancer has been extensively demonstrated  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR ,  XREF_BIBR , preliminary evidence suggest that ChoKbeta may not be involved in carcinogenesis since it is not overexpressed in breast cancer cell lines  XREF_BIBR  nor in the TRAMP mouse prostate cancer model  XREF_BIBR .
+A distinct human gene family has been described that codifies for EtnK activity  XREF_BIBR , suggesting that EtnK1 is the main enzyme involved in PE homeostasis .
+The ChoK and EtnK domain confers to ChoKalpha and ChoKbeta the ability to function as both ChoK and EtnK activity under cell-free conditions  XREF_BIBR ,  XREF_BIBR - XREF_BIBR , but it is still unknown if these previously characterized enzymes showed any selectivity to each branch of the Kennedy pathway in the de novo synthesis of PC or PE .
+It has been recently described the different specificity towards Cho and Etn of the two isoforms of Cho and EtnK of Tripanosoma brucei .
+Whereas TbCho and Etn1 displays only EtnK activity , TbCho and Etn2 displays both ChoK and EtnK activities in vitro  XREF_BIBR .
+These results are in keeping with those described for murine EtnK1 that is Etn specific and EtnK2 that displays a dual ChoK and EtnK function  XREF_BIBR ,  XREF_BIBR .
+On the other hand , whereas murine Pcyt1alpha and Pcyt1beta are involved in PC biosynthesis , Pcyt2 is focused to PE only  XREF_BIBR .
+However , it is not yet fully understood which ChoK isoform , if any , contributes in vivo in each pathway to maintain the normal homeostasis of both PC and PE in biological membranes .
+The results shown here confirm that both enzymes have the ability to phosphorylate choline and ethanolamine under cell-free conditions , either as recombinant proteins produced in E. coli , or in cell extracts from mammalian cells .
+However , we found that under whole cell conditions ChoKalpha1 has the ability to function as both ChoK and EtnK , but ChoKbeta only affects the production of PEtn .
+These findings of different roles for alpha and beta isoforms are in keeping with the information from the recently generated Knock Out ( KO ) mice for ChoKalpha and ChoKbeta genes  XREF_BIBR ,  XREF_BIBR .
+Thus , ChoKbeta KO mice ( rmd mice ) are viable , but develop a rostrocaudal muscular dystrophy , while normal PC lipid levels are found in most tissues analyzed except in hindlimb skeletal muscle  XREF_BIBR .
+Therefore , ChoKalpha is sufficient to maintain normal PC levels in most tissues .
+By contrast , the lack of ChoKalpha results in embryonic lethality , and ChoKalpha +/-  heterozygous mice display an accumulation of Cho and a reduction in PCho in liver and testis , suggesting that there is no ChoKbeta compensation for PC biosynthesis in vivo .
+These results suggest different roles in vivo for both ChoKalpha and ChoKbeta isoforms .
+Furthermore , the attenuated levels in PE found in ChoKalpha +/-  heterozygous mice suggest the involvement of ChoKalpha not only in the biosynthesis of PC but also in the PE pathway .
+This is also consistent with the fact that in ChoKbeta KO mice , PE levels are unaffected , indicating that PE homeostasis is fully maintained with the EtnK1 and ChoKalpha proteins intact .
+The group of Ishidate has provided valuable information about the in vitro activity of ChoK from different mouse tissues , and they have postulated that the most active form for choline kinase activity is the alpha and alpha homodimer followed by alpha/beta heterodimers , being the beta and beta homodimer the least active form  XREF_BIBR .
+The in vivo results shown here are partially in keeping with this hypothesis .
+The in vivo activity of ChoKbeta is focused in PE biosynthesis and displays higher Km for choline than ChoKalpha , this could be the reason why beta and beta dimers show low ChoK activity .
+When ChoKbeta was overexpressed we observed an increase in the intracellular levels of PEtn but not of PCho .
+However no differences were found between both isoforms for the generation of PEtn , since both display similar EtnK activity .
+PCho has been proposed to promote mitogenesis in mammalian cells  XREF_BIBR .
+In keeping with this , magnetic resonance spectroscopy techniques have revealed higher levels of phosphomonoesthers in tumoral samples when compared to their normal counterparts  XREF_BIBR - XREF_BIBR .
+Moreover , overexpression of ChoKalpha1 is oncogenic  XREF_BIBR , and enhanced ChoKalpha activity is a frequent feature in tumoral samples compared to normal tissues  XREF_BIBR ,  XREF_BIBR .
+Taken together all these results strongly indicate that ChoKalpha1 activity and PCho levels have a strong implication in cancer .
+Furthermore , overexpression of ChoKalpha1 results in an increase in EtnK activity and PEtn levels .
+However the latter effect by itself is not sufficient to induce cell transformation , since overexpression of ChoKbeta does not induce enhanced colony formation in soft-agar or tumor growth in nude mice .
+These results are consistent with the hypothesis that it is the production of PCho what is linked to cell proliferation and transformation mediated by ChoK , and that the production of PEtn may not be sufficient or relevant in this process .
+The above results suggest that the two ChoK isoforms investigated , besides their similarity in their primary sequences , are implicated in different metabolic pathways .
+Thus while ChoKalpha1 impinges into both PC and PE synthesis , ChoKbeta affects only PE synthesis .
+Furthermore , the transformation capacity seems to be exclusive to the ChoKalpha isoform .
+However , since in the human HEK293T , Sk-Br-3 and H1299 cell lines , ChoKalpha1 overexpression produces elevated levels of both PCho and PEtn , while similar ChoKbeta overexpression results only in higher levels of PEtn but normal levels of PCho , we can not rule out the possibility that cell transformation requires both ChoK and EtnK activities .
+Consistent with the idea that links oncogenic activity to the function of ChoKalpha , but not ChoKbeta , the antiproliferative and antitumoral activity of MN58b was only associated to the activity of ChoKalpha .
+Furthermore , as previously reported , the in vivo treatment with MN58b results in a specific decrease of PCho levels in the tumours but no significant effect on the levels of PEtn  XREF_BIBR .
+Previous results from our group have demonstrated that MN58b also inhibits choline transport  XREF_BIBR .
+However this effect has a little influence in the antiproliferative and antitumoral activity of the drug since HC-3 , a much more potent inhibitor of choline transporters , is far less potent as an antiproliferative agent than MN58b  XREF_BIBR .
+Furthermore , MN58b has a differential effect on either normal or tumor cells , a strong demonstration of a differential activity due to ChoK inhibition  XREF_BIBR - XREF_BIBR .
+These results are also in keeping with the observation that ChoKalpha but not ChoKbeta is a downstream target of oncogenic molecules such as Ras and RhoA .
+Thus , while Ras activates ChoKalpha through Ral-GDS and PI3K  XREF_BIBR , and RhoA activates ChoKalpha through ROCK  XREF_BIBR , none of these oncogenic GTPases affect ChoKbeta activity under similar conditions .
+Again , these results indicate that although both ChoK enzymes are able to phosphorylate both choline and ethanolamine under cell-free systems conditions , they display different affinities for these substrates , and in whole-cell assays conditions they are governed by distinct regulatory pathways .
+Finally , the involvement of ChoKbeta in breast and lung cancer has been studied , ChoKalpha and beta mRNA levels were determined by Q-PCR .
+All tumour derived cell lines assayed significantly overexpress ChoKalpha mRNA , while no changes were found in the expression of ChoKbeta .
+Similar results have been recently reported , using semi-quantitative PCR in breast cancer cell lines  XREF_BIBR .
+In addition , it has been recently described that elevated mRNA levels of ChoKalpha is a poor prognostic factor in lung cancer  XREF_BIBR .
+These results suggest that ChoKalpha but not ChoKbeta is playing a crucial role in human carcinogenesis .
+The results shown here suggest that ChoKbeta and its produced metabolites are not implicated in human cell transformation .
+Therefore , all the efforts aimed at dilucidating the involvement of ChoK activity in the diagnosis , prognosis and treatment of cancer have to be focused in the ChoKalpha isoform .
+In keeping with this , recently the use of specific monoclonal anti-ChoKalpha antibodies has been proposed as a diagnostic tool in human cancer  XREF_BIBR .
+Furthermore , the newly designed antitumoral agents are expected to be more specific and hence less toxic than the actual drugs used in conventional chemotherapy .
+Due to the high structural homology displayed by both choline kinase proteins , the search for new anticancer agents based on their ability to interfere with ChoK activity , must exhibit stronger antiproliferative activity based on their specificity towards the ChoKalpha isoform .
+The lack of specific inhibition of ChoKbeta by these newly designed compounds represents a new feature to take into account for the chemical improvement of ChoKalpha inhibitors with potential antitumoral activity .
+Furthermore , non specific drugs affecting ChoKbeta may result in a muscular disease produced by the lack of cell membrane lipid reparation in muscle tissue .
+In addition , it has been recently demonstrated using a genetic approach that the specific inhibition of ChoKalpha by shRNA displays antiproliferative and antitumoral activity The high specificity of this technology provides definitive evidence of an antitumoral strategy based on ChoKalpha inhibition , supporting previous results with the pharmacological inhibitors .
+XREF_BIBR - XREF_BIBR          Thus , despite the high homology and similar activity displayed under cell-free conditions , ChoKalpha1 and ChoKbeta isoforms show a different substrate ability and behave very differently under in vivo conditions , suggesting that in human cells , ChoKbeta behaves as an EtnK and its overexpression is not able to induce higher intracellular levels of PCho .
+As a consequence , ChoKbeta has no effect on cell proliferation and does not contribute to oncogenic transformation .
+Finally , ChoKalpha but not ChoKbeta , should be used as the molecular target for the design of anticancer drugs aiming at interfering with choline kinase acitivity .
+Materials and Methods .
+Ethics statement .
+All animals were handled in strict accordance with good animal practice as defined by the Guidelines of the Spanish Government ( RD 223/1988 , March 14 th  and RD 1201/2005 October 10 th ) .
+The animal work has been conducted under the permission and supervision of the Consejo Superior de Investigaciones Cientificas ( CSIC ) Ethic Committee as approved in the context of the appropriate Research Project .
+Cell cultures and transfections .
+Cells were maintained under standard culture conditions of humidity ( 95 % ) , temperature ( 37degreesC ) and CO 2  ( 5 % ) .
+Human Embryonic Kidney ( HEK293T ) , human breast adenocarcinoma ( SK-Br-3 ) and Canine Kidney Madin-Darby ( MDCK ) cells were maintained in DMEM supplemented with 10 % FBS , human non small cell lung cancer cells H1299 were maintained in RPMI with 10 % FBS .
+HEK293T transfections were performed using calcium phosphate as previously described  XREF_BIBR .
+MDCK , SK-Br-3 and H1299 cells were transfected using lipofectamine reagent ( Invitrogen , CA ) following manufacturers recommendations .
+Eukaryotic expression vectors encoding for human ChoKalpha1 and beta1 isoforms were pCDNA3b ( Invitrogen , CA ) and pLPneo ( BD Biosciences Clontech , CA ) respectively , both empty vectors were used as controls but only pCDNA3b is usually represented ( data not shown ) .
+Constitutively activated expression pCDNA3b derivative vectors encoding for RhoA ( QL ) , Rac1 ( QL ) and Cdc42 ( QL ) have been previously described  XREF_BIBR .
+Expression vector encoding to the constitutive active form of H-Ras ( V12 ) have been previously described  XREF_BIBR .
+Choline kinase in vitro activity assays .
+Eukaryotic cell extracts activity assays were carried out as previously described  XREF_BIBR .
+Cell extracts were incubated for 30 min at 37degreesC in a buffer containing 100 mM Tris pH 8 , 10 mM MgCl 2  and 10 mM ATP and 200 microM ( 55 mCi and nmol , 2 microCi/ml ) of [ methyl- 14 C ] choline chloride ( Amersham Biosciences , UK ) for ChoK assay or 2-[ 14 C ]-ethan-1-ol-2-amine hydrochloride for EtnK assay ( Amersham Biosciences ) .
+For Michaelis-Menten kinetics assay , extracts of E. coli expressing human ChoKalpha1 or ChoKbeta1 were used .
+A time course reaction was performed for each substrate , the reaction was stopped each 2 minutes and a logarithmic scale was represented to obtain the Km .
+Specific ChoK inhibitor MN58b was kindly provided by TCD Pharma SL ( Madrid , Spain ) .
+Analysis of phosphocholine and phosphoethanolamine production in whole cells .
+HEK293T , SK-Br-3 and H1299 cells were transfected as described above .
+After transfection , cells were labelled to equilibrium adding 1 microCi/ml [ methyl- 14 C ] choline chloride or 1 microCi/ml 2-[ 14 C ]-ethan-1-ol-2-amine hydrochloride to the culture media for 24 h. Samples were resolved and quantified as previously described  XREF_BIBR .
+Briefly , cells were rinsed with PBS and fixed with 16 % ice-cold trichloroacetic acid ( TCA ) .
+TCA-soluble material containing choline and phosphocholine was washed three times with four volumes of diethyleter , dryed under vacuum and resuspended in water .
+Samples were resolved by Thin Layer Chromatography ( TLC ) on 60A Silica gel plates ( Whatman , NJ ) , using as liquid phase 0,9 % NaCl : methanol : ammonium hydroxide ( 50:70:5 ; v/v/v ) .
+Radioactivity was automatically quantified by an electronic radiography system ( Instantimager , CT ) .
+TCA insoluble material containing hydrophobic lipids was used as a loading control .
+The insoluble fraction was dissolved in 0,25 N sodium hydroxide and total lipids were analyzed by scintillation counting .
+Anti-choline kinase beta1 serum .
+Human ChoKbeta1 gene was cloned into a prokaryotic expression vector ( pGEX-4T3 ) ( GE healthcare , UK ) and expressed in DH5alpha Escherichia coli .
+Recombinant ChoKbeta1 was then purified by the GST system ( Amersham Bioscience ) following manufacturer 's recommendations .
+Purified ChoKbeta1 was mixed ( 1:1 ; v/v ) with Freund 's complete Adjuvant ( Sigma-Aldrich , MO ) and then injected i.m. into white rabbits ( 80 microg and rabbit ) .
+Booster injections were given every 2 weeks ( 60 microg and rabbit ) and the sample resuspended with Freund 's incomplete Adjuvant ( Sigma-Aldrich ) ( 1:1 ; v/v ) .
+Analysis of protein expression by Western blot .
+Equal amounts of cell lysates were resolved by electrophoresis in a 10 % SDS-PAGE .
+ChoKalpha expression levels were detected using monoclonal antibody AD3 as previously described  XREF_BIBR .
+ChoKbeta1 was detected using the polyclonal antiserum described above as primary antibody at a standard dilution of 1/5000 .
+GTPases antibodies : RhoA ( Santa Cruz Biotechnology , Germany ) , Rac1 ( Upstate , NY ) , pan-Ras ( Santa Cruz Biotechnology ) , Cdc42 ( BD Biosciences , transduction labs ) and GAPDH antibody ( Chemicon International , CA ) were used following manufacturers recommendations .
+HRP conjugated secondary antibodies were from Santa Cruz Biotechnology .
+The specific binding was detected using the chemioluminiscence detection kit ECL ( Amersham Bioscience ) following the manufacturer indications .
+Soft agar anchorage independent growth and in vivo tumorigenic assays .
+Anchorage independent growth assays were performed at 5-6 weeks of incubation in HEK293T and 6-10 weeks in MDCK , as previously described  XREF_BIBR , plating 10 5  cells per 60-mm dish .
+Crystal violet staining was performed to enhance colony contrast .
+The number of colonies was automatically quantified by computer based image software ( Image J ) .
+For the in vivo assays , cells were injected ( 10 6  cells per mouse flank ) s.c. in nu/nu athymic mice .
+Mice were kept under standard laboratory conditions according to the guidelines of Spanish Government .
+Quantitative PCR .
+ChoKalpha1 or beta1 mRNA levels were quantified by real-time reverse transcriptase PCR .
+The RNA was extracted from the cell lines using QIAshredder following the RNeasy Mini kit ( Qiagen , Inc. ) according to the manufacturer 's instructions .
+The amount of 0.9 microg of total RNA , in a final concentration of 10 ng/microl per reaction , was retro transcribed by High-Capacity cDNA Archive Kit ( Applied Biosystems ) to the cDNA preparation .
+The reverse transcription conditions were 25degreesC for 10 min and 37degreesC for 2 h. Then , each cDNA sample was analyzed in triplicate using the ABI PRISM 7700 Sequence Detector ( PE Applied Biosystems ) .
+Real-time PCR was carried out using Taqman Universal PCR Master Mix ( Applied Biosystems ) , containing ROX to normalize emissions .
+Primers used for amplification of ChoKalpha , ChoKbeta and 18S ribosomal RNA were purchased from Applied Biosystems as Taqman Gene Expression Assays ( ChoKalpha1 ID : Hs00608045_m1 , ChoKbeta1 ID : Hs01925200_s1 and 18S ribosomal RNA ID : Hs99999901_s1 ) .
+For thermal cycling , the following conditions were applied : 10 min at 95degreesC and 40 cycles of 15 sec at 95degreesC and 1 min at 60degreesC .
+The data are presented as Log 10  RQ ( Relative Quantity ) .
+Statistical analysis .
+Mean comparisons of ChoK activity or in-cell PCho increase between different groups were performed .
+Continuous variables with normal distribution were compared by T-test and non normal distribution variables were compared by means of the Kruskal Wallis and Mann-Whitney U tests .
+Statistical significance was defined as p < = 0.05 .
+The statistical analyses were performed using SPSS software , version 13.0 ( Inc , Chicago , Illinois ) .
+The method used to analyze data from real-time PCR experiments was 2 -DeltaDeltaCt  method  XREF_BIBR , comparing the relative gene expression between normal and tumoral cell lines normalized to 18S ribosomal RNA as endogenous reference gene .

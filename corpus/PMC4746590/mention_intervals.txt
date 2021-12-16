@@ -1,0 +1,273 @@
+0 7%7%tissue%uberon:UBERON:0000479
+1 22%22%human%taxonomy:9606
+2 28%28%tissue%uberon:UBERON:0000479
+3
+4
+5 20%20%tissue%uberon:UBERON:0000479
+6
+7
+8
+9
+10
+11
+12
+13
+14 31%31%breast%tissuelist:TS-0595
+15 11%12%ovarian_cancer%tissuelist:TS-1223
+16
+17 18%18%tissue%uberon:UBERON:0000479
+18 7%7%tissue%uberon:UBERON:0000479
+19
+20 23%23%tissue%uberon:UBERON:0000479
+21
+22 34%34%tissue%uberon:UBERON:0000479
+23
+24
+25
+26 9%9%tissue%uberon:UBERON:0000479 17%17%UV%cellosaurus:CVCL_2614 27%28%skin_cancer%tissuelist:TS-1227
+27 25%25%tissue%uberon:UBERON:0000479
+28 17%17%tissue%uberon:UBERON:0000479
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45 5%5%tissue%uberon:UBERON:0000479
+46 18%18%human%taxonomy:9606
+47
+48 20%20%Fisher%taxonomy:76720
+49 10%10%tissue%uberon:UBERON:0000479
+50
+51 21%21%tissue%uberon:UBERON:0000479
+52
+53
+54 4%4%tissue%uberon:UBERON:0000479
+55 20%20%tissue%uberon:UBERON:0000479
+56 26%26%tissue%uberon:UBERON:0000479 36%37%breast_cancer%tissuelist:TS-0591
+57 22%23%endometrial_cancer%tissuelist:TS-1222 33%33%myometrium%tissuelist:TS-0652 35%36%colon_cancer%tissuelist:TS-0160 44%44%ileum%tissuelist:TS-0472
+58
+59
+60 26%26%glioblastoma%tissuelist:TS-0417 34%34%brain%tissuelist:TS-0095 37%38%endometrial_cancer%tissuelist:TS-1222 43%43%uterus%tissuelist:TS-1102 45%45%bladder%tissuelist:TS-1090 50%50%bladder%tissuelist:TS-1090
+61 24%24%tissue%uberon:UBERON:0000479
+62 25%25%tissue%uberon:UBERON:0000479
+63
+64
+65 20%20%GO%cellosaurus:CVCL_M648
+66 8%8%GO%cellosaurus:CVCL_M648
+67 13%13%membrane%go:GO:0016020
+68
+69
+70 14%14%tissue%uberon:UBERON:0000479
+71 24%24%GO%cellosaurus:CVCL_M648
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81 6%6%GO%cellosaurus:CVCL_M648
+82
+83 10%10%GO%cellosaurus:CVCL_M648
+84
+85
+86
+87 20%20%test%uberon:UBERON:0006611
+88 16%16%lymphoma%tissuelist:TS-0585 29%29%lymphoma%tissuelist:TS-0585
+89 25%26%breast_cancer%tissuelist:TS-0591
+90
+91
+92 5%5%host%go:GO:0018995
+93
+94
+95
+96
+97 53%53%test%uberon:UBERON:0006611
+98 44%44%GO%cellosaurus:CVCL_M648
+99
+100
+101
+102
+103
+104
+105
+106
+107 20%21%Skin_cancer%tissuelist:TS-1227 37%37%Fisher%taxonomy:76720 38%38%test%uberon:UBERON:0006611
+108 8%9%skin_cancer%tissuelist:TS-1227 14%14%UV%cellosaurus:CVCL_2614
+109
+110
+111 12%12%skin%tissuelist:TS-0934
+112 0%0%Colon%tissuelist:TS-0158 20%20%Fisher%taxonomy:76720 21%21%test%uberon:UBERON:0006611
+113 22%22%colon%tissuelist:TS-0158
+114 0%0%Breast%tissuelist:TS-0595 2%2%leukemia%tissuelist:TS-0547 4%4%lung%tissuelist:TS-0568 7%7%lymphoma%tissuelist:TS-0585
+115
+116 7%8%T_cell%tissuelist:TS-1001 20%22%mature_B_cells%uaz:CL:0000785
+117 8%9%T_cells%uaz:CL:0000084 23%23%leukemia%tissuelist:TS-0547 25%25%lymphoma%tissuelist:TS-0585
+118
+119
+120
+121
+122 9%10%breast_cancer%tissuelist:TS-0591
+123 4%4%tobacco%taxonomy:4097
+124 4%4%lung%tissuelist:TS-0568 12%12%tobacco%taxonomy:4097 19%20%lung_cancer%tissuelist:TS-0571
+125 0%0%Brain%tissuelist:TS-0095 2%2%kidney%tissuelist:TS-0510 4%4%ovary%tissuelist:TS-0730 7%7%uterus%tissuelist:TS-1102
+126 28%29%breast_cancer%tissuelist:TS-0591 35%36%ovary_cancer%tissuelist:TS-1223 45%45%breast%tissuelist:TS-0595
+127 12%12%tissue%uberon:UBERON:0000479 16%17%colon_cancer%tissuelist:TS-0160 22%22%leukemia%tissuelist:TS-0547 26%26%lymphocytes%uaz:CL:0000542
+128 5%6%skin_cancer%tissuelist:TS-1227 27%27%UV%cellosaurus:CVCL_2614 29%29%skin%tissuelist:TS-0934
+129
+130
+131
+132
+133 11%11%tissue%uberon:UBERON:0000479
+134
+135
+136 23%23%test%uberon:UBERON:0006611 36%36%tissue%uberon:UBERON:0000479
+137
+138 48%48%tobacco%taxonomy:4097
+139 3%3%tissue%uberon:UBERON:0000479
+140 11%12%immune_system%uberon:UBERON:0002405
+141
+142 39%39%test%uberon:UBERON:0006611
+143
+144 15%19%integral_component_of_plasma_membrane%go:GO:0005887
+145 29%30%plasma_membrane%go:GO:0005886
+146 31%32%host_cell%go:GO:0043657
+147 4%5%target_cells%uniprot:SL-0487 8%8%membrane%go:GO:0016020 16%17%host_cell%go:GO:0043657 26%27%host_cells%go:GO:0043657
+148
+149 3%3%host%go:GO:0018995 41%41%test%uberon:UBERON:0006611
+150
+151
+152 20%21%Epstein-Barr_virus%taxonomy:10376 26%27%human_papillomavirus%taxonomy:10566 35%37%human_immunodeficiency_virus%taxonomy:12721 39%39%HIV%taxonomy:12721
+153 26%27%B_cells%uaz:CL:0000236 29%30%epithelial_cells%uaz:CL:0000066
+154 8%8%leukemia%tissuelist:TS-0547
+155 5%6%cervix_cancer%tissuelist:TS-1221 20%20%breast%tissuelist:TS-0595
+156 0%0%HIV%taxonomy:12721 2%3%immune_system%uberon:UBERON:0002405 6%7%T_cells%uaz:CL:0000084 9%9%macrophages%uaz:CL:0000235 12%13%dendritic_cells%uaz:CL:0000451
+157 6%6%HIV%taxonomy:12721 15%15%lymphoma%tissuelist:TS-0585 18%19%cervical_cancer%tissuelist:TS-1221
+158 10%10%human%taxonomy:9606 11%11%host%go:GO:0018995
+159 65%66%hematopoietic_system%uberon:UBERON:0002390
+160 2%2%leukemia%tissuelist:TS-0547 4%4%lymphoma%tissuelist:TS-0585
+161 3%3%uterus%tissuelist:TS-1102 10%10%HIV%taxonomy:12721
+162 6%7%cervical_cancer%tissuelist:TS-1221
+163 9%9%bladder%tissuelist:TS-1090 11%11%breast%tissuelist:TS-0595 14%15%ovarian_cancer%tissuelist:TS-1223
+164 11%11%HIV%taxonomy:12721 14%15%colon_cancer%tissuelist:TS-0160 21%21%HIV%taxonomy:12721
+165 6%6%HIV%taxonomy:12721
+166 24%24%HIV%taxonomy:12721
+167
+168 11%11%scale%tissuelist:TS-0895
+169 19%19%scale%tissuelist:TS-0895
+170 2%2%HIV%taxonomy:12721 10%10%HIV%taxonomy:12721
+171 5%5%scale%tissuelist:TS-0895
+172
+173
+174
+175
+176 14%14%bladder%tissuelist:TS-1090 17%18%breast_cancer%tissuelist:TS-0591 20%21%colorectal_cancer%tissuelist:TS-0160 23%24%endometrial_cancer%tissuelist:TS-1222 26%26%kidney%tissuelist:TS-0510 29%29%carcinoma%tissuelist:TS-0114 31%32%lung_adenocarcinoma%tissuelist:TS-0569 35%35%melanoma%tissuelist:TS-0614
+177 15%15%test%uberon:UBERON:0006611
+178
+179 25%25%tissue%uberon:UBERON:0000479 36%37%breast_cancer%tissuelist:TS-0591 49%50%colorectal_cancer%tissuelist:TS-0160 63%64%lung_cancer%tissuelist:TS-0571
+180 12%13%lung_adenocarcinoma%tissuelist:TS-0569
+181
+182 18%19%lung_cancer%tissuelist:TS-0571 29%29%Fisher%taxonomy:76720 30%30%test%uberon:UBERON:0006611
+183
+184 23%24%lung_cancer%tissuelist:TS-0571
+185 12%13%breast_cancer%tissuelist:TS-0591 28%29%breast_cancer%tissuelist:TS-0591 32%32%breast%tissuelist:TS-0595
+186 11%12%breast_cancer%tissuelist:TS-0591 27%27%breast%tissuelist:TS-0595
+187 19%19%scale%tissuelist:TS-0895
+188
+189
+190 19%19%tissue%uberon:UBERON:0000479
+191
+192
+193
+194 26%26%tissue%uberon:UBERON:0000479 60%60%tissue%uberon:UBERON:0000479
+195 5%5%scale%tissuelist:TS-0895
+196 7%7%time%cellosaurus:CVCL_0047
+197
+198 11%12%colon_cancer%tissuelist:TS-0160 29%29%colon%tissuelist:TS-0158 30%31%crypt_cells%uaz:CL:0000849
+199 31%31%tissue%uberon:UBERON:0000479
+200 32%32%tissue%uberon:UBERON:0000479 47%47%tissue%uberon:UBERON:0000479
+201
+202
+203
+204
+205
+206 6%6%tissue%uberon:UBERON:0000479
+207 21%21%skin%tissuelist:TS-0934 26%27%skin_cancer%tissuelist:TS-1227 33%33%UV%cellosaurus:CVCL_2614
+208 16%16%tissue%uberon:UBERON:0000479
+209 20%22%intestinal_epithelial_cells%uaz:CL:0002563
+210 14%14%tissue%uberon:UBERON:0000479
+211
+212
+213
+214 6%6%host%go:GO:0018995 9%9%membrane%go:GO:0016020 39%39%HIV%taxonomy:12721 42%43%T_cells%uaz:CL:0000084 52%53%viral_envelope%go:GO:0019031
+215 7%7%membrane%go:GO:0016020
+216
+217
+218
+219 14%14%tissue%uberon:UBERON:0000479 35%35%tissue%uberon:UBERON:0000479 45%45%tissue%uberon:UBERON:0000479
+220
+221 12%13%lung_cancer%tissuelist:TS-0571
+222
+223 8%8%scale%tissuelist:TS-0895
+224
+225 4%4%test%uberon:UBERON:0006611
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235 32%32%patient%taxonomy:9606
+236
+237
+238 22%22%scale%tissuelist:TS-0895
+239 3%3%time%cellosaurus:CVCL_0047 29%29%human%taxonomy:9606
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249 7%7%tissue%uberon:UBERON:0000479
+250 12%12%tissue%uberon:UBERON:0000479 19%19%melanoma%tissuelist:TS-0614 21%21%skin%tissuelist:TS-0934 22%23%basal_cell%uaz:CL:0000646 26%26%skin%tissuelist:TS-0934 27%28%squamous_cell%tissuelist:TS-1249
+251
+252
+253
+254 20%20%GO%cellosaurus:CVCL_M648
+255
+256 14%14%GO%cellosaurus:CVCL_M648
+257 7%7%GO%cellosaurus:CVCL_M648
+258
+259 13%13%GO%cellosaurus:CVCL_M648 16%16%GO%cellosaurus:CVCL_M648 23%23%GO%cellosaurus:CVCL_M648
+260 15%15%GO%cellosaurus:CVCL_M648
+261
+262
+263
+264
+265
+266
+267
+268
+269 21%21%tissue%uberon:UBERON:0000479
+270
+271
+272
